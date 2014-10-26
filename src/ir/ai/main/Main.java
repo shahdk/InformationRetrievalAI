@@ -27,7 +27,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Map<String, ArrayList<DocObject>> result = new HashMap<>();
-
+		
 		//BM25
 		BM25 bm25 = new BM25(keywords, corpus);
 		result = bm25.getResults();

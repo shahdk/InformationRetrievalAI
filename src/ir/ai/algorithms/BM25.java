@@ -6,9 +6,11 @@ import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class BM25 {
@@ -39,12 +41,30 @@ public class BM25 {
 			try {
 				String content = new String(Files.readAllBytes(Paths.get(file
 						.getAbsolutePath())));
+				content = content.replaceAll("[,]", "");
+				content = content.replaceAll("[^a-zA-Z0-9']", "-");
+				content = content.replaceAll("-", " ");
 				String[] words = content.split(" ");
+				
+				List<String> list = new ArrayList<String>(Arrays.asList(words));
+				list.removeAll(Arrays.asList(null,""));
+				
+				content = "";
+				int i=0;
+				for (i=0; i<list.size()-1; i++){
+					content += (list.get(i).toLowerCase() + " ");
+				}
+				content += list.get(i);
+				
+				words = content.split(" ");
+				
 				sum += words.length;
+				
 				DocObject doc = new DocObject(file.getName());
 				doc.setLength(words.length);
 				doc.setContent(content);
 				this.docList.add(doc);
+				
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -57,7 +77,6 @@ public class BM25 {
 			if (d.getName().equals(name))
 				return d;
 		}
-		System.out.println(name);
 		return null;
 	}
 	
