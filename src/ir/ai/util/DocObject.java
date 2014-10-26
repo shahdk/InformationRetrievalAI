@@ -3,10 +3,21 @@ package ir.ai.util;
 public class DocObject implements Comparable<DocObject> {
 	private String name;
 	private double score;
+	private double length;
+	private String content;
 	
-	public DocObject(String name, double score){
+	public DocObject(String name){
 		this.name = name;
-		this.score = score;
+		this.score = 0.0;
+		this.length = 0.0;
+	}
+	
+	public double getLength(){
+		return this.length;
+	}
+	
+	public void setLength(double len){
+		this.length = len;
 	}
 	
 	public String getName() {
@@ -25,6 +36,14 @@ public class DocObject implements Comparable<DocObject> {
 	@Override
 	public int compareTo(DocObject o) {
 		return (int)(o.getScore() - this.getScore());
+	}
+
+	public String getContent() {
+		return content;
+	}
+
+	public void setContent(String content) {
+		this.content = content;
 	}
 	
 	

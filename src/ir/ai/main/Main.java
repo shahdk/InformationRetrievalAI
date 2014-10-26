@@ -35,29 +35,29 @@ public class Main {
 		printResult(result);
 		
 		
-		//Skip Bi Grams
-		System.out.println("Skip Bi-grams");
-		SkipBiGram skipBiGram = new SkipBiGram(keywords, corpus);
-		result = skipBiGram.getResults();
-		printResult(result);
-		
-		//N-grams
-		System.out.println("N-grams");
-		NGram nGram = new NGram(keywords, corpus);
-		result = nGram.getResults();
-		printResult(result);
-		
-		//Passage term matching
-		System.out.println("Passage Term Matching");
-		PassageTermMatching passageTermMatching = new PassageTermMatching(keywords, corpus);
-		result = passageTermMatching.getResults();
-		printResult(result);
-		
-		//Textual alignment
-		System.out.println("Textual Alignment");
-		TextualAlignment textualAlignment = new TextualAlignment(keywords, corpus);
-		result = textualAlignment.getResults();
-		printResult(result);
+//		//Skip Bi Grams
+//		System.out.println("Skip Bi-grams");
+//		SkipBiGram skipBiGram = new SkipBiGram(keywords, corpus);
+//		result = skipBiGram.getResults();
+//		printResult(result);
+//		
+//		//N-grams
+//		System.out.println("N-grams");
+//		NGram nGram = new NGram(keywords, corpus);
+//		result = nGram.getResults();
+//		printResult(result);
+//		
+//		//Passage term matching
+//		System.out.println("Passage Term Matching");
+//		PassageTermMatching passageTermMatching = new PassageTermMatching(keywords, corpus);
+//		result = passageTermMatching.getResults();
+//		printResult(result);
+//		
+//		//Textual alignment
+//		System.out.println("Textual Alignment");
+//		TextualAlignment textualAlignment = new TextualAlignment(keywords, corpus);
+//		result = textualAlignment.getResults();
+//		printResult(result);
 	}
 
 }
