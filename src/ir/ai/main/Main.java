@@ -5,63 +5,73 @@ import java.util.HashMap;
 import java.util.Map;
 
 import ir.ai.algorithms.*;
+import ir.ai.gui.DisplayTable;
+import ir.ai.gui.FileChooser;
 import ir.ai.util.DocObject;
 import ir.ai.util.DocParser;
 
 public class Main {
 
-	private static String[] keywords = new String[] { "Adams", "Lincoln", "president",
+	private String[] keywords = new String[] { "Adams", "Lincoln", "president",
 			"assassinated president", "great president", "first president",
 			"civil war president", "youngest", "watergate" };
 	
-	private static String corpus = "Presidents";
-	
-	private static void printResult(Map<String, ArrayList<DocObject>> result){
-		for (String keyword: result.keySet()){
-			System.out.println("\t"+keyword+" :");
+	private void printResult(Map<String, ArrayList<DocObject>> result, String algorithm){
+		
+		String[][] tableValues = new String[20][this.keywords.length];
+
+		for (int j=0; j<this.keywords.length; j++){
+			int i=0;
+			String keyword = this.keywords[j].toLowerCase();
 			for (DocObject document: result.get(keyword)){
-				System.out.println("\t\t"+document.getName());
+				tableValues[i][j] = document.getName();
+				i++;
+				tableValues[i][j] = "";
+				i++;
 			}
 		}
+		
+		DisplayTable table = new DisplayTable(tableValues, algorithm, this.keywords);
+		table.setVisible(true);
+	}
+	
+	public void runAlgorithmFor(String algorithm, String corpus){
+		Map<String, ArrayList<DocObject>> result = new HashMap<>();
+		DocParser parser = new DocParser();
+		ArrayList<DocObject> docList = parser.getDocList(corpus);
+		
+		switch(algorithm.toLowerCase()){
+		case "bm25":
+			BM25 bm25 = new BM25(keywords, docList);
+			result = bm25.getResults();
+			break;
+		case "skip bi-grams":
+			SkipBiGram skipBiGram = new SkipBiGram(keywords, docList);
+			result = skipBiGram.getResults();
+			break;
+		case "n-grams":
+			NGram nGram = new NGram(keywords, docList);
+			result = nGram.getResults();
+			break;
+		case "passage term matching":
+			PassageTermMatching passageTermMatching = new PassageTermMatching(keywords, docList);
+			result = passageTermMatching.getResults();
+			break;
+		case "textual alignment":
+			TextualAlignment textualAlignment = new TextualAlignment(keywords, docList);
+			result = textualAlignment.getResults();
+			break;
+		default:
+			System.out.println("Unknown Algorithm");
+			break;
+		}
+		printResult(result, algorithm);
 	}
 
 	public static void main(String[] args) {
 		
-		Map<String, ArrayList<DocObject>> result = new HashMap<>();
-		
-		DocParser parser = new DocParser();
-		ArrayList<DocObject> docList = parser.getDocList(corpus);
-		
-		//BM25
-		BM25 bm25 = new BM25(keywords, docList);
-		result = bm25.getResults();
-		System.out.println("BM25");
-		printResult(result);
-		
-		
-//		//Skip Bi Grams
-//		System.out.println("Skip Bi-grams");
-//		SkipBiGram skipBiGram = new SkipBiGram(keywords, corpus);
-//		result = skipBiGram.getResults();
-//		printResult(result);
-//		
-//		//N-grams
-//		System.out.println("N-grams");
-//		NGram nGram = new NGram(keywords, corpus);
-//		result = nGram.getResults();
-//		printResult(result);
-//		
-//		//Passage term matching
-//		System.out.println("Passage Term Matching");
-//		PassageTermMatching passageTermMatching = new PassageTermMatching(keywords, corpus);
-//		result = passageTermMatching.getResults();
-//		printResult(result);
-//		
-//		//Textual alignment
-//		System.out.println("Textual Alignment");
-//		TextualAlignment textualAlignment = new TextualAlignment(keywords, corpus);
-//		result = textualAlignment.getResults();
-//		printResult(result);
+		FileChooser fc = new FileChooser(new Main());
+		fc.setVisible(true);
 	}
 
 }

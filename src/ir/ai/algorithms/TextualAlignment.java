@@ -9,11 +9,11 @@ import java.util.Map;
 public class TextualAlignment {
 
 	private String[] keywords;
-	private String corpus;
+	private ArrayList<DocObject> docList;
 	
-	public TextualAlignment(String[] keywords, String corpus){
+	public TextualAlignment(String[] keywords, ArrayList<DocObject> docList){
 		this.keywords = keywords;
-		this.corpus = corpus;
+		this.docList = docList;
 	}
 	
 	public Map<String, ArrayList<DocObject>> getResults() {

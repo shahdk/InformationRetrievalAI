@@ -9,11 +9,11 @@ import java.util.Map;
 public class PassageTermMatching {
 
 	private String[] keywords;
-	private String corpus;
+	private ArrayList<DocObject> docList;
 	
-	public PassageTermMatching(String[] keywords, String corpus){
+	public PassageTermMatching(String[] keywords, ArrayList<DocObject> docList){
 		this.keywords = keywords;
-		this.corpus = corpus;
+		this.docList = docList;
 	}
 	
 	public Map<String, ArrayList<DocObject>> getResults() {
