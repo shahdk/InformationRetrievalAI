@@ -1,16 +1,10 @@
 package ir.ai.algorithms;
 
 import ir.ai.util.DocObject;
-
-import java.io.File;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class BM25 {
@@ -20,51 +14,20 @@ public class BM25 {
 	private double numOfFiles = 0;
 	private double avgLength = 0.0;
 	private String[] keywords;
-	private File[] files;
 	private ArrayList<DocObject> docList;
 
-	public BM25(String[] keywords, String corpus) {
+	public BM25(String[] keywords, ArrayList<DocObject> docList) {
 		this.keywords = keywords;
-		this.docList = new ArrayList<>();
-		setNumOfFiles(corpus);
+		this.docList = docList;
+		this.numOfFiles = docList.size();
 		setAverageDocumentLength();
-	}
-
-	public void setNumOfFiles(String path) {
-		this.files = new File(path).listFiles();
-		this.numOfFiles = this.files.length;
 	}
 
 	public void setAverageDocumentLength() {
 		double sum = 0;
-		for (File file : this.files) {
+		for (DocObject doc : this.docList) {
 			try {
-				String content = new String(Files.readAllBytes(Paths.get(file
-						.getAbsolutePath())));
-				content = content.replaceAll("[,]", "");
-				content = content.replaceAll("[^a-zA-Z0-9']", "-");
-				content = content.replaceAll("-", " ");
-				String[] words = content.split(" ");
-				
-				List<String> list = new ArrayList<String>(Arrays.asList(words));
-				list.removeAll(Arrays.asList(null,""));
-				
-				content = "";
-				int i=0;
-				for (i=0; i<list.size()-1; i++){
-					content += (list.get(i).toLowerCase() + " ");
-				}
-				content += list.get(i);
-				
-				words = content.split(" ");
-				
-				sum += words.length;
-				
-				DocObject doc = new DocObject(file.getName());
-				doc.setLength(words.length);
-				doc.setContent(content);
-				this.docList.add(doc);
-				
+				sum += doc.getLength();
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -88,10 +51,10 @@ public class BM25 {
 		}
 	}
 
-	public double termFrequency(String term, String document) {
+	public double termFrequency(String term, DocObject doc) {
 		double frequency = 0;
 		try {
-			String content = this.getDoc(document).getContent();
+			String content = doc.getContent();
 			String[] words = content.split(" ");
 			for (int i = 0; i < words.length; i++) {
 				term = term.toLowerCase();
@@ -108,9 +71,9 @@ public class BM25 {
 
 	public double idf(String term, DocObject doc) {
 		int containingDoc = 0;
-		for (File file : this.files) {
+		for (DocObject document : this.docList) {
 			try {
-				String content = this.getDoc(file.getName()).getContent();
+				String content = document.getContent();
 				String[] words = content.split(" ");
 				for (String word : words) {
 					if (term.toLowerCase().equals(word.toLowerCase())) {
@@ -134,9 +97,8 @@ public class BM25 {
 				keyword = keyword.toLowerCase();
 				String[] words = keyword.split(" ");
 				
-				for (File file : this.files) {
-					String document = file.getName();
-					calculateScore(words, document);
+				for (DocObject doc : this.docList) {
+					calculateScore(words, doc);
 				}
 				
 				result.put(keyword, retrieveTop10Documents());
@@ -168,12 +130,11 @@ public class BM25 {
 		return top10;
 	}
 
-	private void calculateScore(String[] words, String document) {
+	private void calculateScore(String[] words, DocObject doc) {
 		double score = 0.0;
-		DocObject doc = this.getDoc(document);
 		for (String term : words) {
 			double inverseDocumentFrequency = this.idf(term, doc);
-			double frequency = this.termFrequency(term, document);
+			double frequency = this.termFrequency(term, doc);
 			double numerator = frequency * (this.k1 + 1);
 			double denominator = frequency
 					+ (this.k1 * (1 - this.b + (this.b * doc.getLength() / this.avgLength)));

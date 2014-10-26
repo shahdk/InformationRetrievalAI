@@ -6,6 +6,7 @@ import java.util.Map;
 
 import ir.ai.algorithms.*;
 import ir.ai.util.DocObject;
+import ir.ai.util.DocParser;
 
 public class Main {
 
@@ -28,8 +29,11 @@ public class Main {
 		
 		Map<String, ArrayList<DocObject>> result = new HashMap<>();
 		
+		DocParser parser = new DocParser();
+		ArrayList<DocObject> docList = parser.getDocList(corpus);
+		
 		//BM25
-		BM25 bm25 = new BM25(keywords, corpus);
+		BM25 bm25 = new BM25(keywords, docList);
 		result = bm25.getResults();
 		System.out.println("BM25");
 		printResult(result);
