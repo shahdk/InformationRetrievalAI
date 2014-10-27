@@ -15,10 +15,12 @@ public class BM25 {
 	private double avgLength = 0.0;
 	private String[] keywords;
 	private ArrayList<DocObject> docList;
+	private Map<String, Integer> docFrequencyMap;
 
-	public BM25(String[] keywords, ArrayList<DocObject> docList) {
+	public BM25(String[] keywords, ArrayList<DocObject> docList, Map<String, Integer> docFrequencyMap) {
 		this.keywords = keywords;
 		this.docList = docList;
+		this.docFrequencyMap = docFrequencyMap;
 		this.numOfFiles = docList.size();
 		setAverageDocumentLength();
 	}
@@ -70,21 +72,7 @@ public class BM25 {
 	}
 
 	public double idf(String term, DocObject doc) {
-		int containingDoc = 0;
-		for (DocObject document : this.docList) {
-			try {
-				String content = document.getContent();
-				String[] words = content.split(" ");
-				for (String word : words) {
-					if (term.toLowerCase().equals(word.toLowerCase())) {
-						containingDoc++;
-						break;
-					}
-				}
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-		}
+		int containingDoc = this.docFrequencyMap.get(term);
 		double numerator = this.numOfFiles - containingDoc + 0.5;
 		double denominator = containingDoc + 0.5;
 		return Math.log(numerator / denominator);

@@ -5,6 +5,7 @@ public class DocObject implements Comparable<DocObject> {
 	private double score;
 	private double length;
 	private String content;
+	private String[] contentArray;
 
 	public DocObject(String name) {
 		this.name = name;
@@ -46,6 +47,11 @@ public class DocObject implements Comparable<DocObject> {
 	}
 
 	public void setContent(String content) {
-		this.content = content;
+		this.content = content.toLowerCase();
+		this.contentArray = this.content.split(" ");
+	}
+	
+	public String[] getContentArray(){
+		return this.contentArray;
 	}
 }

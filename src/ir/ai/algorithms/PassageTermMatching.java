@@ -12,10 +12,12 @@ public class PassageTermMatching {
 	private String[] keywords;
 	private ArrayList<DocObject> docList;
 	private double numOfFiles = 0;
+	private Map<String, Integer> docFrequencyMap;
 
-	public PassageTermMatching(String[] keywords, ArrayList<DocObject> docList) {
+	public PassageTermMatching(String[] keywords, ArrayList<DocObject> docList, Map<String, Integer> docFrequencyMap) {
 		this.keywords = keywords;
 		this.docList = docList;
+		this.docFrequencyMap = docFrequencyMap;
 		this.numOfFiles = docList.size();
 	}
 
@@ -51,21 +53,7 @@ public class PassageTermMatching {
 	}
 
 	public double idf(String term, DocObject doc) {
-		int containingDoc = 0;
-		for (DocObject document : this.docList) {
-			try {
-				String content = document.getContent();
-				String[] words = content.split(" ");
-				for (String word : words) {
-					if (term.toLowerCase().equals(word.toLowerCase())) {
-						containingDoc++;
-						break;
-					}
-				}
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-		}
+		int containingDoc = this.docFrequencyMap.get(term);
 		double denominator = containingDoc + 1.0;
 		return Math.log(this.numOfFiles / denominator);
 	}

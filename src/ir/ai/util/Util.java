@@ -1,8 +1,11 @@
 package ir.ai.util;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Util {
 
@@ -30,5 +33,45 @@ public class Util {
 			i++;
 		}
 		return top10;
+	}
+	
+	public static Map<String, Integer> retrieveDocFrequency(ArrayList<DocObject> docList){
+		Map<String, Integer> docFrequencyMap = new HashMap<>();
+		int counter = 1;
+		for (DocObject doc: docList){
+			String[] content = doc.getContentArray();
+			Arrays.sort(content);
+			String[] words = removeDuplicates(content);
+			for (String word: words){
+				if (!docFrequencyMap.containsKey(word))
+					docFrequencyMap.put(word, counter);
+				else {
+					counter = docFrequencyMap.get(word);
+					docFrequencyMap.put(word, counter+1);
+				}
+			}
+		}
+		
+		return docFrequencyMap;
+	}
+	
+	public static String[] removeDuplicates(String[] original) {
+		if (original.length < 2)
+			return original;
+	 
+		int j = 0;
+		int i = 1;
+	 
+		while (i < original.length) {
+			if (original[i].equals(original[j])) {
+				i++;
+			} else {
+				j++;
+				original[j] = original[i];
+				i++;
+			}
+		}
+	 
+		return Arrays.copyOf(original, j + 1);
 	}
 }

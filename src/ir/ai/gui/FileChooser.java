@@ -23,22 +23,26 @@ public class FileChooser extends JFrame implements ActionListener {
 
 	private JButton inputButton;
 	private JButton runButton;
+	private JButton runAllButton;
 	
 	private Main mainClass;
+	private String[] algorithms = new String[]{"BM25", "Skip Bi-Grams", "N-Grams", "Passage Term Matching", "Textual Alignment"};
 
 	public FileChooser(Main mainClass) {
 		super("AI - Information Retrieval");
-		setSize(350, 200);
+		setSize(350, 250);
+		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.mainClass = mainClass;
 		this.initComponents();
 
-		this.setLayout(new GridLayout(4, 1));
+		this.setLayout(new GridLayout(5, 1));
 		
 		this.add(this.comboPanel, 0);
 		this.add(this.inputFileLabel, 1);
 		this.add(this.inputPanel, 2);
 		this.add(this.runButton, 3);
+		this.add(this.runAllButton, 4);
 	}
 
 	public void initComponents() {
@@ -54,17 +58,17 @@ public class FileChooser extends JFrame implements ActionListener {
 		this.inputTextField.setSize(20, 130);
 		
 		this.algorithmCombo = new JComboBox<String>();
-		this.algorithmCombo.addItem("BM25");
-		this.algorithmCombo.addItem("Skip Bi-grams");
-		this.algorithmCombo.addItem("N-grams");
-		this.algorithmCombo.addItem("Passage Term Matching");
-		this.algorithmCombo.addItem("Textual Alignment");
+		for (String algorithm: algorithms){
+			this.algorithmCombo.addItem(algorithm);
+		}
 
 		this.inputButton = new JButton("Browse..");
 		this.runButton = new JButton("Hit it!");
+		this.runAllButton = new JButton("Gotta Run'em All");
 		this.inputButton.setSize(20, 50);
 		this.inputButton.addActionListener(this);
 		this.runButton.addActionListener(this);
+		this.runAllButton.addActionListener(this);
 
 		this.inputPanel.add(this.inputTextField, BorderLayout.CENTER);
 		this.inputPanel.add(this.inputButton, BorderLayout.EAST);
@@ -84,6 +88,12 @@ public class FileChooser extends JFrame implements ActionListener {
 			String selectedAlgorithm = this.algorithmCombo.getSelectedItem().toString();
 			this.mainClass.runAlgorithmFor(selectedAlgorithm, this.inputTextField.getText());
 			this.runButton.setText("Hit It!");
+		} else {
+			for (String algorithm: algorithms){
+				this.runButton.setText("Please wait ...");
+				this.mainClass.runAlgorithmFor(algorithm, this.inputTextField.getText());
+				this.runButton.setText("Hit It!");
+			}
 		}
 	}
 

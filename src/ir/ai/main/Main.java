@@ -12,6 +12,7 @@ import ir.ai.gui.DisplayTable;
 import ir.ai.gui.FileChooser;
 import ir.ai.util.DocObject;
 import ir.ai.util.DocParser;
+import ir.ai.util.Util;
 
 public class Main {
 
@@ -46,10 +47,11 @@ public class Main {
 		Map<String, ArrayList<DocObject>> result = new HashMap<>();
 		DocParser parser = new DocParser();
 		ArrayList<DocObject> docList = parser.getDocList(corpus);
+		Map<String, Integer> docFrequencyMap = Util.retrieveDocFrequency(docList);
 		
 		switch(algorithm.toLowerCase()){
 		case "bm25":
-			BM25 bm25 = new BM25(keywords, docList);
+			BM25 bm25 = new BM25(keywords, docList, docFrequencyMap);
 			result = bm25.getResults();
 			break;
 		case "skip bi-grams":
@@ -61,11 +63,11 @@ public class Main {
 			result = nGram.getResults();
 			break;
 		case "passage term matching":
-			PassageTermMatching passageTermMatching = new PassageTermMatching(keywords, docList);
+			PassageTermMatching passageTermMatching = new PassageTermMatching(keywords, docList, docFrequencyMap);
 			result = passageTermMatching.getResults();
 			break;
 		case "textual alignment":
-			TextualAlignment textualAlignment = new TextualAlignment(keywords, docList);
+			TextualAlignment textualAlignment = new TextualAlignment(keywords, docList, docFrequencyMap);
 			result = textualAlignment.getResults();
 			break;
 		default:
@@ -79,12 +81,13 @@ public class Main {
 		
 		try {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+			UIManager.put("Table.background", Color.BLACK);
+			UIManager.put("Table.foreground", Color.WHITE);
 			UIManager.put("Table.alternateRowColor", Color.GRAY);
 	    } 
 	    catch (Exception e) {
 	    	e.printStackTrace();
 	    }
-	    
 		
 		FileChooser fc = new FileChooser(new Main());
 		fc.setVisible(true);
