@@ -21,7 +21,12 @@ public class Util {
 		ArrayList<DocObject> top10 = new ArrayList<>();
 		int i = 0;
 		while (i<=9){
-			top10.add(docList.get(i));
+			DocObject cloned = docList.get(i);
+			DocObject newObj = new DocObject(cloned.getName());
+			newObj.setContent(cloned.getContent());
+			newObj.setLength(cloned.getLength());
+			newObj.setScore(cloned.getScore());
+			top10.add(newObj);
 			i++;
 		}
 		return top10;

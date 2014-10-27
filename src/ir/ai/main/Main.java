@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+import javax.swing.UIManager;
 import ir.ai.algorithms.*;
 import ir.ai.gui.DisplayTable;
 import ir.ai.gui.FileChooser;
@@ -19,23 +20,27 @@ public class Main {
 	private void printResult(Map<String, ArrayList<DocObject>> result, String algorithm){
 		
 		String[][] tableValues = new String[20][this.keywords.length];
+		String[][] scores = new String[20][this.keywords.length];
 
 		for (int j=0; j<this.keywords.length; j++){
 			int i=0;
 			String keyword = this.keywords[j].toLowerCase();
 			for (DocObject document: result.get(keyword)){
 				tableValues[i][j] = document.getName();
+				scores[i][j] = String.valueOf(document.getScore());
 				i++;
 				tableValues[i][j] = "";
+				scores[i][j] = "";
 				i++;
 			}
 		}
 		
-		DisplayTable table = new DisplayTable(tableValues, algorithm, this.keywords);
+		DisplayTable table = new DisplayTable(tableValues, algorithm, this.keywords, scores);
 		table.setVisible(true);
 	}
 	
 	public void runAlgorithmFor(String algorithm, String corpus){
+		
 		Map<String, ArrayList<DocObject>> result = new HashMap<>();
 		DocParser parser = new DocParser();
 		ArrayList<DocObject> docList = parser.getDocList(corpus);
@@ -69,6 +74,14 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
+		
+		try {
+			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+	    } 
+	    catch (Exception e) {
+	    	e.printStackTrace();
+	    }
+	    
 		
 		FileChooser fc = new FileChooser(new Main());
 		fc.setVisible(true);

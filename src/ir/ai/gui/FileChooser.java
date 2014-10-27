@@ -50,7 +50,7 @@ public class FileChooser extends JFrame implements ActionListener {
 		this.inputPanel.setLayout(new BorderLayout());
 		this.comboPanel.setLayout(new GridLayout(1, 2));
 
-		this.inputTextField = new JTextField();
+		this.inputTextField = new JTextField("Presidents");
 		this.inputTextField.setSize(20, 130);
 		
 		this.algorithmCombo = new JComboBox<String>();
