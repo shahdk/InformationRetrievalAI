@@ -1,10 +1,12 @@
 package ir.ai.main;
 
+import java.awt.Color;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
 import javax.swing.UIManager;
+
 import ir.ai.algorithms.*;
 import ir.ai.gui.DisplayTable;
 import ir.ai.gui.FileChooser;
@@ -77,6 +79,7 @@ public class Main {
 		
 		try {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+			UIManager.put("Table.alternateRowColor", Color.GRAY);
 	    } 
 	    catch (Exception e) {
 	    	e.printStackTrace();
