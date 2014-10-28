@@ -53,7 +53,9 @@ public class PassageTermMatching {
 	}
 
 	public double idf(String term, DocObject doc) {
-		int containingDoc = this.docFrequencyMap.get(term);
+		int containingDoc = 0;
+		if (this.docFrequencyMap.containsKey(term))
+			containingDoc = this.docFrequencyMap.get(term);
 		double denominator = containingDoc + 1.0;
 		return Math.log(this.numOfFiles / denominator);
 	}

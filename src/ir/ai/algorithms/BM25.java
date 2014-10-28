@@ -72,7 +72,9 @@ public class BM25 {
 	}
 
 	public double idf(String term, DocObject doc) {
-		int containingDoc = this.docFrequencyMap.get(term);
+		int containingDoc = 0;
+		if (this.docFrequencyMap.containsKey(term))
+			containingDoc = this.docFrequencyMap.get(term);
 		double numerator = this.numOfFiles - containingDoc + 0.5;
 		double denominator = containingDoc + 0.5;
 		return Math.log(numerator / denominator);

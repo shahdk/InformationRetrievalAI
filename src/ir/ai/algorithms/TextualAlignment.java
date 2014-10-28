@@ -61,13 +61,13 @@ public class TextualAlignment {
 			}
 		}
 
-		double score = 0.0;
+		double aggregateScore = 0.0;
 		for (int i = 0; i < p.length; i++) {
 			for (int j = 0; j < q.length; j++) {
-				score += scores[i][j];
+				aggregateScore += scores[i][j];
 			}
 		}
-		doc.setScore(score);
+		doc.setScore(aggregateScore);
 		this.updateDoc(doc);
 	}
 
@@ -86,7 +86,9 @@ public class TextualAlignment {
 	}
 
 	public double idf(String term, DocObject doc) {
-		int containingDoc = this.docFrequencyMap.get(term);
+		int containingDoc = 0;
+		if (this.docFrequencyMap.containsKey(term))
+			containingDoc = this.docFrequencyMap.get(term);
 		double denominator = containingDoc + 1.0;
 		return Math.log(this.numOfFiles / denominator);
 	}
