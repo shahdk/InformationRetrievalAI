@@ -22,8 +22,8 @@ public class Main {
 	private String[] keywords = new String[] { "Adams", "Lincoln", "president",
 			"assassinated president", "great president", "first president",
 			"civil war president", "youngest president", "watergate scandal",
-			"first black president", "cuban missile crisis", "terrorist attack", "founding father",
-			"president who died of pneumonia", "budget surplus", "no child left behind", "bush tax cuts", "president with Poliomyelitis" };
+			"black president", "cuban missile crisis", "terrorist attack", "founding father",
+			"death by pneumonia", "budget surplus", "no child left behind", "bush tax cuts", "poliomyelitis" };
 
 	private void printResult(Map<String, ArrayList<DocObject>> result,
 			String algorithm) {
