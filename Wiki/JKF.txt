@@ -1,0 +1,1225 @@
+{{redirect10|JFK|John Kennedy|Jack Kennedy}}
+{{refimprove|date=August 2014}}
+{{pp-semi-indef}}
+{{pp-move-indef}}
+{{Use mdy dates|date=July 2014}}
+{{Infobox officeholder
+| image         = John F. Kennedy, White House color photo portrait.jpg
+| caption       = 
+| image_size    =
+| office        = [[List of Presidents of the United States|35th]] [[President of the United States]]
+| vicepresident = [[Lyndon B. Johnson]]
+| term_start    = January 20, 1961
+| term_end      = November 22, 1963
+| predecessor   = [[Dwight D. Eisenhower]]
+| successor     = [[Lyndon B. Johnson]]
+| jr/sr2        = United States Senator
+| state2        = [[Massachusetts]]
+| term_start2   = January 3, 1953
+| term_end2     = December 22, 1960
+| predecessor2  = [[Henry Cabot Lodge, Jr.]]
+| successor2    = [[Benjamin A. Smith II]]
+| state3        = [[Massachusetts]]
+| district3     = [[Massachusetts's 11th congressional district|11th]]
+| term_start3   = January 3, 1947
+| term_end3     = January 3, 1953
+| predecessor3  = [[James Michael Curley]]
+| successor3    = [[Tip O'Neill]]
+| name          = John F. Kennedy
+| birth_name    = John Fitzgerald Kennedy
+| birth_date    = {{birth date|1917|5|29}}
+| birth_place   = [[Brookline, Massachusetts]], U.S.
+| death_date    = {{death date and age|1963|11|22|1917|5|29}}
+| death_place   = [[Dallas]], [[Texas]], U.S.
+| resting_place = [[Arlington National Cemetery]]
+| death_cause   = [[Assassination of John F. Kennedy|Assassinated]]
+| party         = [[Democratic Party (United States)|Democratic]]
+| spouse        = [[Jacqueline Kennedy Onassis|Jacqueline Bouvier]]<br>(m. 1953–63; his death)
+| children      = {{plain list|
+*Arabella Kennedy
+*[[Caroline Kennedy]]
+*[[John F. Kennedy, Jr.]]
+*[[Patrick Bouvier Kennedy]]
+}}
+| relations     = {{plain list|
+*[[P. J. Kennedy|Patrick Joseph Kennedy]] <small>(grandfather)</small>
+*[[John F. Fitzgerald]] <small>(grandfather)</small>
+*[[Joseph P. Kennedy, Jr.]] <small>(brother)</small>
+*[[Rosemary Kennedy]] <small>(sister)</small>
+*[[Kathleen Cavendish, Marchioness of Hartington|Kathleen Kennedy]] <small>(sister)</small>
+*[[Eunice Kennedy Shriver]] <small>(sister)</small>
+*[[Patricia Kennedy Lawford]] <small>(sister)</small>
+*[[Robert F. Kennedy]] <small>(brother)</small>
+*[[Jean Kennedy Smith]] <small>(sister)</small>
+*[[Ted Kennedy]] <small>(brother)</small>
+}}
+| parents       = [[Joseph P. Kennedy, Sr.]]<br>[[Rose Kennedy]]
+| alma_mater    = [[Harvard University]] <small> ([[Bachelor of Science|S.B.]])
+| profession    = [[Politician]]
+| religion      =  [[Catholicism|Roman Catholicism]] 
+| signature     = John F Kennedy Signature 2.svg
+| signature_alt = Cursive signature in ink
+| allegiance    = {{flag|United States of America|1912}}
+| branch        = {{Flag|United States Navy}}
+| serviceyears  = 1941–1945
+| rank          = [[File:US-O3 insignia.svg|15px]] [[Lieutenant (naval)|Lieutenant]]
+| unit          = [[Motor Torpedo Boat PT-109]]
+| battles       = [[World War II]]<br>[[Solomon Islands campaign]]
+| awards = {{plain list|
+*[[File:Navy and Marine Corps Medal ribbon.svg|30px]] [[Navy and Marine Corps Medal]]
+*[[File:Purple Heart BAR.svg|30px]] [[Purple Heart]]
+*[[File:American Defense Service ribbon.svg|30px]] [[American Defense Service Medal]]
+*[[File:American Campaign Medal ribbon.svg|30px]] [[American Campaign Medal]]
+*[[File:Asiatic-Pacific Campaign ribbon.svg|30px]] [[Asiatic-Pacific Campaign Medal]] (3 [[Service star|bronze stars]])
+*[[File:World War II Victory Medal ribbon.svg|30px]] [[World War II Victory Medal (United States)|World War II Victory Medal]]<ref name="JFKlibrary.org misc">{{cite web | url = http://www.jfklibrary.org/Historical+Resources/Archives/Reference+Desk/John+F.+Kennedy+Miscellaneous+Information.htm | title = John F. Kennedy Miscellaneous Information | publisher = John F. Kennedy Presidential Library & Museum | accessdate =February 22, 2012}}</ref>
+}}
+}}
+
+'''John Fitzgerald Kennedy''' (May 29, 1917 – November 22, 1963), commonly known as '''Jack Kennedy''', or by his initials '''JFK''', was an American politician who served as the [[List of Presidents of the United States|35th]] [[President of the United States]] from January 1961 until [[Assassination of John F. Kennedy|his assassination]] in November 1963. Notable events during his presidency included the [[Bay of Pigs Invasion]], the [[Cuban Missile Crisis]], the [[Space Race]]—by initiating [[Project Apollo]] (which later culminated in the [[Apollo 11|moon landing]]s), the building of the [[Berlin Wall]], the [[African-American Civil Rights Movement (1955–1968)|African-American Civil Rights Movement]], and increased US involvement in the [[Vietnam War]].
+
+After military service as [[commanding officer|commander]] of [[PT boat|Motor Torpedo Boats]] [[Motor Torpedo Boat PT-109|''PT-109'']] and [[Motor Torpedo Boat PT-59|''PT-59'']] during World War II in the [[South West Pacific Area (command)|South Pacific]], Kennedy represented [[Massachusetts's 11th congressional district]] in the [[United States House of Representatives|U.S. House of Representatives]] from 1947 to 1953 as a [[Democratic Party (United States)|Democrat]]. Thereafter, he served in the [[United States Senate|U.S. Senate]] from 1953 until 1960. Kennedy defeated Vice President and Republican candidate [[Richard Nixon]] in the [[United States Presidential Election, 1960|1960 U.S. Presidential Election]]. At age 43, he was the youngest to have been elected to the office,{{sfn|Dallek|2003|p=109}}{{efn|name=Roosevelt|[[Theodore Roosevelt]] was nine months younger when he first assumed the presidency on September 14, 1901, but he was not elected to the presidency until 1904, when he was 46.{{harvnb|Jewell|2005|p=207}}.}} the second-youngest president (after [[Theodore Roosevelt]]), and the first person born in the 20th century to serve as president.<ref name="NY Times 1961">{{cite news | title = A Time of Change Facing Kennedy; Themes of Inaugural Note Future of Nation Under Challenge of New Era | first = Wallace | last = Carroll | newspaper = The New York Times | date = January 21, 1961 | page = 9 }}</ref> {{As of|2014|alt=To date}}, Kennedy has been the only [[Catholic Church|Roman Catholic]] president and the only president to have won a [[Pulitzer Prize]].<ref name="Pulitzer">{{cite web | url = http://www.pulitzer.org/faq#q20 | title = FAQ | publisher = Columbia University | work=The Pulitzer Prizes | accessdate =February 23, 2012 }}</ref>
+
+Kennedy was [[Assassination of John F. Kennedy|assassinated]] in [[Dallas]], Texas on November 22, 1963. [[Lee Harvey Oswald]] was arrested that afternoon and charged with the crime that night. [[Jack Ruby]] shot and killed Oswald two days later, before a trial could take place. The [[FBI]] and the [[Warren Commission]] officially concluded that Oswald was the lone assassin. The [[United States House Select Committee on Assassinations]] (HSCA) agreed with the conclusion that Oswald fired the shots which killed the president, but also concluded that Kennedy was probably assassinated as the result of a [[John F. Kennedy assassination conspiracy theories|conspiracy]].<ref name="HSCA 1979">{{cite web |url= http://www.archives.gov/research/jfk/select-committee-report/part-1b.html |title=JFK Assassination Records: Report of the Select Committee on Assassinations of the U.S. House of Representatives: Findings |publisher = United States National Archives |year=1979 |accessdate=February 24, 2012}}</ref>
+
+Since the 1960s, information concerning Kennedy's private life has come to light. Details of Kennedy's health problems with which he struggled have become better known, especially since the 1990s. Although initially kept secret from the general public, reports of Kennedy being unfaithful in marriage have garnered much press. Kennedy ranks highly in [[Historical rankings of Presidents of the United States|public opinion ratings of U.S. presidents]] but there is a gap between his public reputation and his reputation among academics.{{sfn|Dallek|2003|p=700}}
+
+== Early life and education ==
+John Fitzgerald Kennedy was born at [[John Fitzgerald Kennedy National Historic Site|83 Beals Street]] in [[Brookline, Massachusetts|Brookline]], Massachusetts, on May 29, 1917,{{sfn|Dallek|2003|p=20}} to businessman/politician [[Joseph P. Kennedy, Sr.|Joseph Patrick "Joe" Kennedy, Sr.]] (1888–1969) and philanthropist/socialite [[Rose Kennedy|Rose Elizabeth Fitzgerald]] (1890–1995). Joe was the elder son of businessman/politician [[P. J. Kennedy|Patrick Joseph "P. J." Kennedy]] (1858–1929) and Mary Augusta Hickey (1857–1923). Rose was the eldest daughter of Boston Mayor [[John F. Fitzgerald|John Francis "Honey Fitz" Fitzgerald]] (1863–1950) and Mary Josephine "Josie" Hannon (1865–1964). All four of his grandparents were the children of immigrants from [[Ireland]].<ref name="JFKlibrary.org misc"/>
+
+Jack's brothers were [[Joseph P. Kennedy, Jr.|Joseph Patrick "Joe" Kennedy, Jr.]] (1915–1944), [[Robert F. Kennedy|Robert Francis "Bobby" Kennedy]] (1925–1968), and [[Ted Kennedy|Edward Moore "Ted" Kennedy]] (1932–2009). Joe Jr. was [[killed in action]] during World War II while Bobby and Ted were both prominent Senators. Their sisters were [[Rosemary Kennedy|Rose Marie "Rosemary" Kennedy]] (1918–2005), [[Kathleen Kennedy Cavendish|Kathleen Agnes "Kick" Kennedy]] (1920–1948), [[Eunice Kennedy Shriver|Eunice Mary Kennedy]] (1921–2009), [[Patricia Kennedy Lawford|Patricia Helen "Pat" Kennedy]] (1924–2006), and [[Jean Kennedy Smith|Jean Ann Kennedy]] (born 1928). Eunice founded the Special Olympics while Jean served as United States Ambassador to Ireland from 1993 to 1998.
+
+Jack lived in Brookline for ten years and attended [[Edward Devotion School]], [[Noble and Greenough School|Noble and Greenough Lower School]], and the [[Dexter School]], through 4th grade. In 1927, the family moved to 5040 Independence Avenue in [[Riverdale, Bronx]], New York City. Two years later, they moved to 294 Pondfield Road in [[Bronxville, New York]], where Kennedy was a member of Scout Troop 2.<ref name="JFKlibrary.org misc"/> The Kennedy family spent summers at [[Kennedy Compound|their home]] in [[Hyannisport, Massachusetts]], and Christmas and Easter holidays at their winter home in [[Palm Beach, Florida]]. For the 5th through 7th grade, Jack attended [[Riverdale Country School]], a private school for boys. For 8th grade in September 1930, the 13-year-old attended [[Canterbury School (Connecticut)|Canterbury School]] in [[New Milford, Connecticut]]. In late April 1931, he required an [[appendectomy]], after which he withdrew from Canterbury and recuperated at home.{{sfn|Dallek|2003|p=34}}
+
+[[File:TheKennedyFamily1.jpg|thumb|left|250px|The Kennedy family at [[Hyannisport]] in 1931 with Jack at top left in white shirt.]]
+In September 1931, Kennedy was sent to [[Choate Rosemary Hall|The Choate School]] in [[Wallingford, Connecticut]], for his 9th through 12th grade years. His older brother Joe Jr. had already been at Choate for two years, a football star and leading student. Jack spent his first years at Choate in his brother's shadow, and compensated for this with rebellious behavior which attracted a coterie. Their most notorious stunt was to explode a toilet seat with a powerful firecracker. In the ensuing chapel assembly, the strict headmaster, George St. John, brandished the toilet seat and spoke of certain "muckers" who would "spit in our sea". The defiant Jack Kennedy took the cue and named his group "The Muckers Club", which included roommate and friend [[Lem Billings|Kirk LeMoyne "Lem" Billings]].{{sfn|Kenney|2000|p=11}}
+
+While at Choate, Kennedy was beset by health problems that culminated in 1934 with his emergency hospitalization at [[Yale&nbsp;– New Haven Hospital]]. In June 1934 he was admitted to the [[Mayo Clinic]] in [[Rochester, Minnesota]], and diagnosed with [[colitis]]. Kennedy graduated from Choate in June 1935. For the school yearbook, of which he had been business manager, Kennedy was voted the "most likely to succeed".{{sfn|Kenney|2000|p=11}}
+
+In September 1935, he made his first trip abroad, with his parents and sister [[Kathleen Kennedy Cavendish|Kathleen]], to London, with the intent of studying under [[Harold Laski]] at the [[London School of Economics]] (LSE), as his older brother Joe Jr. had done. Ill-health forced his return to America in October 1935, when he enrolled late and spent six weeks at [[Princeton University]]. He was then hospitalized for observation at [[Brigham and Women's Hospital|Peter Bent Brigham Hospital]] in Boston. He convalesced further at the Kennedy winter home in Palm Beach, then spent the spring of 1936 (along with his older brother Joe Jr.) working as a ranch hand on the {{convert|40000|acre|km2}} "Jay Six" cattle ranch outside [[Benson, Arizona]].{{sfn|Dallek|2003|p=42}} It is reported that ranchman [[Jack Speiden]] worked both brothers "very hard".
+
+In September 1936, Kennedy enrolled at [[Harvard College]], where he produced that year's annual "Freshman Smoker", called by a reviewer "an elaborate entertainment, which included in its cast outstanding personalities of the radio, screen and sports world".<ref name="Harvard Crimson 1937">{{cite news | url = http://www.thecrimson.com/article/1937/5/5/memorial-hall-auditorium-filled-to-capacity/ | title = Memorial Hall Auditorium Filled to Capacity at Annual Freshman Smoker | work = The Harvard Crimson | date = May 5, 1937 | accessdate =February 18, 2012 }}</ref> He tried out for the football, golf, and swimming teams and earned a spot on the varsity swimming team.{{sfn|Donovan|2001|p=7}} In July 1937 Kennedy sailed to France—bringing his convertible—and spent ten weeks driving through Europe with Billings.{{sfn|Dallek|2003|p=49}} In June 1938 Kennedy sailed overseas with his father and brother Joe to work with his father, who was then [[Franklin D. Roosevelt]]'s U.S. Ambassador to the [[Court of St. James's]], at the [[U.S. Embassy, London|American embassy in London]].{{sfn|Dallek|2003|p=54}}
+
+In 1939 Kennedy toured Europe, the [[Soviet Union]], the [[Balkans]], and the Middle East in preparation for his Harvard senior honors thesis. He then went to [[Czechoslovakia]] and Germany before returning to London on September 1, 1939, the day [[Invasion of Poland|Germany invaded Poland]]. On September 3, 1939, the family was in the [[British House of Commons|House of Commons]] for speeches endorsing the United Kingdom's declaration of war on Germany. Kennedy was sent as his father's representative to help with arrangements for American survivors of the [[SS Athenia|SS ''Athenia'']], before flying back to the U.S. from [[Foynes|Foynes, Ireland]], to [[Port Washington, New York]] on his first transatlantic flight.
+
+As an upperclassman at Harvard, Kennedy became a more serious student and developed an interest in political philosophy. In his junior year he made the [[Dean's List]].<ref name="Harvard Presidents">{{cite web | url = http://news.harvard.edu/gazette/story/2008/11/obama-joins-list-of-seven-presidents-with-harvard-degrees/ | title = Obama joins list of seven presidents with Harvard degrees | work = Harvard Gazette | publisher = [[Harvard University]] | date = November 6, 2008 | accessdate =February 24, 2012 }}</ref> In 1940 Kennedy completed his thesis, "Appeasement in Munich", about British participation in the [[Munich Agreement]]. The thesis became a bestseller under the title ''[[Why England Slept]]''.{{sfn|Dallek|2003|pp=61–66}} He graduated from Harvard College with a [[Bachelor of Science]] ''[[cum laude]]'' in [[international relations|international affairs]] in 1940. Kennedy enrolled in and audited classes at the [[Stanford Graduate School of Business]] that fall.{{sfn|Kenney|2000|p=18}} In early 1941, he helped his father write a memoir of his three years as an American ambassador and then traveled throughout South America.{{sfn|Dallek|2003|p=68}}
+
+On September 12, 1953, Kennedy married [[Jacqueline Kennedy Onassis|Jacqueline]] at  St. Mary's Church in Newport, [[Rhode Island]].<ref>David Shortell, [http://www.cnn.com/2014/10/02/us/kennedy-wedding-photos-auction/index.html Unseen photos of John and Jacqueline Kennedy's wedding auctioned] CNN, October 2, 2014.</ref>
+
+== Military service (1941–45)==
+{{main|Motor Torpedo Boat PT-109}}
+
+[[File:PT-109 crew.jpg|thumb|250px|[[Lieutenant (junior grade)]] John F. Kennedy (standing at right) with his ''PT-109'' crew, 1943.]]
+In September 1941, after medical disqualification by the Army for his chronic lower back problems, Kennedy joined the [[United States Navy|U.S. Navy]], with the influence of the director of the [[Office of Naval Intelligence]], former naval [[attaché]] to Joseph Kennedy.{{sfn|Ballard|2002|pp=12, 36}} Kennedy was an [[ensign (rank)|ensign]] serving in the office of the [[United States Secretary of the Navy|Secretary of the Navy]] when the [[attack on Pearl Harbor]] occurred. He attended the [[Naval Reserve Officer Training Corps]] and then voluntarily entered the Motor Torpedo Boat Squadron Training Center in Melville, Rhode Island. His first command was ''PT-101'', which he briefly commanded from 7 December 1942 until 23 February 1943. He led three [[PT boat#Huckins Yacht Corporation|Huckins PT boats]] (''PT-98'', ''PT-99'', and ''PT-101'') which were being relocated from MTBRON 4 in Melville, Rhode Island, back to Jacksonville, Florida and the new MTBRON 14 (formed 17 February 1943). During the transit South, he was briefly hospitalized after diving in the cold water to unfoul a propeller. Thereafter, he was assigned duty in [[Panama]] and later in the [[Pacific War|Pacific theater]], where Kennedy earned the rank of lieutenant, eventually commanding two more [[PT boat|patrol torpedo (PT) boats]].<ref>{{cite web | url = http://www.history.navy.mil/faqs/faq60-2.htm | title = Lieutenant John F. Kennedy, USN | accessdate =September 17, 2007 | date = June 18, 2002 | work = Naval Historical Center }}</ref>
+
+[[File:Lt. John F. Kennedy aboard the PT-109.jpg|upright|thumb|Kennedy on his navy patrol boat, the [[PT boat|''PT-109'']].]]
+On August 2, 1943, Kennedy's boat, ''[[Motor Torpedo Boat PT-109|PT-109]]'', along with ''PT-162'' and ''PT-169'', was performing nighttime patrols near [[New Georgia]] in the [[Solomon Islands]],{{sfn|Donovan|2001|pp=99, 100}} when ''PT-109'' was rammed by the [[Japanese destroyer Amagiri (1930)|Japanese destroyer ''Amagiri'']].<ref>{{cite web | url = http://www.americanwarriorsfivepresidents.com/ | title = Five Presidents in the Pacific Theater of World War II | accessdate =September 17, 2007 | last = Hove | first = Duane T }}</ref> Kennedy gathered his surviving crew members together in the water around the wreckage, to vote on whether to "fight or surrender". Kennedy stated, "There's nothing in the book about a situation like this. A lot of you men have families and some of you have children. What do you want to do? I have nothing to lose." Shunning surrender, the men swam towards a small island.{{sfn|Donovan|2001|pp=106–107, 119}}
+
+Kennedy, despite re-injury to his back in the collision, towed a badly burned crewman through the water with a life jacket strap clenched between his teeth.{{sfn|Donovan|2001|p=124}} He towed the wounded man to the island, and later to a second island, from where his crew was subsequently rescued.{{sfn|Donovan|2001|pp=125–126, 141–142, 162–164}} For these actions, Kennedy received the [[Navy and Marine Corps Medal]] with the following citation:
+<blockquote>'' For extremely heroic conduct as Commanding Officer of Motor Torpedo Boat 109 following the collision and sinking of that vessel in the Pacific War Theater on August 1–2, 1943. Unmindful of personal danger, Lieutenant (then [[Lieutenant, Junior Grade]]) Kennedy unhesitatingly braved the difficulties and hazards of darkness to direct rescue operations, swimming many hours to secure aid and food after he had succeeded in getting his crew ashore. His outstanding courage, endurance and leadership contributed to the saving of several lives and were in keeping with the highest traditions of the United States Naval Service.''</blockquote>
+
+In October 1943, Kennedy took command of a PT boat converted into a gunboat, ''[[Motor Torpedo Boat PT-59|PT-59]]'', which took part in a Marine rescue on [[Raid on Choiseul|Choiseul Island]] that November.{{sfn|Donovan|2001|pp=172–184}} Kennedy then left ''PT-59'', and returned to the United States in early January 1944. After receiving treatment for his back injury, he was released from active duty in late 1944.<ref>{{cite web |url= http://www.history.navy.mil/faqs/faq60-2.htm |title=Record of John F. Kennedy's Naval Service |work=[[Naval History & Heritage Command]] |date=June 18, 2002 |accessdate=June 8, 2012}}</ref>
+
+Beginning in January 1945, Kennedy spent three more months recovering from his back injury at [[Castle Hot Springs (Arizona)|Castle Hot Springs]], a resort and temporary military hospital in [[Arizona]].{{sfn|O'Brien|2005|pp=179, 180}}<ref name="peoriaaz.gov">{{Cite web | title=Peoria Open Space Master Plan: Chapter 4 - Historic and Cultural Resources| work=| url=http://www.peoriaaz.gov/uploadedFiles/NewPeoriaAZ/About_Peoria/Sonoran_Preservation_Program/Chapter4_HistoricCulturalResources.pdf| date=| year=| accessdate=January 22, 2014}}</ref>
+Kennedy was honorably discharged just prior to Japan's surrender in 1945. Kennedy's other decorations in World War II included the [[Purple Heart]], [[American Defense Service Medal]], [[American Campaign Medal]], [[Asiatic-Pacific Campaign Medal]] with three [[service star|bronze service stars]], and the [[World War II Victory Medal]].<ref name="JFKlibrary.org misc" /> When later asked how he became a war hero, Kennedy joked: "It was easy. They cut my PT boat in half."{{sfn|Dallek|2003|p=98}}
+
+In April 1945, Kennedy's father, a friend of [[William Randolph Hearst]], arranged a position for his son as a special correspondent for [[Hearst Newspapers]]; the assignment kept Kennedy's name in the public eye and "expose[d] him to journalism as a possible career."{{sfn|O'Brien|2005|p=180}} He worked as a correspondent that May, covering the [[Potsdam Conference]] and other events.{{sfn|Dallek|2003|p=104}}
+
+== Congressional career ==
+
+=== House of Representatives (1947–53)===
+While Kennedy was still serving, his older brother, [[Joseph P. Kennedy, Jr.|Joe Jr.]], was killed in action on August 12, 1944, while part of [[Operation Aphrodite]]. Since Joe Jr. had been the [[Kennedy family|family's political standard-bearer]], the task now fell to Jack.{{sfn|Dallek|2003|p=118}}
+
+In 1946, U.S. Representative [[James Michael Curley]] vacated his seat in the strongly Democratic 11th Congressional district in Massachusetts—at Joe's urging—to become mayor of Boston. Kennedy ran for the seat, beating his Republican opponent by a large margin.{{sfn|Dallek|2003|p=122, 131}} He served as a congressman for six years.
+
+=== Senate (1953–60)===
+[[File:John F. Kennedy after spinal surgery cph.3c33052.jpg|thumb|upright|Kennedy lying on a gurney following spinal surgery, accompanied by Jackie, December 1954.]]
+In the [[United States Senate election in Massachusetts, 1952|1952 election]], he defeated incumbent Republican [[Henry Cabot Lodge, Jr.|Henry Cabot Lodge II]] for the U.S. Senate seat. The following year he was married to [[Jacqueline Kennedy Onassis|Jacqueline]].{{sfn|Kenney|2000|p=29}}
+
+Kennedy underwent several spinal operations over the following two years. Often absent from the Senate, he was at times critically ill and received Catholic [[Anointing of the Sick|last rites]]. During his convalescence in 1956, he published ''[[Profiles in Courage]]'', a book about U.S. Senators who risked their careers for their personal beliefs, for which he won the [[Pulitzer Prize for Biography]] in 1957.<ref name="Jean3" /> Rumors that this work was co-written by his close adviser and [[speechwriter]], [[Ted Sorensen]], were confirmed in Sorensen's 2008 autobiography.<ref>{{cite web | last = Tofel | first = Richard J. | url = http://online.wsj.com/article/SB121029817046479539.html?mod=2_1167_1 | title = Wall Street Journal, May&nbsp;9, 2008, p. W3, review of ''Counselor'', by Ted Sorensen |work=The Wall Street Journal | date = May 9, 2008 | accessdate =March 28, 2010 }}</ref>
+ 
+At the [[1956 Democratic National Convention]], Kennedy was nominated for Vice President on a ticket with Presidential nominee [[Adlai Stevenson II|Adlai Stevenson]], but finished second in the balloting to Senator [[Estes Kefauver]] of Tennessee. Kennedy received national exposure from that episode; his father thought it just as well that his son lost, due to the political debility of his Catholicism and the strength of the Eisenhower ticket.
+
+One of the matters demanding Kennedy's attention in the Senate was President Eisenhower's bill for the [[Civil Rights Act of 1957]].{{sfn|O'Brien|2005|p=370}} Kennedy cast a procedural vote on this, which was considered by some as an appeasement of Southern Democratic opponents of the bill.{{sfn|O'Brien|2005|p=370}} Kennedy did vote for Title III of the act, which would have given the Attorney General powers to enjoin, but Majority Leader [[Lyndon B. Johnson]] agreed to let the provision die as a compromise measure.{{sfn|O'Brien|2005|pp=370, 371}} Kennedy also voted for Title IV, termed the "Jury Trial Amendment". Many civil rights advocates at the time criticized that vote as one which would weaken the act.{{sfn|O'Brien|2005|p=372}} A final compromise bill, which Kennedy supported, was passed in September 1957.{{sfn|O'Brien|2005|p=374}}
+
+[[File:John F. Kennedy Jack Paar Tonight Show 1959.JPG|thumb|left|[[Jack Paar]] interviews Senator Kennedy on ''[[The Tonight Show]]'' (1959).]]
+
+In 1958, Kennedy was re-elected to a second term in the Senate, defeating his Republican opponent, Boston lawyer Vincent J. Celeste, by a wide margin. It was during his re-election campaign that Kennedy's press secretary at this time [[Robert E. Thompson]], put together a film entitled ''The U.S. Senator John F. Kennedy Story'', which exhibited a day in the life of the Senator and showcased his family life as well as the inner-workings of his office. It is the most comprehensive film produced about Kennedy up to that time.<ref>[http://www.jfklibrary.org/Asset-Viewer/Archives/JFKPPP-64.aspx The U.S. Senator John F. Kennedy Story (film)]</ref>
+
+Senator [[Joseph McCarthy]] was a friend of the Kennedy family; Joseph Kennedy, Sr. was a leading McCarthy supporter. Jack's brother Bobby worked for McCarthy's subcommittee, and McCarthy dated Jack and Bobby's sister [[Patricia Kennedy Lawford|Pat]]. In 1954, when the Senate voted to censure McCarthy, Kennedy drafted a speech supporting the censure. The speech was not delivered, because he was in the hospital. Though absent, he could have participated procedurally by "pairing" his vote against that of another senator, but did not do so. He never indicated how he would have voted, but the episode damaged Kennedy's support among members of the [[Modern liberalism in the United States|liberal]] community, including [[Eleanor Roosevelt]], in the 1956 and 1960 elections.{{sfn|O'Brien|2005|pp=274–79, 394–99}}
+
+== 1960 presidential election ==
+{{main|United States presidential election, 1960}}
+
+[[Image:Kennedy Nixon Debat (1960).jpg|thumb|250px|John F. Kennedy and Richard Nixon participate in a 1960 presidential debate.]]
+On January 2, 1960, Kennedy initiated his campaign for president in the Democratic [[primary election]], where he faced challenges from Senator [[Hubert Humphrey]] of [[Minnesota]] and Senator [[Wayne Morse]] of [[Oregon]]. Kennedy defeated Humphrey in [[Wisconsin]] and [[West Virginia]], Morse in [[Maryland]] and Oregon, as well as token opposition (often [[write-in candidate]]s) in [[New Hampshire]], [[Indiana]], and [[Nebraska]].
+
+Kennedy visited a coal mine in West Virginia. Most miners and others in that predominantly [[American conservatism|conservative]], [[Protestant]] state were quite wary of Kennedy's Roman Catholicism. His victory in West Virginia confirmed his broad popular appeal.
+
+At the Democratic Convention, he gave his well-known "[[New Frontier]]" speech, saying: "For the problems are not all solved and the battles are not all won—and we stand today on the edge of a New Frontier..... But the New Frontier of which I speak is not a set of promises—it is a set of challenges. It sums up not what I intend to offer the American people, but what I intend to ask of them."<ref name="JFKlibrary.org Accepting Dem Nom Pres">{{cite web | title = Address of Senator John F. Kennedy Accepting the Democratic Party Nomination for the Presidency of the United States | url = http://www.jfklibrary.org/Research/Ready-Reference/JFK-Speeches/Address-of-Senator-John-F-Kennedy-Accepting-the-Democratic-Party-Nomination-for-the-Presidency-of-th.aspx | date = July 15, 1960 | first = John F. | last = Kennedy | publisher = [[John F. Kennedy Library|John F. Kennedy Presidential Library]] | accessdate =February 22, 2012 }}</ref>
+
+With Humphrey and Morse eliminated, Kennedy's main opponent at the Los Angeles convention was Senator [[Lyndon B. Johnson]] of Texas. Kennedy overcame this formal challenge as well as informal ones from [[Adlai Stevenson II|Adlai Stevenson]] (the Democratic nominee in 1952 and 1956), [[Stuart Symington]], and several [[favorite son]]s, and on July 13 the Democratic convention nominated Kennedy as its candidate. Kennedy asked Johnson to be his vice presidential candidate, despite opposition from many liberal delegates and Kennedy's own staff, including his brother Bobby.<ref>[[Robert Caro|Caro, Robert A.]] (2012). ''The Passage of Power'', pp. 121–135. Alfred A. Knopf, New York. ISBN 978-0-679-40507-8</ref>
+
+[[File:Jfk-appleton.jpg|thumb|left|250px|[[Jacqueline Kennedy Onassis|Jackie]] with Jack campaigning in [[Appleton, Wisconsin]], March 1960.]]
+
+Kennedy needed Johnson's strength in the [[Southern United States|South]] to win what was considered likely to be the closest election since [[United States presidential election, 1916|1916]]. Major issues included how to get the economy moving again, Kennedy's Roman Catholicism, [[Cuba]], and whether the [[Soviet Union|Soviet]] space and missile programs had surpassed those of the U.S. To address fears that his being Catholic would impact his decision-making, he famously told the Greater Houston Ministerial Association on September 12, 1960, "I am not the Catholic candidate for president. I am the Democratic Party candidate for president who also happens to be a Catholic. I do not speak for my Church on public matters&nbsp;– and the Church does not speak for me."<ref>{{cite web | url = http://www.americanrhetoric.com/speeches/jfkhoustonministers.html | title = Address to the Greater Houston Ministerial Association | accessdate =September 17, 2007 | last = Kennedy | first = John F. | date = June 18, 2002 | work = American Rhetoric }}</ref> Kennedy questioned rhetorically whether one-quarter of Americans were relegated to second-class citizenship just because they were Catholic, and once stated that, "No one asked me my religion [serving the Navy] in the South Pacific."{{sfn|Reeves|1993|p=15}}
+
+[[File:Eisenhower and Kennedy.jpg|thumb|[[President of the United States|President]] [[Dwight D. Eisenhower]] meets with [[President-elect of the United States|President-elect]] John F. Kennedy on December 6, 1960]]
+
+During the campaign, Kennedy sought a meeting with Rabbi [[Menachem M. Schneerson]], at his office on Brooklyn. Kennedy was turned down as the rabbi was already meeting a group of simple men and women that evening.<ref>''The New York Observer'', [http://observer.com/2014/07/rebbe-to-the-city-and-the-world/ "Rebbe to the city and Rebbe to the world"]. Editorial, 07/08/14.</ref><ref>Alan Feuer, [http://www.nytimes.com/2009/01/15/nyregion/15rooms.html?_r=2& No One There, but This Place Is Far From Empty]. ''The New York Times'', 01/14/09.</ref> 
+
+In September and October, Kennedy appeared with Republican candidate [[Richard Nixon]], then vice president, in the first televised [[U.S. presidential election debates|U.S. presidential debates]] in U.S. history. During these programs, Nixon, with a sore injured leg and his "[[five o'clock shadow]]", was perspiring and looked tense and uncomfortable, while Kennedy, choosing to avail himself of makeup services, appeared relaxed, leading the huge television audience to favor Kennedy as the winner. Radio listeners either thought Nixon had won or that the debates were a draw.<ref>{{cite web | url = http://www.museum.tv/archives/etv/K/htmlK/kennedy-nixon/kennedy-nixon.htm | title = The Kennedy-Nixon Presidential Debates, 1960 | accessdate =September 18, 2007 | last = Tyner Allen | first = Erika | work = museum.tv }}</ref> The debates are now considered a milestone in American political history—the point at which the medium of television began to play a dominant role in politics.<ref name="Jean3">{{cite web | url = http://www.airpower.maxwell.af.mil/airchronicles/aureview/1967/mar-apr/smith.html | title = Kennedy and Defense The formative years | accessdate =September 18, 2007 | last = Edward Smith | first = Dr. Jean | date = March 1967 | work = Air University Review }}</ref>
+
+Kennedy's campaign gained momentum after the first debate, and he pulled slightly ahead of Nixon in most polls. On November 8, Kennedy defeated Nixon in one of the closest presidential elections of the 20th century. In the national popular vote Kennedy led Nixon by just two-tenths of one percent (49.7% to 49.5%), while in the [[Electoral College (United States)|Electoral College]] he won 303 votes to Nixon's 219 (269 were needed to win).{{sfn|Dudley|Shiraev|2008|p=83}}
+
+Fourteen electors from Mississippi and Alabama refused to support Kennedy because of his support for the [[civil rights movement]]; they voted for Senator [[Harry F. Byrd]] of Virginia, as did the elector from Oklahoma.{{sfn|Dudley|Shiraev|2008|p=83}} Kennedy was the youngest man elected president, succeeding Eisenhower, who was then the oldest ([[Ronald Reagan]] surpassed Eisenhower as the oldest president in 1981).{{sfn|Reeves|1993|p=21}}
+
+== Presidency ==
+{{Wikisource|John F. Kennedy's Inaugural Address}}
+{{see also|Timeline of the presidency of John F. Kennedy}}
+[[File:Jfk inauguration.jpg|left|thumb|John F. Kennedy takes [[oath of office of the President of the United States|the oath of office]] administered by [[Chief Justice of the United States|Chief Justice]] [[Earl Warren]] on January 20, 1961, at [[United States Capitol|the Capitol]]]]
+John F. Kennedy was sworn in as the 35th president at noon on January 20, 1961. In [[Inaugural address of John F. Kennedy|his inaugural address]] he spoke of the need for all Americans to be active citizens, famously saying, "Ask not what your country can do for you; ask what you can do for your country." He asked the nations of the world to join together to fight what he called the "common enemies of man: tyranny, poverty, disease, and war itself".<ref name="JFKlibrary.org Inaugural Address">{{cite web | title = Inaugural Address | url = http://www.jfklibrary.org/Research/Ready-Reference/JFK-Quotations/Inaugural-Address.aspx | date = January 20, 1961 | first = John F. | last = Kennedy | publisher = [[John F. Kennedy Library|John F. Kennedy Presidential Library]] | accessdate =February 22, 2012 }}</ref>
+
+He added: "All this will not be finished in the first one hundred days. Nor will it be finished in the first one thousand days, nor in the life of this Administration, nor even perhaps in our lifetime on this planet. But let us begin." In closing, he expanded on his desire for greater internationalism: "Finally, whether you are citizens of America or citizens of the world, ask of us here the same high standards of strength and sacrifice which we ask of you."<ref name="JFKlibrary.org Inaugural Address"/>
+[[File:JFKRiceUniversity.jpg|thumb|300px|right|<Center>''We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills; because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win ...<br />
+It is for these reasons that I regard the decision last year to shift our efforts in space from low to high gear as among the most important decisions that will be made during my incumbency in the office of the Presidency.'' - JFK, 1962<ref>[[s:We choose to go to the moon|WikiSource - We choose to go the moon]]</ref></center>]]
+
+The address reflected Kennedy's confidence that his administration would chart an historically significant course in both domestic policy and foreign affairs. The contrast between this optimistic vision and the pressures of managing daily political realities at home and abroad would be one of the main tensions running through the early years of his administration.{{sfn|Kempe|2011|p=52}}
+
+Kennedy brought to the White House a stark contrast in organization compared to the decision-making structure of former-general Eisenhower; and he wasted no time in dismantling Eisenhower's methods.{{sfn|Reeves|1993|p=22}} Kennedy preferred the organizational structure of a wheel, with all the spokes leading to the president. He was ready and willing to make the increased number of quick decisions required in such an environment. He selected a mixture of experienced and inexperienced people to serve in his cabinet. "We can learn our jobs together", he stated.{{sfn|Reeves|1993|pp=23, 25}}
+
+Much to the chagrin of his economic advisors who wanted him to reduce taxes, Kennedy quickly agreed to a balanced budget pledge. This was needed in exchange for votes to expand the membership of the House Rules Committee in order to give the Democrats a majority in setting the legislative agenda.{{sfn|Reeves|1993|p=56}} The president focused on immediate and specific issues facing the administration, and quickly voiced his impatience with pondering of deeper meanings. Deputy national security advisor [[Walt Whitman Rostow]] once began a diatribe about the growth of communism, and Kennedy abruptly cut him off, asking, "What do you want me to do about that today?"{{sfn|Reeves|1993|p=66}}
+
+Kennedy approved Defense secretary [[Robert McNamara]]'s controversial decision to award the contract for the [[F-111]] TFX (Tactical Fighter Experimental) fighter-bomber to [[General Dynamics]] (the choice of the civilian Defense department) over [[Boeing]] (the choice of the military).<ref>{{cite book|last=Art|first=Robert J.|year=1968|title=The TFX decision; McNamara and the military|location=Boston|publisher=Little, Brown|oclc=294546|pages=ix–xi}}</ref> At the request of Senator [[Henry M. Jackson|Henry Jackson]], Senator [[John Little McClellan|John McClellan]] held 46 days of mostly closed-door hearings before the [[United States Senate Homeland Security Permanent Subcommittee on Investigations|Permanent Subcommittee on Investigations]] investigating the TFX contract from February–November 1963.<ref>{{cite book|last=Shapley|first=Deborah|year=1993|title=Promise and power: the life and times of Robert McNamara|location=Boston|publisher=Little, Brown|isbn=0-316-78280-7|pages=202–223}}</ref>
+
+=== Foreign policy ===
+{{main|Foreign policy of the John F. Kennedy administration}}
+[[File:US President John Kennedy Presidential Trips.PNG|thumb|350px|Foreign trips of John F. Kennedy during his presidency]]
+
+President Kennedy's foreign policy was dominated by American confrontations with the [[Soviet Union]], manifested by proxy contests in the early stage of the [[Cold War]]. In 1961, Kennedy anxiously anticipated a summit with Soviet [[Premier of the Soviet Union|Premier]] [[Nikita Khrushchev]]. The president started off on the wrong foot by reacting aggressively to a routine Khrushchev speech on Cold War confrontation in early 1961. The speech was intended for domestic audiences in the Soviet Union, but Kennedy interpreted it as a personal challenge. His mistake helped raise tensions going into the [[Vienna summit|Vienna Summit]] of June 1961.{{sfn|Kempe|2011|pp=76–78}}
+
+On the way to the summit, Kennedy stopped in Paris to meet [[Charles de Gaulle]], who advised Kennedy to ignore Khrushchev's abrasive style. The French president was nationalistic and disdainful of the United States' presumed influence in Europe. Nevertheless, de Gaulle was quite impressed with the young president and his family. Kennedy picked up on this in his speech in Paris, saying that he would be remembered as "the man who accompanied Jackie Kennedy to Paris."{{sfn|Reeves|1993|p=145}}
+
+[[File:President John F. Kennedy Meets with the President of the Republic of Ghana, Osagyefo Dr. Kwame Nkrumah (JFKWHP-AR6409-B).jpg|thumb|left|[[Kwame Nkrumah]], the first head of an independent [[Ghana]], with Kennedy, March 1961]]
+On June 4, 1961, the president met with Khrushchev in Vienna and left the meetings angry and disappointed that he had allowed the Premier to bully him, despite the warnings he had received. Khrushchev, for his part, was impressed with the president's intelligence, but thought him weak. Kennedy did succeed in conveying the bottom line to Khrushchev on the most sensitive issue before them, a proposed treaty between Moscow and [[East Berlin]]. He made it clear that any such treaty which interfered with U.S access rights in [[West Berlin]] would be regarded as an act of war.{{sfn|Reeves|1993|pp=161–171}}
+
+[[File:ShahKennedy.gif|thumb|250px|[[List of kings of Persia|Persian Shah]] [[Mohammad Reza Pahlavi]], Kennedy, and [[United States Secretary of Defense|U.S. Defense Secretary]] [[Robert McNamara]] in the [[Cabinet Room (White House)|White House Cabinet Room]] on April 13, 1962.]]
+Shortly after the president returned home, the U.S.S.R. announced its intention to sign a treaty with East Berlin, abrogating any third-party occupation rights in either sector of the city. Kennedy, depressed and angry, assumed that his only option was to prepare the country for nuclear war, which he personally thought had a one-in-five chance of occurring.{{sfn|Reeves|1993|p=175}}
+
+In the weeks immediately after the Vienna summit, more than 20,000 people fled from East Berlin to the western sector in reaction to statements from the USSR. Kennedy began intensive meetings on the Berlin issue, where [[Dean Acheson]] took the lead in recommending a military buildup alongside NATO allies.{{sfn|Reeves|1993|p=185}} In a July 1961 speech, Kennedy announced his decision to add $3.25&nbsp;billion to the defense budget, along with over 200,000 additional troops, stating that an attack on West Berlin would be taken as an attack on the U.S. The speech received an 85% approval rating.{{sfn|Reeves|1993|p=201}}
+
+The following month, the Soviet Union and East Berlin began blocking any further passage of East Berliners into West Berlin and erected barbed wire fences across the city, which were quickly upgraded to the [[Berlin Wall]]. Kennedy's initial reaction was to ignore this, as long as free access from West to East Berlin continued. This course was altered when it was learned that the West Berliners had lost confidence in the defense of their position by the United States. Kennedy sent Vice President Johnson, along with a host of military personnel, in convoy through West Germany, including Soviet-armed checkpoints, to demonstrate the continued commitment of the U.S. to West Berlin.{{sfn|Reeves|1993|p=213}}
+
+Kennedy gave a speech at [[Saint Anselm College]] on May 5, 1960, regarding America's conduct in the emerging Cold War. The address detailed how American foreign policy should be conducted towards African nations, noting a hint of support for modern African nationalism by saying that "For we, too, founded a new nation on revolt from colonial rule".<ref name="JFKlibrary.org Saint Anselm's College">{{cite web | url = http://www.jfklibrary.org/Research/Ready-Reference/JFK-Speeches/Remarks-of-Senator-John-F-Kennedy-at-Saint-Anselms-College-Manchester-New-Hampshire-March-5-1960.aspx | title = Remarks of Senator John F. Kennedy at Saint Anselm's College, Manchester, New Hampshire, March&nbsp;5, 1960 | publisher = John F. Kennedy Presidential Library & Museum | work = JFKlibrary.org | date = March 5, 1960 | accessdate =March 28, 2010 }}</ref>
+
+==== Cuba and the Bay of Pigs Invasion ====
+{{main|Bay of Pigs Invasion}}
+[[File:President Kennedy and Vice President Johnson prior to ceremony.jpg|thumb|250px|President Kennedy and Vice President Johnson]]
+The prior Eisenhower administration had created a plan to overthrow the [[Fidel Castro]] regime in Cuba. The plan, led by the [[Central Intelligence Agency]] (CIA) with help from the U.S. military, was for an invasion of Cuba by a counter-revolutionary insurgency composed of U.S.-trained anti-Castro Cuban exiles{{sfn|Schlesinger|2002|pp=233, 238}}<ref>Gleijeses (1995), pp. 9–19</ref> led by CIA paramilitary officers. The intention was to invade Cuba and instigate an uprising among the Cuban people in hopes of removing Castro from power.{{sfn|Reeves|1993|pp=69–73}}
+
+On April 17, 1961, Kennedy ordered what became known as the "Bay of Pigs Invasion": 1,500 U.S.-trained Cubans, called "Brigade 2506", landed on the island. No U.S. air support was provided. [[Allen Welsh Dulles|Allen Dulles]], [[director of the CIA]], later stated that they thought the president would authorize any action required for success once the troops were on the ground.{{sfn|Reeves|1993|pp=71, 673}}
+
+By April 19, 1961, the Cuban government had captured or killed the invading exiles, and Kennedy was forced to negotiate for the release of the 1,189 survivors. After twenty months, Cuba released the captured exiles in exchange for $53&nbsp;million worth of food and medicine.{{sfn|Schlesinger|2002|pp=268–294, 838–839}} The incident made Castro wary of the U.S. and led him to believe another invasion would occur.<ref>[[Jean Edward Smith]], "Bay of Pigs: The Unanswered Questions", ''The Nation'', April 13, 1964.</ref>
+
+According to biographer [[Richard Reeves (American writer)|Richard Reeves]], Kennedy primarily focused on the political repercussions of the plan rather than military considerations. When it failed, he was convinced that the plan was a setup to make him look bad.{{sfn|Reeves|1993|pp=95–97}} He took responsibility for the failure, saying,  "We got a big kick in the leg and we deserved it. But maybe we'll learn something from it."{{sfn|Schlesinger|2002|pp=290, 295}}
+
+In late 1961, the White House formed the "Special Group (Augmented)", headed by Robert Kennedy and including Edward Lansdale, Secretary [[Robert McNamara]], and others. The group's objective—to overthrow Castro via espionage, sabotage, and other covert tactics—was never pursued.{{sfn|Reeves|1993|p=264}}
+
+==== Cuban Missile Crisis ====
+
+{{main|Cuban Missile Crisis}}
+
+[[File:John Kennedy, Nikita Khrushchev 1961.jpg|thumb|left|250px|Meeting [[Nikita Khrushchev]] in 1961.]]
+
+On October 14, 1962, CIA [[Lockheed U-2|U-2]] spy planes took photographs of intermediate-range ballistic missile sites being built in Cuba by the Soviets. The photos were shown to Kennedy on October 16; a consensus was reached that the missiles were offensive in nature and thus posed an immediate nuclear threat.{{sfn|Reeves|1993|p=345}} Kennedy faced a dilemma: if the U.S. attacked the sites, it might lead to [[nuclear warfare|nuclear war]] with the U.S.S.R., but if the U.S. did nothing, it would be faced with the increased threat from close-range nuclear weapons. The U.S. would also appear to the world as less committed to the defense of the hemisphere. On a personal level, Kennedy needed to show resolve in reaction to Khrushchev, especially after the Vienna summit.{{sfn|Reeves|1993|p=245}}
+
+{{listen | filename = John F Kennedy Address on the Buildup of Arms in Cuba.ogg | title = Address on the Buildup of Arms in Cuba | description = Kennedy addressing the nation on October 22, 1962, about the buildup of arms on Cuba}}
+
+More than a third of the members of the [[National Security Council]] (NSC) favored an unannounced air assault on the missile sites, but for some of them this conjured up an image of "Pearl Harbor in reverse".{{sfn|Reeves|1993|p=387}} There was also some reaction from the international community (asked in confidence), that the assault plan was an overreaction in light of U.S. missiles that had been placed in Turkey by Eisenhower. There could also be no assurance that the assault would be 100% effective.{{sfn|Reeves|1993|p=388}} In concurrence with a majority-vote of the NSC, Kennedy decided on a naval quarantine. On October 22 he dispatched a message to Khrushchev and announced the decision on TV.{{sfn|Reeves|1993|p=389}}
+
+The U.S. Navy would stop and inspect all Soviet ships arriving off Cuba, beginning October 24. The [[Organization of American States]] gave unanimous support to the removal of the missiles. The president exchanged two sets of letters with Khrushchev, to no avail.{{sfn|Reeves|1993|p=390}} [[United Nations]] (UN) Secretary General [[U Thant]] requested that both parties reverse their decisions and enter a cooling-off period. Khrushchev said yes, but Kennedy said no.{{sfn|Reeves|1993|p=403}}
+
+One Soviet-flagged ship was stopped and boarded. On October 28 Khrushchev agreed to dismantle the missile sites, subject to UN inspections.{{sfn|Reeves|1993|p=426}} The U.S. publicly promised never to invade Cuba and privately agreed to remove its missiles in Turkey, which were by then obsolete and had been supplanted by submarines equipped with [[UGM-27 Polaris]] missiles.{{sfn|Kenney|2000|pp=184–186}}
+
+This crisis brought the world closer to nuclear war than at any point before or since. In the end, "the humanity" of the two men prevailed.{{sfn|Kenney|2000|p=189}} The crisis improved the image of American willpower and the president's credibility. Kennedy's approval rating increased from 66% to 77% immediately thereafter.{{sfn|Reeves|1993|p=425}}
+
+==== Latin America and communism ====
+{{main|Kennedy and Latin America}}
+
+[[File:Alessandri-Kennedy(2).JPG|thumb|left|250px|President John F. Kennedy with Chilean President [[Jorge Alessandri]], on an official visit in December 1962.]]
+
+Arguing that "those who make peaceful revolution impossible, will make violent revolution inevitable,"<ref>JFK's "Address on the First Anniversary of the Alliance for Progress," White House reception for diplomatic cors of the Latin American republics, March 13, 1962. ''Public Papers of the Presidents''&nbsp;– John F. Kennedy (1962), p. 223.</ref> Kennedy sought to contain the perceived threat of communism in [[Latin America]] by establishing the [[Alliance for Progress]], which sent aid to some countries and sought greater [[human rights]] standards in the region.{{sfn|Schlesinger|2002|pp=788, 789}} He worked closely with [[Governor of Puerto Rico]] [[Luis Muñoz Marín]] for the development of the Alliance of Progress, and began working towards the autonomy of the Commonwealth of [[Puerto Rico]].
+
+When the president took office, the Eisenhower administration, through the CIA, had begun formulating plans for the assassination of Castro in Cuba and [[Rafael Trujillo]] in the [[Dominican Republic]]. Kennedy privately instructed the CIA that any such planning must include plausible deniability by the U.S. His public position was in opposition.{{sfn|Reeves|1993|pp=140–142}} In June 1961 the Dominican Republic's leader was assassinated; in the days following the event, Undersecretary of State [[Chester Bowles]] led a cautious reaction by the nation. Robert Kennedy, who saw an opportunity for the U.S., called Bowles "a gutless bastard" to his face.{{sfn|Reeves|1993|p=152}}
+
+==== Peace Corps ====
+{{listen
+| title = Establishment of the Peace Corps
+| filename = JFK Establishment of the Peace Corps edit.ogg
+| description = John F. Kennedy's announcement of the establishment of the [[Peace Corps]]
+| image = [[File:Executive Order 10924 from NARA.jpg|alt=Physical text copy of the [[Executive Order]] establishing the [[Peace Corps]]|100px|thumb|Executive Order 10924]]
+}}
+As one of his first presidential acts, Kennedy asked Congress to create the [[Peace Corps]]. His brother-in-law, [[Sargent Shriver]], was the first director.{{sfn|Dallek|2003|pp=338–339}} Through this program, Americans volunteer to help underdeveloped nations in areas such as education, farming, health care, and construction. The organization grew to 5,000 members by March 1963 and 10,000 the following year.{{sfn|Schlesinger|2002|pp=606–607}} Since 1961, over 200,000 Americans have joined the Peace Corps, serving in 139 countries.<ref>{{cite book | last1 = Meisler | first1 = Stanley | title = When the World Calls: The Inside Story of the Peace Corps and Its First Fifty Years | publisher = Beacon Press | year = 2011 | isbn = 978-0807050491}}</ref><ref>{{cite web | url = http://www.peacecorps.gov/index.cfm?shell=about.fastfacts | title = Peace Corps, Fast Facts | accessdate = July 14, 2012}}</ref>
+
+==== Southeast Asia ====
+{{main|1963 South Vietnamese coup|Arrest and assassination of Ngo Dinh Diem|Reaction to the 1963 South Vietnamese coup|Cable 243|Buddhist crisis|Thích Qu?ng Ð?c|Xá L?i Pagoda raids|Krulak Mendenhall mission|McNamara Taylor mission}}
+
+When briefing Kennedy, Eisenhower emphasized that the communist threat in Southeast Asia required priority; Eisenhower considered [[Laos]] to be "the cork in the bottle" in regards to the regional threat. In March 1961, Kennedy voiced a change in policy from supporting a "free" Laos to a "neutral" Laos, indicating privately that [[Vietnam]], and not Laos, should be deemed America's tripwire for communism's spread in the area.{{sfn|Reeves|1993|p=75}}
+
+In May 1961 he dispatched Lyndon Johnson to meet with South Vietnam's President [[Ngo Dinh Diem]]. Johnson assured Diem more aid in molding a fighting force that could resist the communists.{{sfn|Karnow|1991|pp=230, 268}} Kennedy announced a change of policy from support to partnership with Diem in defeat of communism in [[South Vietnam]].{{sfn|Reeves|1993|p=119}}
+
+Kennedy initially followed Eisenhower's lead, using limited military action to fight the communist forces led by [[Ho Chi Minh]].{{sfn|Dunnigan|Nofi|1999|p=257}} He continued policies that provided political, economic, and military support to the South Vietnamese government.{{sfn|Dunnigan|Nofi|1999|p=257}} Late in 1961, the [[Viet Cong]] began assuming a predominant presence, initially seizing the provincial capital of Phuoc Vinh.{{sfn|Reeves|1993|p=240}} Kennedy increased the number of helicopters, military advisors, and undeclared [[U.S. Special Forces]] in the area, but he was reluctant to order a full-scale deployment of troops.{{sfn|Reeves|1993|p=242}}<ref>{{cite web | url = http://www.swarthmore.edu/library/peace/conscientiousobjection/OverviewVietnamWar.htm | title = Vietnam War | publisher = College Peace Collection | ref = harv }}</ref>
+
+In late 1961, President Kennedy sent [[Roger Hilsman]], then director of the State Department's Bureau of Intelligence and Research, to assess the situation in Vietnam. There, Hilsman met [[Sir Robert Thompson]], head of the British Advisory Mission to South Vietnam and the concept of the [[Strategic Hamlet Program]] was  formed. It was approved by Kennedy and South Vietnam President [[Ngo Dinh Diem]]. It was implemented in early 1962 and involved some forced relocation, village internment, and segregation of rural South Vietnamese into new communities where the peasantry would be isolated from Communist insurgents. It was hoped these new communities would provide security for the peasants and strengthen the tie between them and the central government. By November 1963 the program waned and officially ended in 1964.{{sfn|Tucker|2011|p=1070}}
+
+In early 1962, Kennedy formally authorized escalated involvement when he signed the "National Security Action Memorandum&nbsp;– Subversive Insurgency (War of Liberation)".{{sfn|Reeves|1993|p=281}} Secretary of State [[Dean Rusk]] voiced strong support for U.S. involvement.{{sfn|McNamara|2000|p=143}} "[[Operation Ranch Hand]]", a large-scale aerial defoliation effort, began on the roadsides of South Vietnam.{{sfn|Reeves|1993|p=259}}{{efn|name=defoliant|Two hundred thousand gallons of defoliant were shipped, in violation of the [[Geneva Conference (1954)|Geneva Accords]]. By the end of 1962, American military personnel had increased from 2,600 to 11,500; 109 men were killed compared to 14 the previous year. During 1962, Viet Cong troops increased from 15,000 to 24,000. Depending on which assessment Kennedy accepted (Department of Defense or State) there had been zero or modest progress in countering the increase in communist aggression in return for an expanded U.S. involvement. {{harvnb|Reeves|1993|p=283}}.}}
+
+[[File:John F. Kennedy and Harold Holt.jpg|thumb|250px|Kennedy with future [[Prime Minister of Australia|Australian Prime Minister]] [[Harold Holt]] in [[Oval Office|the Oval Office]] in 1963.]]
+In April 1963, Kennedy assessed the situation in Vietnam: "We don't have a prayer of staying in Vietnam. Those people hate us. They are going to throw our asses out of there at any point. But I can't give up that territory to the communists and get the American people to re-elect me".{{sfn|Reeves|1993|p=484}} Kennedy faced a crisis in Vietnam by July; despite increased U.S. support, the South Vietnamese military was only marginally effective against pro-communist Viet Cong forces.
+
+On August 21, just as the new U.S. Ambassador [[Henry Cabot Lodge, Jr.]] arrived, Diem and his brother [[Ngo Dinh Nhu]] ordered South Vietnam forces, funded and trained by the CIA, to quell Buddhist demonstrations. The crackdowns heightened expectations of a [[coup d'état]] to remove Diem with (or perhaps by) his brother, Nhu.{{sfn|Reeves|1993|p=558}} Lodge was instructed to try to get Diem and Nhu to step down and leave the country. Diem would not listen to Lodge.{{sfn|Reeves|1993|p=559}}
+
+[[Cable 243]] (DEPTEL 243), dated August 24, followed, declaring Washington would no longer tolerate Nhu's actions, and Lodge was ordered to pressure Diem to remove Nhu. If Diem refused, the Americans would explore alternative leadership.{{sfn|Reeves|1993|pp=562–563}} Lodge stated that the only workable option was to get the South Vietnamese generals to overthrow Diem and Nhu, as originally planned.{{sfn|Reeves|1993|p=573}}
+
+At week's end, Kennedy learned from Lodge that the Diem government might, due to France's assistance to Nhu, be dealing secretly with the communists—and might ask the Americans to leave; orders were sent to Saigon and throughout Washington to "destroy all coup cables".{{sfn|Reeves|1993|p=577}} At the same time, the first formal anti-Vietnam war sentiment was expressed by U.S. clergy from the Ministers' Vietnam Committee.{{sfn|Reeves|1993|p=560}}
+
+A White House meeting in September was indicative of the very different ongoing appraisals; the president was given updated assessments after personal inspections on the ground by the Department of Defense (General [[Victor Krulak]]) and the State Department ([[Joseph Mendenhall]]). Krulak said that the military fight against the communists was progressing and being won, while Mendenhall stated that the country was civilly being lost to any U.S. influence. Kennedy reacted, saying, "Did you two gentlemen visit the same country?" The president was unaware that the two men were at such odds that they had not spoken to each other on the return flight.{{sfn|Reeves|1993|p=595}}
+
+In October 1963, the president appointed Defense Secretary McNamara and General [[Maxwell D. Taylor]] to a Vietnam mission in another effort to synchronize the information and formulation of policy. The objective of the [[McNamara Taylor mission]] "emphasized the importance of getting to the bottom of the differences in reporting from U.S. representatives in Vietnam".{{sfn|Reeves|1993|p=602}} In meetings with McNamara, Taylor, and Lodge, Diem again refused to agree to governing measures insisted upon by the U.S., helping to dispel McNamara's previous optimism about Diem.{{sfn|Reeves|1993|p=609}}
+
+Taylor and McNamara were also enlightened by Vietnam's vice president, [[Nguyen Ngoc Tho]] (choice of many to succeed Diem should a coup occur), who in detailed terms obliterated Taylor's information that the military was succeeding in the countryside.{{sfn|Reeves|1993|p=610}} At Kennedy's insistence, the mission report contained a recommended schedule for troop withdrawals: 1,000 by year's end and complete withdrawal in 1965, something the NSC considered a strategic fantasy.{{sfn|Reeves|1993|p=613}} The final report declared that the military was making progress, that the increasingly unpopular Diem-led government was not vulnerable to a coup, and that an assassination of Diem or Nhu was a possibility.{{sfn|Reeves|1993|p=612}}
+
+In late October, intelligence wires again reported that a coup against the Diem government was afoot. The source, Vietnamese General [[Duong Van Minh]] (also known as "Big Minh"), wanted to know the U.S. position. Kennedy instructed Lodge to offer covert assistance to the coup, excluding assassination, and to ensure deniability by the U.S.{{sfn|Reeves|1993|p=617}} Later that month, as the coup became imminent, Kennedy ordered all cables to be routed through him. A policy of "control and cut out" was initiated to insure presidential control of U.S. responses, while cutting him out of the paper trail.{{sfn|Reeves|1993|p=638}}
+
+On November 1, 1963, South Vietnamese generals, led by "Big Minh", [[1963 South Vietnamese coup|overthrew the Diem government]], arresting [[Arrest and assassination of Ngo Dinh Diem|and then killing Diem and Nhu]]. Kennedy was shocked by the deaths. He found out afterwards that Minh had asked the CIA field office to secure safe-passage out of the country for Diem and Nhu, but was told that 24 hours were needed to procure a plane. Minh responded that he could not hold them that long.{{sfn|Reeves|1993|p=650}}
+
+News of the coup initially led to renewed confidence—both in America and in South Vietnam—that the war might be won.{{sfn|Reeves|1993|p=651}} [[McGeorge Bundy]] drafted a National Security Action Memo to present to Kennedy upon his return from Dallas. It reiterated the resolve to fight communism in Vietnam, with increasing military and economic aid and expansion of operations into Laos and Cambodia. Before leaving for Dallas, Kennedy told [[Michael Forrestal]] that "after the first of the year&nbsp;... [he wanted] an in depth study of every possible option, including how to get out of there&nbsp;... to review this whole thing from the bottom to the top". When asked what he thought the president meant, Forrestal said, "it was devil's advocate stuff."{{sfn|Reeves|1993|p=660}}
+
+Historians disagree on whether Vietnam would have escalated had Kennedy survived and been re-elected in 1964.<ref>{{cite journal | first = Joseph J. | last = Ellis | title = Making Vietnam History | journal = Reviews in American History | volume = 28 | issue = 4 | year = 2000 | pages = 625–629 | doi = 10.1353/rah.2000.0068 }}</ref> Fueling the debate are statements made by Secretary of Defense McNamara in the film "[[The Fog of War]]" that Kennedy was strongly considering pulling out of Vietnam after the 1964 election.<ref>{{cite news| url=http://www.time.com/time/specials/2007/article/0,28804,1635958_1635999_1634954-5,00.html | work=Time Magazine | title=Warrior For Peace | date=June 21, 2007 | accessdate=March 1, 2012 | first1=David | last1=Talbot}}</ref> The film also contains a tape recording of Lyndon Johnson stating that Kennedy was planning to withdraw, a position that Johnson disagreed with.{{sfn|Blight|Lang|2005|p=276}} Kennedy had signed National Security Action Memorandum (NSAM) 263, dated October 11, which ordered the withdrawal of 1,000 military personnel by the end of the year.<ref name="NSAM 263">{{cite web |url = http://www.jfklancer.com/NSAM263.html |work = JFK Lancer |last = Bundy |first = McGeorge| authorlink=McGeorge Bundy |title = National Security Action Memorandum # 263 |date = October 11, 1963 |accessdate =February 19, 2012 }}</ref>{{sfn|Dallek|2003|p=680}} Such an action would have been a policy reversal, but Kennedy was moving in a less hawkish direction since his acclaimed speech about world peace at [[American University]] on June 10, 1963.<ref name="AmUniv">[http://www.american.edu/media/speeches/Kennedy.htm "1963 Commencement"] June 10, 1963. Retrieved February 14, 2010.</ref>
+
+When Robert Kennedy was asked in 1964 what his brother would have done if the South Vietnamese had been on the brink of defeat, he replied, "We'd face that when we came to it."<ref>{{cite news| url = http://www.nytimes.com/2003/05/25/weekinreview/the-world-new-chapter-old-debate-would-kennedy-have-quit-vietnam.html?pagewanted=all&src=pm | work=New York Times | title=The World: New Chapter, Old Debate; Would Kennedy Have Quit Vietnam? | date=May 25, 2003 | accessdate=January 27, 2012 | first1=Ronald | last1=Steel }}</ref> At the time of Kennedy's death, no final policy decision had been made as to Vietnam.{{sfn|Matthews|2011|pp=393, 394}} U.S. involvement in the region escalated until Lyndon Johnson, his successor, directly deployed regular U.S. military forces for fighting the [[Vietnam War]].{{sfn|Karnow|1991|pp=339, 343}}<ref>{{cite journal|archiveurl = https://web.archive.org/web/20080202203114rn_1/people-press.org/commentary/display.php3?AnalysisID=57 | title = Generations Divide Over Military Action in Iraq | publisher = Pew Research Center|date=October 2002 | ref = harv | url = http://people-press.org/commentary/?analysisid=57 | archivedate = February 2, 2008 }}</ref> After Kennedy's assassination, President Johnson passed NSAM 273 on November 26, 1963. It reversed Kennedy's decision to withdraw 1,000 troops, and reaffirmed the policy of assistance to the South Vietnamese.<ref>{{cite web | url = http://www.jfklancer.com/NSAM273.html | work = JFK Lancer | last = Bundy | first = McGeorge | title = National Security Action Memorandum Number 273 |date =  November 26, 1963 | accessdate =February 19, 2012 }}</ref><ref>{{cite web | title = NSAM 273: South Vietnam | url = http://www.lbjlib.utexas.edu/johnson/archives.hom/NSAMs/nsam273.asp | accessdate =February 19, 2012 }}</ref>
+
+==== American University speech ====
+[[File:President Kennedy American University Commencement Address June 10, 1963.jpg|thumb|upright|left|Kennedy delivers the [[commencement speech]] at [[American University]], June 10, 1963]]
+{{Wikisource|A Strategy of Peace}}
+{{Listen
+| filename = Jfk American University 4654 06-10-63.ogg
+| title = ''World Peace'' Speech
+| description = Speech from [[American University]] by John F. Kennedy, June 10, 1963 (duration 26:47)
+| format = Ogg
+}}
+On June 10, 1963, Kennedy delivered the [[American University speech|commencement address at American University]] in Washington, D.C., "to discuss a topic on which too often ignorance abounds and the truth is too rarely perceived—yet it is the most important topic on earth: world peace&nbsp;... I speak of peace because of the new face of war...in an age when a singular nuclear weapon contains ten times the explosive force delivered by all the allied forces in the Second World War&nbsp;... an age when the deadly poisons produced by a nuclear exchange would be carried by wind and air and soil and seed to the far corners of the globe and to generations yet unborn&nbsp;... I speak of peace, therefore, as the necessary rational end of rational men&nbsp;... world peace, like community peace, does not require that each man love his neighbor—it requires only that they live together in mutual tolerance&nbsp;... our problems are man-made—therefore they can be solved by man. And man can be as big as he wants."{{sfn|Reeves|1993|pp=513–514}} The president also made two announcements—that the Soviets had expressed a desire to negotiate a nuclear test ban treaty and that the U.S had postponed planned atmospheric tests.{{sfn|Reeves|1993|p=514}}
+
+==== West Berlin speech ====
+{{Listen
+| filename = Ich bin ein Berliner Speech (June 26, 1963) John Fitzgerald Kennedy trimmed.theora.ogv
+| title = ''Ich bin ein Berliner'' (I am a Berliner) speech
+| description = ''[[Ich bin ein Berliner]]'' speech from the [[Rathaus Schöneberg]] by John F. Kennedy, June 26, 1963 (duration 9:01)
+| filename2 = Jfk berlin address high.ogg
+| title2 = ''Ich bin ein Berliner'' (I am a Berliner) speech (audio)
+| description2 = Audio-only version (duration 9:22)
+| format = [[Ogg]]
+| type = speech
+| help = no
+}}
+
+[[File:JFKBerlinSpeech.jpg|thumb|left|upright|Kennedy delivering his speech in [[West Berlin]]]]
+{{Wikisource|Ich bin ein Berliner|JFK's Ich bin ein Berliner speech}}
+
+In 1963, Germany was enduring a time of particular vulnerability due to Soviet aggression to the east, de Gaulle's French nationalism to the west, and the impending retirement of West German Chancellor [[Adenauer]].{{sfn|Reeves|1993|p=534}} On June 26 Kennedy gave a public speech in [[West Berlin]] reiterating the American commitment to Germany and criticizing communism. He was met with an ecstatic response from a massive audience.{{sfn|Dallek|2003|p=624}}
+
+Kennedy used the construction of the Berlin Wall as an example of the failures of communism: "Freedom has many difficulties, and democracy is not perfect. But we have never had to put a wall up to keep our people in, to prevent them from leaving us." The speech is known for its famous phrase ''"[[Ich bin ein Berliner]]"'' ("I am a citizen of Berlin"). A million people were on the street for the speech.{{sfn|Dallek|2003|p=624}} He remarked to [[Ted Sorensen]] afterwards: "We'll never have another day like this one, as long as we live."{{sfn|Reeves|1993|p=537}}
+
+==== Israel ====
+[[File:Kennedy-Golda Meir.jpg|thumb|200px|[[Foreign Affairs Minister of Israel|Israeli Foreign Minister]] [[Golda Meir]] with Kennedy, December 27, 1962.]]
+In 1960, Kennedy stated: "Israel will endure and flourish. It is the child of hope and the home of the brave. It can neither be broken by adversity nor demoralized by success. It carries the shield of democracy and it honors the sword of freedom".<ref>John F. Kennedy: "Speech by Senator John F. Kennedy, Zionists of America Convention, Statler Hilton Hotel, New York, NY," August 26, 1960</ref>
+
+Subsequently as president, Kennedy initiated the creation of security ties with Israel, and he is credited as the founder of the US-Israeli military alliance (which would be continued under subsequent presidents). Kennedy ended the arms embargo that the Eisenhower and Truman administrations had enforced on Israel. Describing the protection of Israel as a moral and national commitment, he was the first to introduce the concept of a 'special relationship' (as he described it to [[Golda Meir]]) between the US and Israel.<ref>Shannon, Vaughn P. (2003), ''Balancing Act: US Foreign Policy and the Arab-Israeli Conflict'', Ashgate Publishing, Ltd., p. 55</ref>
+
+Kennedy extended the first informal security guarantees to Israel in 1962 and, beginning in 1963, was the first US president to allow the sale to Israel of advanced US weaponry (the [[MIM-23 Hawk]]), as well as to provide diplomatic support for Israeli policies which were opposed by Arab neighbours; such as its water project on the Jordan River.<ref>Walt, Stephen M. (1987). ''The Origins of Alliances'', Cornell University Press, pp. 95-96</ref>
+
+As result of this newly created security alliance, Kennedy also encountered tensions with the Israeli government regarding the production of nuclear materials in [[Dimona]], which he believed could instigate a nuclear arms-race in the Middle East. After the existence of a nuclear plant was initially denied by the Israeli government, [[David Ben-Gurion]] stated in a speech to the Israeli [[Knesset]] on December 21, 1960, that the purpose of the nuclear plant at [[Beersheba]] was for "research in problems of arid zones and desert flora and fauna".{{sfn|Salt|2008|p=201}} When Ben-Gurion met with Kennedy in New York, he claimed that Dimona was being developed to provide nuclear power for desalinization and other peaceful purposes "for the time being".{{sfn|Salt|2008|p=201}}
+
+When Kennedy wrote that he was skeptical, and stated in a May 1963 letter to Ben-Gurion that American support to Israel could be in jeopardy if reliable information on the Israeli nuclear program was not forthcoming, Ben-Gurion repeated previous reassurances that Dimona was being developed for peaceful purposes. The Israeli government resisted American pressure to open its nuclear facilities to [[International Atomic Energy Agency]] (IAEA) inspections. In 1962, the US and Israeli governments had agreed to an annual inspection regime. A science attaché at the embassy in Tel Aviv concluded that parts of the Dimona facility had been shut down temporarily to mislead American scientists when they visited.{{sfn|Salt|2008|p=202}}
+
+According to [[Seymour Hersh]], the Israelis set up false control rooms to show the Americans. Israeli lobbyist Abe Feinberg stated, "It was part of my job to tip them off that Kennedy was insisting on [an inspection]."{{sfn|Salt|2008|p=202}} Hersh contends the inspections were conducted in such a way that it "guaranteed that the whole procedure would be little more than a whitewash, as the president and his senior advisors had to understand: the American inspection team would have to schedule its visits well in advance, and with the full acquiescence of Israel.".<ref>Hersh, ''Samson Option'', pp. 110-111</ref> [[Marc Trachtenberg]] argued: "Although well aware of what the Israelis were doing, Kennedy chose to take this as satisfactory evidence of Israeli compliance with America's non-proliferation policy."<ref>{{cite web|author=Trachtenberg, Marc|title=''A Constructed Peace: The Making of the European Settlement, 1945–1963''|publisher=[[Princeton University Press]]|date=February 8, 1999|page=403, Appendix Eight (Chapter Nine, Note 134)|url= http://www.sscnet.ucla.edu/polisci/faculty/trachtenberg/appendices/appendixVIII.html|accessdate=November 20, 2012}}</ref> The American who led the inspection team stated that the essential goal of the inspections was to find "ways to not reach the point of taking action against Israel's nuclear weapons program".<ref>Hersh, ''Samson Option'', p. 112</ref>
+
+[[Rodger Davies]], the director of the State Department's Office of Near Eastern Affairs, concluded in March 1965 that Israel was developing [[nuclear weapons]]. He reported that Israel's target date for achieving nuclear capability was 1968–69.{{sfn|Salt|2008|p=203}} On May 1, 1968, Undersecretary of State [[Nicholas Katzenbach]] told President Johnson that Dimona was producing enough plutonium to produce two bombs a year. The State Department argued that if Israel wanted arms, it should accept international supervision of its nuclear program.{{sfn|Salt|2008|p=202}} Dimona was never placed under IAEA safeguards. Attempts to write Israeli adherence to the [[Nuclear Non-Proliferation Treaty]] (NPT) into contracts for the supply of U.S. weapons continued throughout 1968.{{sfn|Salt|2008|pp=201–205}}
+
+==== Iraq ====
+{{Main|Ramadan Revolution}}
+
+In 1963, the Kennedy administration backed the [[Ramadan Revolution|coup against the government of Iraq]] headed by [[Abd al-Karim Qasim]], who five years earlier had deposed the Western-allied [[List of kings of Iraq|Iraqi monarchy]].<ref>{{cite book | author = [[Con Coughlin|Coughlin, Con]] |  page = 39 | title = Saddam: His Rise and Fall | location = | publisher = [[Harper Perennial]] | year = 2005 | isbn =  0-06-050543-5}}</ref> On February 8, 1963, Kennedy received a memo stating: "We will make informal friendly noises as soon as we can find out whom to talk with, and ought to recognize as soon as we're sure these guys are firmly in the saddle. CIA had excellent reports on the plotting, but I doubt either they or UK should claim much credit for it."<ref>JFK Library, Memorandum for The President from Robert W. Komer, February 8, 1963 (JFK, NSF, Countries, Iraq, Box 117, "Iraq 1/63-2/63", document 18), p. 1.</ref> The CIA had planned to remove Qasim in the past, but those efforts did not come to fruition.<ref>Senate Select Committee on Intelligence (November 20, 1975), [http://history-matters.com/archive/church/reports/ir/contents.htm "C. Institutionalizing Assassination: the "Executive Action" capability,"] Alleged Assassination Plots involving Foreign Leaders, p. 181.</ref>
+
+The new government, led by President [[Abdul Salam Arif]] and dominated by the [[Ba'ath Party]] (along with a coalition of [[Nasserist]]s and [[Iraqi nationalist]]s), used lists—possibly provided by the CIA—of suspected communists and other leftists to systematically murder unknown numbers of Iraq's educated elite.<ref name = "list">{{cite journal | first =Hanna | last =Batatu | year = | month = | title =CIA Lists Provide Basis for Iraqi Bloodbath | journal =Global Policy Forum | volume = | issue = | pages = | id =
+| url =http://www.globalpolicy.org/security/issues/iraq/history/1963cialist.htm
+}} Excerpt from ''The Old Social Classes and the Revolutionary Movements of Iraq'', Princeton: Princeton University Press, 1978.</ref><ref>Peter and Marion Sluglett, ''Iraq Since 1958'', London, I.B. Taurus, 1990, p. 86. "Although individual leftists had been murdered intermittently over the previous years, the scale on which the killings and arrests took place in the spring and summer of 1963 indicates a closely coordinated campaign, and it is almost certain that those who carried out the raid on suspects' homes were working from lists supplied to them. Precisely how these lists had been compiled is a matter of conjecture, but it is certain that some of the Ba'athist leaders were in touch with American intelligence networks, and it is also undeniable that a variety of different groups in Iraq and elsewhere in the Middle East had a strong vested interest in breaking what was probably the strongest and most popular Communist Party in the region."</ref> After a power struggle with the Ba'athist Prime Minister, [[Ahmed Hassan al-Bakr]], Arif [[November 1963 Iraqi coup d'état|purged the Ba'ath Party from the government]].<ref>Reich, Bernard. ''Political Leaders of the Contemporary Middle East and North Africa: A Biographical Dictionary'', Greenwood Press, 1990. p. 241. ISBN 0313262136.</ref> Former CIA officer James Chritchfield disputed the notion that the CIA offered "active support" to the coup plotters, arguing that while "well-informed" on the first coup, it was "surprised" by the power struggles that followed.<ref>Frontline.  [http://www.pbs.org/wgbh/pages/frontline/shows/saddam/interviews/critchfield.html "James Chritchfield Interview."]  1995.  [[PBS]].</ref>
+
+==== Ireland ====
+
+[[File:JFK-John Barry Memorial.jpg|250px|thumb|John F. Kennedy visiting the John Barry Memorial at Crescent Quay in Wexford, Ireland.]]
+[[File:President's Trip to Europe- Motorcade in Dublin. President Kennedy, motorcade, spectators. Dublin, Ireland - NARA - 194227.jpg|thumb|left|250px|President Kennedy in motorcade in Patrick Street, [[Cork (city)|Cork]], in [[Republic of Ireland|Ireland]] on June 28, 1963.]]
+
+During his four-day visit to his ancestral home of [[Ireland]] in June 1963,<ref>{{cite web|title=President John F. Kennedy on His Historic Trip to Ireland|url=http://www.shapell.org/manuscript.aspx?kennedy-ireland-trip|work=Shapell Manuscript Collection|publisher=Shapell Manuscript Foundation}}</ref>  Kennedy accepted a grant of [[armorial bearings]] from the [[Chief Herald of Ireland]] and received honorary degrees from the [[National University of Ireland]] and [[Trinity College, Dublin]].{{sfn|Sorensen|1966|p=656}} He visited the cottage at Dunganstown, near [[New Ross]], [[County Wexford]] where his ancestors had lived before emigrating to America.<ref name="BBC 1963">{{cite news|url=http://news.bbc.co.uk/onthisday/hi/dates/stories/june/27/newsid_4461000/4461115.stm|title=1963: Warm welcome for JFK in Ireland|accessdate=February 23, 2012|publisher=BBC | date=June 27, 1963}}</ref>
+
+He also became the first foreign leader to address the [[Oireachtas|Houses of the Oireachtas]] (the Irish parliament).<ref>
+* [http://www.rte.ie/archives/2013/0628/459367-jfk-is-first-foreign-leader-to-address-the-dail/ JFK is First Foreign Leader to Address Dáil Éireann] (Text and video) RTÉ Archives, June 28, 1963.
+* [http://www.jfklibrary.org/Asset-Viewer/lPAi7jx2s0i7kePPdJnUXA.aspx Address Before the Irish Parliament in Dublin, June 28, 1963] (Text and audio) Kennedy Library and Museum, 1963-06-28.
+* [http://www.rte.ie/archives/exhibitions/1722-john-f-kennedy/ President Kennedy in Ireland]  (Text and video) RTÉ Archives. Retrieved: 2013-07-03.
+* [http://jfkhomecoming.com/ JFK Homecoming Memory Project]
+</ref> On December 22, 2006, the Irish [[Department of Justice and Equality|Department of Justice]] released declassified police documents indicating that security was heightened as Kennedy was the subject of three death threats during this visit.<ref name="Cowell 2006">{{cite news|last=Cowell|first=Alan|url=http://www.deseretnews.com/article/650218799/JFK-faced-3-death-threats-during-63-visit-to-Ireland.html |title=JFK faced 3 death threats during '63 visit to Ireland|agency=New York Times News Service |newspaper=Deseret News|location=Salt Lake City |date=December 29, 2006 |accessdate=February 23, 2012}}</ref>
+
+==== Nuclear Test Ban Treaty ====
+{{main|Partial Nuclear Test Ban Treaty}}
+
+Troubled by the long-term dangers of [[radioactive contamination]] and [[nuclear proliferation|nuclear weapons proliferation]], Kennedy and Khrushchev agreed to negotiate a nuclear test ban treaty, originally conceived in [[Adlai Stevenson II|Adlai Stevenson]]'s 1956 presidential campaign.{{sfn|Reeves|1993|p=552}} In their [[Vienna summit]] meeting in June 1961, Khrushchev and Kennedy reached an informal understanding against nuclear testing, but the Soviet Union began testing nuclear weapons that September. The United States responded by conducting tests five days later.{{sfn|Reeves|1993|p=227}} Shortly thereafter, new U.S. satellites began delivering images which made it clear that the Soviets were substantially behind the U.S. in the arms race.{{sfn|Reeves|1993|p=229}} Nevertheless, the greater nuclear strength of the U.S. was of little value as long as the U.S.S.R. perceived themselves to be at parity.{{sfn|Reeves|1993|p=243}}
+
+In July 1963, Kennedy sent [[W. Averell Harriman]] to Moscow to negotiate a treaty with the Soviets.{{sfn|Reeves|1993|p=542}} The introductory sessions included Khrushchev, who later delegated Soviet representation to [[Andrei Gromyko]]. It quickly became clear that a comprehensive test ban would not be implemented, due largely to the reluctance of the Soviets to allow inspections that would verify compliance.{{sfn|Reeves|1993|p=548}}
+
+Ultimately, the United States, the United Kingdom, and the Soviet Union were the initial signatories to a limited treaty, which prohibited atomic testing on the ground, in the atmosphere, or underwater, but not underground. The U.S. Senate ratified this and Kennedy signed it into law in October 1963. France was quick to declare that it was free to continue developing and testing its nuclear defenses.{{sfn|Reeves|1993|p=550}}
+
+=== Domestic policy ===
+[[File:Fort Worth rally, 22 November 1963.jpg|thumb|250px|President Kennedy in [[Fort Worth, Texas]] on November 22, 1963.]]
+Kennedy called his domestic program the "[[New Frontier]]". It ambitiously promised federal funding for education, medical care for the elderly, economic aid to rural regions, and government intervention to halt the recession. Kennedy also promised an end to [[racial discrimination]].<ref name="Jaikumar 2011">{{cite news | last=Jaikumar| first=Arjun| title=On taxes, let's be Kennedy Democrats. Or Eisenhower Republicans. Or Nixon Republicans. | url = http://www.dailykos.com/story/2011/07/10/992860/-On-taxes,-lets-be-Kennedy-Democrats-Or-Eisenhower-Republicans-Or-NixonRepublicans- | work=Daily Kos  | date=July 10, 2011 | accessdate=February 23, 2012 }}</ref>
+
+In his 1963 [[State of the Union address]], he proposed substantial tax reform and a reduction in income tax rates from the current range of 20–90% to a range of 14–65%; he proposed a reduction in the corporate tax rates from 52 to 47%. Kennedy added that the top rate should be set at 70% if certain deductions were not eliminated for high income earners.<ref name="Jaikumar 2011"/> Congress did not act until 1964, after his death, when the top individual rate was lowered to 70%, and the top corporate rate was set at 48% (see [[Revenue Act of 1964]]).<ref>{{cite book |title=Why Budgets Matter: Budget Policy and American Politics |last=Ippolito |first=Dennis |year=2004 |publisher=Penn State Press |pages=173–175|isbn=0-271-02260-4}}</ref>
+
+To the [[Economic Club of New York]], he spoke in 1963 of "...&nbsp;the paradoxical truth that tax rates are too high and revenues too low; and the soundest way to raise revenue in the long term is to lower rates now."{{sfn|Reeves|1993|p=453}} Congress passed few of Kennedy's major programs during his lifetime, but did vote them through in 1964–65 under his successor Johnson.{{sfn|Barnes|2007|p=8}}
+
+==== Economy ====
+Kennedy ended a period of tight fiscal policies, loosening monetary policy to keep [[interest rate]]s down and encourage growth of the economy.{{sfn|Frum|2000|p=293}} He presided over the first government budget to top the $100&nbsp;billion mark, in 1962, and his first budget in 1961 led to the country's first non-war, non-recession [[Government budget deficit|deficit]].{{sfn|Frum|2000|p=324}} The economy, which had been through two recessions in three years and was in one when Kennedy took office, accelerated notably during his presidency. Despite low inflation and interest rates, [[GDP]] had grown by an average of only 2.2% per annum during the Eisenhower presidency (scarcely more than population growth at the time), and had declined by 1% during Eisenhower's last twelve months in office.<ref name="Bureau of Economic Analysis">{{cite web | url = http://www.bea.gov/national/nipaweb/TableView.asp?SelectedTable=6&ViewSeries=NO&Java=no&Request3Place=N&3Place=N&FromView=YES&Freq=Qtr&FirstYear=1953&LastYear=1964&3Place=N&Update=Update&JavaBox=no | title = BEA: Quarterly GDP figures by sector, 1953–1964 | publisher = United States Department of Commerce, Bureau of Economic Analysis | accessdate =February 23, 2012 }}</ref>
+
+The economy turned around and prospered during the Kennedy administration. GDP expanded by an average of 5.5% from early 1961 to late 1963,<ref name="Bureau of Economic Analysis" /> while inflation remained steady at around 1% and unemployment eased.<ref name="GDP 1913 to 2002">{{cite web | url = http://www.census.gov/statab/hist/HS-36.pdf | title = Consumer and Gross Domestic Price Indices: 1913 to 2002 | publisher = U.S. Census Bureau  | format = PDF | year =2003 | accessdate =February 23, 2012 }}</ref> Industrial production rose by 15% and motor vehicle sales rose by 40%.<ref name="Statistical Abstract 1964">{{cite web | url = http://www2.census.gov/prod2/statcomp/documents/1964-01.pdf | title = Statistical Abstract of the United States, 1964 | publisher = U.S. Department of Commerce| format = PDF | date = July 1964 | accessdate =March 28, 2010 }}</ref> This rate of growth in GDP and industry continued until around 1969, and has yet to be repeated for such a sustained period of time.<ref name="Bureau of Economic Analysis" />
+
+Jack's brother Bobby stated "We're going for broke..... their expense accounts, where they've been and what they've been doing..... the FBI is to interview them all..... we can't lose this."{{sfn|Reeves|1993|p=298}}
+
+Robert took the position that [[Roger Blough|the steel executives]] had illegally colluded to fix prices. The administration's actions influenced [[U.S. Steel]] to rescind the price increase.<ref name="Time 1962">{{cite news | title = The Presidency: Smiting the Foe | date = April 20, 1962 | work = TIME | url = http://www.time.com/time/magazine/article/0,9171,873526-3,00.html }}</ref> ''[[The Wall Street Journal]]'' wrote that the administration had acted "by naked power, by threats, by agents of the state security police."{{sfn|O'Brien|2005|p=645}} Yale law professor [[Charles Reich]] opined in ''[[The New Republic]]'' that the administration had violated civil liberties by calling a grand jury to indict U.S. Steel for collusion so quickly.{{sfn|O'Brien|2005|p=645}}
+
+A ''[[New York Times]]'' editorial praised Kennedy's actions and said that the steel industry's price increase "imperils the economic welfare of the country by inviting a tidal wave of inflation."<ref name="NY Times 1962">{{cite news | title = Inflation in Steel | date = April 12, 1962 | work = New York Times | url = http://select.nytimes.com/gst/abstract.html?res=F00615FD3F5C117B93C0A8178FD85F468685F9&scp=2&sq=Inflation%20in%20Steel&st=cse}}</ref> Nevertheless, the administration's Bureau of Budget reported the price increase would have resulted in a net gain for GDP as well as a net budget surplus.{{sfn|Reeves|1993|p=300}} The stock market, which had steadily declined since Kennedy's election, dropped 10% shortly after the administration's action on the steel industry.{{sfn|Reeves|1993|pp=318–320}}
+
+==== Federal and military death penalty ====
+As president, Kennedy oversaw the last federal execution prior to [[Furman v. Georgia]], a 1972 case that led to a moratorium on federal executions.<ref>{{cite web | url = http://users.bestweb.net/~rg/execution/DATA%20FEDERAL.htm | archiveurl = https://web.archive.org/web/20030413002030/http://users.bestweb.net/~rg/execution/DATA%20FEDERAL.htm | archivedate = April 13, 2003 | title = Executions 1790 to 1963 | publisher = Web.archive.org | date = April 13, 2003 | accessdate =February 23, 2012 }}</ref> [[Victor Feguer]] was sentenced to death by a federal court in Iowa and was executed on March 15, 1963.<ref name="Goldberg 2001">{{cite news | url = http://www.nytimes.com/2001/05/06/us/federal-executions-have-been-rare-but-may-increase.html | title = Federal Executions Have Been Rare but May Increase | date = May 6, 2001 | last = Goldberg |first = Carey | work = The New York Times | accessdate =February 23, 2012 }}</ref> Kennedy commuted a death sentence imposed by a military court on seaman Jimmie Henderson on February 12, 1962, changing the penalty to life in prison.<ref name="Riechmann 2008">{{cite news | url = http://abcnews.go.com/Politics/wireStory?id=5468945 | title = Bush: Former Army cook's crimes warrant execution | work = [[ABC News]] | last = Riechmann | first= Deb | agency = Associated Press | date = July 29, 2008 | accessdate =February 23, 2012 | archiveurl = https://web.archive.org/web/20080731085456/http://abcnews.go.com/Politics/wireStory?id=5468945 | archivedate = July 31, 2008 }}</ref>
+
+On March 22, 1962, Kennedy signed into law HR5143 (PL87-423), abolishing the mandatory death penalty for [[Murder (United States law)#Degrees of murder in the United States|first degree murder]] in the District of Columbia, the only remaining jurisdiction in the United States with such a penalty.<ref name="JFKlibrary.org leg">{{cite web | url = http://www.jfklibrary.org/Research/Ready-Reference/Legislative-Summary-Main-Page/Legislative-Summary/District-of-Columbia.aspx | title = Legislative Summary: District of Columbia | accessdate =February 23, 2012 | publisher = [[John F. Kennedy Presidential Library]] }}</ref> The death penalty has not been applied in the District of Columbia since 1957, and has now been abolished.<ref>{{cite web | url = http://www.norton.house.gov/index.php?option=com_content&task=view&id=478 | title = Norton Letter to U.S. Attorney Says Death Penalty Trial That Begins Today Part of Troubling and Futile Pattern | date = January 8, 2007 | accessdate =February 23, 2012 | publisher = Office of Congresswoman [[Eleanor Holmes Norton]] }}</ref>
+
+==== Civil rights ====
+The turbulent end of state-sanctioned racial discrimination was one of the most pressing domestic issues of the 1960s. [[Jim Crow]] [[Racial segregation in the United States|segregation]] was the established law in the [[Deep South]].<ref name=Grantham_p156>Grantham (1988), ''The Life and Death of the Solid South: A Political History'', p. 156</ref> The [[Supreme Court of the United States]] had ruled in 1954 in ''[[Brown v. Board of Education]]'' that [[racial segregation]] in public schools was unconstitutional. Many schools, especially in southern states, did not obey the Supreme Court's decision. The Court also prohibited segregation at other public facilities (such as buses, restaurants, theaters, courtrooms, bathrooms, and beaches) but it continued nonetheless.{{sfn|Dallek|2003|pp=292–293}}
+
+Kennedy verbally supported [[racial integration]] and civil rights; during the 1960 campaign he telephoned [[Coretta Scott King]], wife of the Reverend [[Martin Luther King, Jr.]], who had been jailed while trying to integrate a department store lunch counter. Robert Kennedy called Georgia governor [[Ernest Vandiver]] and obtained King's release from prison, which drew additional black support to his brother's candidacy.{{sfn|Dallek|2003|pp=292–293}}
+
+In his first State of the Union Address in January 1961, President Kennedy said "The denial of constitutional rights to some of our fellow Americans on account of race - at the ballot box and elsewhere - disturbs the national conscience, and subjects us to the charge of world opinion that our democracy is not equal to the high promise of our heritage."<ref>"John F. Kennedy", Urs Swharz, Paul Hamlyn, 1964</ref> Kennedy believed the grassroots movement for civil rights would anger many Southern whites and make it more difficult to pass civil rights laws in Congress, which was dominated by conservative Southern Democrats, and he distanced himself from it.{{sfn|Bryant|2006|pp=60, 66}}
+
+Kennedy also was more concerned with other issues early in his presidency, such as the [[Cold War]], Bay of Pigs fiasco and the situation in Southeast Asia. As articulated by brother Robert, the administration's early priority was to "keep the president out of this civil rights mess". Many civil rights leaders viewed Kennedy as lukewarm, especially concerning the [[Freedom Riders]], who organized an integrated public transportation effort in the south, and who were repeatedly met with violence by whites, including law enforcement officers, both federal and state. Kennedy assigned [[federal marshal]]s to protect the Freedom Riders as an alternative to using federal troops or uncooperative FBI agents. Robert Kennedy, speaking for the president, urged the Freedom Riders to "get off the buses and leave the matter to peaceful settlement in the courts."{{sfn|Reeves|1993|pp=123–126}}
+
+On March 6, 1961, Kennedy signed [[Executive Order 10925]] which required government contractors to "take affirmative action to ensure that applicants are employed and that employees are treated during employment without regard to their race, creed, color, or national origin."<ref>[[s:Executive Order 10925|wikisource – Executive Order No. 10925]]</ref> It established the [[Equal Employment Opportunity Commission#Background|President's Committee on Equal Employment Opportunity]]. Displeased with the pace of Kennedy's addressing the issue of segregation, Martin Luther King, Jr. and his associates produced a document in 1962 calling on the president to follow in the footsteps of [[Abraham Lincoln]] and use an Executive Order to deliver a blow for Civil Rights as a kind of [[Second Emancipation Proclamation]] - Kennedy did not execute the order.<ref>{{cite web|url=http://mlk-kpp01.stanford.edu/index.php/encyclopedia/encyclopedia/enc_emancipation_proclamation_1893/ |title=Martin Luther King, Jr. and the Global Freedom Struggle|publisher=Stanford University}}</ref>
+
+In September 1962, [[James Meredith]] enrolled at the [[University of Mississippi]], but was prevented from entering. Attorney General Robert Kennedy responded by sending 400 federal marshals, while President Kennedy reluctantly sent 3,000 troops after the situation on campus turned violent.{{sfn|Bryant|2006|p=71}} The [[Ole Miss riot of 1962]] left two dead and dozens injured, but Meredith did finally enroll in his first class. The instigating subculture at the Old Miss riot and at many other racially ignited events, was the [[Ku Klux Klan]].<ref name=Gitlin_p29>Gitlin (2009), ''The Ku Klux Klan: A Guide to an American Subculture'', p. 29</ref> On November 20, 1962, Kennedy signed [[Executive Order 11063]], prohibiting racial discrimination in federally supported housing or "related facilities".{{sfn|Dallek|2003|p=580}}
+
+In early 1963, Kennedy related to Martin Luther King, Jr., about the prospects for civil rights legislation: "If we get into a long fight over this in Congress, it will bottleneck everything else, and we will still get no bill."{{sfn|Reeves|1993|p=467}} Civil rights clashes were on the rise that year.<ref>In the first week of June there were 160 incidents of violence. {{harvnb|Reeves|1993|p=515}}.</ref> Brother Robert and Ted Sorenson pressed Kennedy to take more initiative on the legislative front.{{sfn|Reeves|1993|p=515}}
+
+[[File:President Kennedy addresses nation on Civil Rights, 11 June 1963.jpg|thumb|left|250px|President Kennedy's [[Civil Rights Address]], June 11, 1963.]]
+On June 11, 1963, President Kennedy intervened when Alabama Governor [[George Wallace]] blocked the [[Stand in the Schoolhouse Door|doorway]] to the [[University of Alabama]] to stop two African American students, [[Vivian Malone]] and [[James Hood]], from attending. Wallace moved aside only after being confronted by Deputy Attorney General [[Nicholas Katzenbach]] and the Alabama [[United States National Guard|National Guard]], which had just been federalized by order of the president. That evening Kennedy gave his famous [[Civil Rights Address|civil rights address]] on national television and radio, launching his initiative for civil rights legislation—to provide equal access to public schools and other facilities, and greater protection of voting rights.{{sfn|Reeves|1993|pp=521–523}}<ref>{{cite web | url = http://www.americanrhetoric.com/speeches/jfkcivilrights.htm | title = Civil Rights Address | accessdate =September 20, 2007 | last = Kennedy | first = John F. | work = AmericanRhetoric.com }}</ref>
+
+His proposals became part of the [[Civil Rights Act of 1964]]. The day ended with the murder of a NAACP leader, [[Medgar Evers]], in front of his home in Mississippi.{{sfn|Schlesinger|2002|p=966}} As the president had predicted, the day after his TV speech, and in reaction to it, House Majority leader Carl Albert called to advise him that his two-year signature effort in Congress to combat poverty in Appalachia (Area Redevelopment Administration) had been defeated, primarily by the votes of Southern Democrats and Republicans.{{sfn|Reeves|1993|p=524}}
+
+Earlier, Kennedy had signed the executive order creating the [[Presidential Commission on the Status of Women]] on December 14, 1961.<ref name="executive order">{{cite web | url = http://www.presidency.ucsb.edu/ws/index.php?pid=58918/ | title = John F. Kennedy: Executive Order 10980 | accessdate =January 25, 2011 }}</ref> Former First Lady Eleanor Roosevelt led the commission. The Commission statistics revealed that women were also experiencing discrimination; their final report documenting legal and cultural barriers was issued in October 1963.{{sfn|Reeves|1993|p=433}} Further, on June 10, 1963, Kennedy signed the [[Equal Pay Act of 1963]], a federal law amending the [[Fair Labor Standards Act]], aimed at abolishing wage disparity based on sex.<ref>{{cite web | url = http://archive.eeoc.gov/epa/anniversary/epa-40.html | title = The Equal Pay Act Turns 40 | publisher = Archive.eeoc.gov | accessdate =March 26, 2011 }}</ref>
+
+[[File:Photograph of Meeting with Leaders of the March on Washington August 28, 1963 - NARA - 194276.jpg|thumb|250px|Kennedy with leaders of the [[March on Washington]], August 28, 1963.]]
+Over a hundred thousand, predominantly African Americans, gathered in Washington for the civil rights [[March on Washington for Jobs and Freedom]] on August 28, 1963. Kennedy feared the March would have a negative effect on the prospects for the civil rights bills in Congress, and declined an invitation to speak. He turned over some of the details of the government's involvement to the Dept. of Justice, which channelled hundreds of thousands of dollars to the six sponsors of the March, including the N.A.A.C.P. and Martin Luther King's [[Southern Christian Leadership Conference]] (SCLC).{{sfn|Reeves|1993|pp=580–584}}
+
+To ensure a peaceful demonstration, the organizers and the president personally edited speeches which were inflammatory and agreed the March would be held on a Wednesday and would be over at 4:00&nbsp;pm. Thousands of troops were placed on standby. Kennedy watched King's speech on TV and was very impressed. The March was considered a "triumph of managed protest", and not one arrest relating to the demonstration occurred. Afterwards, the March leaders accepted an invitation to the White House to meet with Kennedy and photos were taken. Kennedy felt the March was a victory for him as well and bolstered the chances for his civil rights bill.{{sfn|Reeves|1993|pp=580–584}}
+
+Nevertheless, the struggle was far from over. Three weeks later, a bomb exploded on Sunday, September 15 at the 16th Street Baptist Church in Birmingham; by the end of the day, four African American children had died in the explosion and two other children shot to death in the aftermath.{{sfn|Reeves|1993|pp=599–600}} Due to this resurgent violence, the civil rights legislation underwent some drastic amendments that critically endangered any prospects for passage of the bill, to the outrage of the president. Kennedy called the congressional leaders to the White House and by the following day the original bill, without the additions, had enough votes to get it out of the House committee.{{sfn|Reeves|1993|pp=628–631}}
+
+==== Civil liberties ====
+In 1963, FBI Director [[J. Edgar Hoover]], who hated civil-rights leader [[Martin Luther King, Jr.]] and viewed him as an upstart troublemaker,<ref name="american public radio">{{cite news | title = The FBI's War on King | publisher = American Public Radio | url = http://americanradioworks.publicradio.org/features/king/d1.html }}</ref> presented the Kennedy Administration with allegations that some of King's close confidants and advisers were communists. Concerned that the allegations, if made public, would derail the Administration's civil rights initiatives, Robert Kennedy and the president both warned King to discontinue the suspect associations. After the associations continued, Robert Kennedy felt compelled to issue a written directive authorizing the FBI to wiretap King and other leaders of the [[Southern Christian Leadership Conference]], King's civil rights organization.{{sfn|Frum|2000|p=41}}<!--year was omitted, so might be another book...-->
+
+Although Kennedy only gave written approval for limited wiretapping of King's phones "on a trial basis, for a month or so",{{sfn|Herst|2007|p=372}} Hoover extended the clearance so his men were "unshackled" to look for evidence in any areas of King's life they deemed worthy.{{sfn|Herst|2007|pp=372–374}} The wiretapping continued through June 1966 and was revealed in 1968.<ref name="the atlantic">{{cite news | title = The FBI and Martin Luther King | last = Garrow | first = David J. | authorlink = David Garrow | date = July 8, 2002 | publisher = The Atlantic Monthly | url = http://www.theatlantic.com/doc/200207/garrow }}</ref>
+
+==== Immigration ====
+John F. Kennedy initially proposed an overhaul of American immigration policy that later was to become the [[Immigration and Nationality Act of 1965]], sponsored by Kennedy's brother Senator [[Ted Kennedy|Edward Kennedy]]. It dramatically shifted the source of immigration from Northern and Western European countries towards immigration from Latin America and Asia. The policy change also shifted the emphasis in the selection of immigrants in favor of family reunification.<ref>{{cite web | url = http://www.npr.org/templates/story/story.php?storyId=5393857 | title = Q&A: Sen. Kennedy on Immigration, Then & Now | accessdate =September 20, 2007 | last = Ludden | first = Jennifer | work = NPR }}</ref> Kennedy wanted to dismantle the selection of immigrants based on country of origin and saw this as an extension of his civil rights policies.<ref>{{cite web | url = http://www.presidency.ucsb.edu/ws/index.php?pid=60440 | title = From Press Office: Senator John F. Kennedy, Immigration and Naturalization Laws, Hyannis Inn Motel, Hyannis, MA | accessdate =September 20, 2007 | date = August 6, 1960 | publisher = americanpresidency.org }}</ref>
+
+==== Native American relations ====
+{{further|Kinzua Dam#Native Americans|Seneca nation#Kinzua Dam}}
+
+Construction of the [[Kinzua Dam]] flooded {{convert|10000|acres|0|abbr=on}} of [[Seneca nation]] land that they had occupied under the [[Treaty of Canandaigua|Treaty of 1794]], and forced 600 Seneca to relocate to [[Salamanca (town), New York|Salamanca, New York]]. Kennedy was asked by the [[American Civil Liberties Union]] to intervene and halt the project, but he declined, citing a critical need for flood control. He expressed concern about the plight of the Seneca, and directed government agencies to assist in obtaining more land, damages, and assistance to help mitigate their displacement.{{sfn|Bilharz|2002|p=55}}<ref name="Kennedy letter 1961">{{cite web | last = Kennedy | first = John F. | url = http://www.presidency.ucsb.edu/ws/index.php?pid=8279 | title = 320—Letter to the President of the Seneca Nation of Indians Concerning the Kinzua Dam on the Allegheny River | publisher = The American Presidency Project | date = August 11, 1961 | accessdate =February 25, 2012 }}</ref>
+
+=== Space policy ===
+{{further2|[[Space Race]]|[[Space policy of the United States]]}}
+
+[[File:Kennedy Giving Historic Speech to Congress - GPN-2000-001658.jpg|thumb|left|250px|Kennedy proposing a program to land men on the Moon to Congress in May 1961.]]
+The [[Apollo program]] was conceived early in 1960, during the [[Dwight D. Eisenhower|Eisenhower]] administration, as a follow-up to [[Project Mercury]]. While [[NASA]] went ahead with planning for Apollo, funding for the program was far from certain, given Eisenhower's opposition to manned spaceflight. Kennedy's advisors speculated that a Moon flight would be prohibitively expensive,{{sfn|Dallek|2003|p=392}} but he postponed the decision.
+
+Kennedy had appointed Vice President Johnson as chairman of the [[National Space Council|U.S. Space Council]],{{sfn|Kenney|2000|pp=115–116}} a strong supporter of the US space program who had worked for [[the creation of NASA]] in the Senate. In Kennedy's January 1961 State of the Union address, Kennedy had suggested international cooperation in space. Khrushchev declined, as the Soviets did not wish to reveal the status of their rocketry and space capabilities.{{sfn|Dallek|2003|p=502}}
+
+On April 12, 1961, Soviet cosmonaut [[Yuri Gagarin]] became the first person to fly in space, reinforcing American fears about being left behind in a technological competition with the Soviet Union.{{sfn|Dallek|2003|p=393}} Kennedy was eager for the U.S. to take the lead in the [[Space Race]] for reasons of strategy and prestige. He first announced the goal of landing a man on the Moon in the speech to a Joint Session of Congress on May 25, 1961, stating: <blockquote>"First, I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to the Earth. No single space project in this period will be more impressive to mankind, or more important for the long-range exploration of space; and none will be so difficult or expensive to accomplish."<ref name="Kennedy at Congress 1961">{{cite web | last = Kennedy | first = John F. |url= http://history.nasa.gov/SP-350/ch-2-1.html |title=Apollo Expeditions to the Moon: Chapter 2 |work=history.nasa.gov |year=1961 |accessdate=February 26, 2012}}</ref> {{Cws |title=Full text |link=Special Message to the Congress on Urgent National Needs|nobullet=yes}}</blockquote>
+
+[[File:President Kennedy speech on the space effort at Rice University, September 12, 1962.ogg|thumb|thumbtime=17:32|Kennedy speaks at Rice University, September 12, 1962 (duration 17:47)<br />{{Cws |title=Full text |link=We choose to go to the moon |nobullet=yes}}]]
+Kennedy made a [[We choose to go to the Moon|speech]] at [[Rice University]] on September 12, 1962, in which he said:
+<blockquote> "No nation which expects to be the leader of other nations can expect to stay behind in this race for space. ...&nbsp;We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard."<ref name="Kennedy at Rice 1961">{{cite web | url = http://webcast.rice.edu/speeches/19620912kennedy.html | title = President John F. Kennedy: The Space Effort | accessdate = February 25, 2012 | last = Kennedy | first = John F. | date = September 12, 1962 | publisher = [[Rice University]] }}</ref> {{Cws |title=Full text |link=We choose to go to the moon |nobullet=yes}}</blockquote>
+On November 21, 1962, in a cabinet meeting with NASA administrator [[James E. Webb]] and other officials, Kennedy explained that the Moon shot was important for reasons of international prestige, and that the expense was justified.<ref>{{cite news | title = JFK and the Space Race | last = Selverstone | first = Marc | publisher = White House Tapes–Presidential Recordings Program, Miller Center of Public Affairs, University of Virginia | url = http://whitehousetapes.net/exhibit/jfk-and-space-race | accessdate =February 26, 2012 }}</ref> Johnson assured him that lessons learned from the space program had military value as well. Costs for the Apollo program were expected to reach $40 billion.{{sfn|Dallek|2003|p=652–653}}
+
+In a September 1963 speech before the United Nations, Kennedy urged cooperation between the Soviets and Americans in space, specifically recommending that Apollo be switched to "a joint expedition to the moon".<ref>[[s:Address to the United Nations General Assembly (Kennedy, September 20, 1963)|Wikisource: Address to the United Nations General Assembly (1963) by John F. Kennedy]]</ref> Khrushchev again declined, and the Soviets did not commit to a manned Moon mission until 1964.{{sfn|Dallek|2003|p=654}} On July 20, 1969, almost six years after Kennedy's death,  [[Apollo 11]] landed the first manned spacecraft on the Moon.
+
+== Assassination ==
+[[File:John F. Kennedy motorcade, Dallas crop.png|thumb|250px|John, Jackie, and the Connallys in the presidential limousine seconds before the [[Assassination of John F. Kennedy|assassination]].]]
+{{main|Assassination of John F. Kennedy}}
+
+President Kennedy was assassinated in Dallas, Texas, at 12:30&nbsp;pm [[Central Time Zone (Americas)|Central Standard Time]] on Friday November 22, 1963, while on a political trip to Texas to smooth over frictions in the Democratic Party between liberals [[Ralph Yarborough]] and [[Don Yarborough]] (no relation) and conservative [[John Connally]].<ref>{{cite web | author = Russ | url = http://www.lifeinlegacy.com/display.php?weekof=September | title = 26, 2009#P12844 Life in Legacy | publisher = Lifeinlegacy.com | accessdate =March 28, 2010 }}</ref> He was shot once in the throat,<ref name="Parkland">[[Parkland Hospital]] doctors attending to him reported</ref> once in the upper back, with the fatal shot hitting him in the head.<ref name="Parkland" />
+
+Kennedy was taken to Parkland Hospital for emergency medical treatment, but pronounced dead at 1:00&nbsp;pm. Only 46, President Kennedy died younger than any other U.S. president to date. [[Lee Harvey Oswald]], an employee of the [[Texas School Book Depository]] from which the shots were suspected to have been fired, was arrested  for the murder of a local police officer, and was subsequently charged with the assassination of Kennedy. He denied shooting anyone, claiming he was a [[wikt:patsy|patsy]],<ref>[https://www.youtube.com/watch?v=_ZYAIiErTNg&feature=related Lee Oswald claiming innocence (film)], Youtube.com</ref><ref>Warren Commission Hearings, vol. 20, p. 366, [http://www.aarclibrary.org/publib/jfk/wc/wcvols/wh20/html/WH_Vol20_0193b.htm Kantor Exhibit No. 3—Handwritten notes made by Seth Kantor concerning events surrounding the assassination]</ref> but was killed by [[Jack Ruby]] on November 24, before he could be tried. Ruby was then arrested and convicted for the murder of Oswald. Ruby successfully appealed his conviction and death sentence but became ill and died of cancer on January 3, 1967, while the date for his new trial was being set.
+
+President Johnson created the [[Warren Commission]]—chaired by Chief Justice [[Earl Warren]]—to investigate the assassination, which concluded that Oswald was the lone assassin. The results of this investigation are disputed by many.<ref name="Russo">[http://www.americanheritage.com/content/did-castro-ok-kennedy-assassination Gus Russo and Stephen Molton] "Did Castro OK the Kennedy Assassination?," ''American Heritage'', Winter 2009.</ref> The assassination proved to be an important moment in [[history of the United States|U.S. history]] because of its impact on the nation and the ensuing political repercussions. A 2004 Fox News poll found that 66% of Americans thought there had been a [[John F. Kennedy assassination conspiracy theories|conspiracy to kill President Kennedy]], while 74% thought there had been a cover-up.<ref>{{cite news|url=http://www.foxnews.com/story/0,2933,102511,00.html|author=Dana Blanton|title=Poll: Most Believe 'Cover-Up' of JFK Assassination Facts|publisher=Fox News|date=June 18, 2004}}</ref> A [[Gallup Poll]] in mid-November 2013, showed 61% believed in a conspiracy, and only 30% thought Oswald did it alone.<ref>{{cite web |url=http://www.gallup.com/poll/165893/majority-believe-jfk-killed-conspiracy.aspx |title=Majority in U.S. Still Believe JFK Killed in a Conspiracy: Mafia, federal government top list of potential conspirators |publisher=Gallup, Inc. |date=November 15, 2013}}</ref>
+
+=== Funeral ===
+{{main|State funeral of John F. Kennedy}}
+[[File:JFK's family leaves Capitol after his funeral, 1963.jpg|thumb|232px|President Kennedy's family leaving his [[State funeral of John F. Kennedy|funeral]] at the [[U.S. Capitol Building]]]]
+A [[Requiem Mass]] was held for Kennedy at the [[Cathedral of St. Matthew the Apostle]] on November 25, 1963. Afterwards, Kennedy's body was buried in a small plot, (20&nbsp;by 30&nbsp;ft.), in [[Arlington National Cemetery]]. Over a period of three years (1964–66), an estimated 16&nbsp;million people had visited his grave. On March 14, 1967, Kennedy's body was moved to a permanent burial plot and memorial at the cemetery. The funeral was officiated by Father [[John J. Cavanaugh]].{{sfn|Bugliosi|2007|p=211}} It was from this memorial that the graves of both [[Robert F. Kennedy|Bobby]] and [[Ted Kennedy|Ted]] were modeled.
+
+The [[honor guard]] at Kennedy's graveside was the 37th Cadet Class of the [[Irish Army]]. Kennedy was greatly impressed by the Irish Cadets on his last official visit to Ireland, so much so that Jackie Kennedy requested the Irish Army to be the honor guard at the funeral.{{sfn|Bugliosi|2007|p=312}}
+
+Kennedy's wife, [[Jacqueline Kennedy Onassis|Jacqueline]] and their two deceased minor children were buried with him later. His brother, Senator Robert Kennedy, [[Robert F. Kennedy assassination|was buried nearby]] in June 1968. In August 2009, his brother, Senator [[Ted Kennedy|Edward M. Kennedy]], was also buried near his two brothers. John F. Kennedy's grave is lit with an "[[John F. Kennedy Eternal Flame|Eternal Flame]]". Kennedy and [[William Howard Taft]] are the only two U.S. presidents buried at Arlington.<ref>[http://www.history.com/this-day-in-history.do?action=Article&id=278 This Day in History 1967: JFK's body moved to permanent gravesite], [[History (U.S. TV channel)|History.com]]. Retrieved April 8, 2008.</ref><ref>{{cite web | url = https://www.youtube.com/watch?v=8IHYSwK9Xac | title = Broadcast Yourself | publisher = YouTube | accessdate =January 2, 2010 }}</ref> According to the [[John F. Kennedy Presidential Library and Museum|JFK Library]], "I Have a Rendezvous with Death", by [[Alan Seeger]] "was one of John F. Kennedy's favorite poems and he often asked his wife to recite it".<ref>[http://www.jfklibrary.org/Research/Research-Aids/Ready-Reference/JFK-Fast-Facts/I-Have-a-Rendezvous-with-Death.aspx "John F. Kennedy Fast Facts: Favorite Poems, 'I Have a Rendezvous with Death' (Seeger)"]</ref>
+
+== Administration, Cabinet, and judicial appointments 1961–63 ==
+{{Infobox U.S. Cabinet
+|align=left
+|Name=Kennedy
+|President =John F. Kennedy
+|President start =1961
+|President end =1963
+|Vice President =[[Lyndon B. Johnson]]
+|Vice President start =1961
+|Vice President end =1963
+|State =[[Dean Rusk]]
+|State start =1961
+|State end =1963
+|Treasury =[[C. Douglas Dillon]]
+|Treasury start =1961
+|Treasury end =1963
+|Defense =[[Robert McNamara]]
+|Defense start =1961
+|Defense end =1963
+|Justice =[[Robert F. Kennedy]]
+|Justice start =1961
+|Justice end =1963
+|Post =[[J. Edward Day]]
+|Post start =1961
+|Post end =1963
+|Post 2 =[[John A. Gronouski]]
+|Post date 2 =1963
+|Interior =[[Stewart Udall]]
+|Interior start =1961
+|Interior end =1963
+|Agriculture =[[Orville Freeman]]
+|Agriculture start =1961
+|Agriculture end =1963
+|Commerce =[[Luther H. Hodges]]
+|Commerce start =1961
+|Commerce end =1963
+|Labor =[[Arthur Goldberg]]
+|Labor start =1961
+|Labor end =1962
+|Labor 2=[[W. Willard Wirtz]]
+|Labor start 2 =1962
+|Labor end 2 =1963
+|Health, Education, and Welfare =[[Abraham A. Ribicoff]]
+|Health, Education, and Welfare start =1961
+|Health, Education, and Welfare end =1962
+|Health, Education, and Welfare 2 =[[Anthony J. Celebrezze]]
+|Health, Education, and Welfare start 2 =1962
+|Health, Education, and Welfare end 2 =1963
+}}
+[[File:John F Kennedy Official Portrait.jpg|thumb|250px|upright|The official White House portrait of John F. Kennedy, by [[Aaron Shikler]].]]
+{{clear}}
+
+=== Judicial appointments ===
+
+==== Supreme Court ====
+{{main|John F. Kennedy Supreme Court candidates}}
+{{further2|[[List of nominations to the Supreme Court of the United States]]}}
+Kennedy appointed the following Justices to the [[Supreme Court of the United States]]:
+
+* [[Byron White]]&nbsp;– 1962
+* [[Arthur Goldberg]]&nbsp;– 1962
+
+==== Other courts ====
+{{main|List of federal judges appointed by John F. Kennedy}}
+In addition to his two Supreme Court appointments, Kennedy appointed 21 judges to the [[United States Courts of Appeals]], and 102 judges to the [[United States district court]]s.
+
+== Image, social life, and family ==
+{{further|Kennedy family}}
+
+[[File:Kennedy Family with Dogs During a Weekend at Hyannisport 1963-crop.png|thumb|The [[Kennedy family]] in [[Hyannis Port, Massachusetts|Hyannis Port]], Massachusetts, in 1963.]]
+Jack met his future wife, [[Jacqueline Kennedy Onassis|Jacqueline Lee "Jackie" Bouvier]] (1929–1994), when he was a congressman. [[Charles L. Bartlett (journalist)|Charles L. Bartlett]], a journalist, introduced the pair at a dinner party.<ref>Cover story, ''Time magazine'', January 20, 1961</ref> They were married a year after he was elected senator, on September 12, 1953.<ref>Specious allegations in 1997 by UK journalist Terry O'Hanlon {{cite web | title = JFK The Bigamist..... The Truth At Last; Kennedy was already married when he got wed to Jackie..... | url = http://www.thefreelibrary.com/JFK+THE+BIGAMIST...+THE+TRUTH+AT+LAST%3b+Kennedy+was+already+married...-a061139564 | work = Sunday Mirror | accessdate =October 31, 2010 |author=Golden, Andrew | date = July 27, 1997 }} and by author Seymour Hersh {{cite web | last = Reingold | first = Joyce | title = JFK 'Secret Marriage' A Story With Legs | url = http://www.palmbeachdailynews.com/blogs/content/shared-blogs/palmbeach/pbupd8/entries/2008/03/26/durie_appleton_spent_a_lifetim.html | work = Palm Beach Daily News | accessdate =October 31, 2010 | date = March 26, 2008 }} that Kennedy had married previously have been soundly disproven. Reeves states that [[Ben Bradlee]], then at ''[[Newsweek]]'', inspected FBI files on it, and confirmed the falsehood. {{harvnb|Reeves|1993|p=348}}; for further refutation, see {{harvnb|O'Brien|2005|p=706}}.</ref> The [[Kennedy family]] is one of the most established political families in the United States, having produced a president, three senators, and multiple other Representatives, both on the federal and state level. Jack's father, Joe, was a prominent American businessman and political figure, serving in multiple roles, including [[United States Ambassador to the United Kingdom|Ambassador to the United Kingdom]], from 1938 to 1940.
+
+[[File:JBK In Ft Worth (11-22-63).jpg|thumb|left|upright|Jacqueline Kennedy in [[Fort Worth]], Texas, on November 22, 1963]]
+Outside on the White House lawn, the Kennedys established a swimming pool and tree house, while Caroline attended a preschool along with 10 other children inside the home.
+
+In October 1951, during his third term as [[Massachusetts's 11th congressional district|Massachusetts's 11th district]] congressman, the then 34-year-old Kennedy embarked on a seven-week trip to India, Japan, [[Vietnam]], and Israel with his then 25-year-old brother [[Robert F. Kennedy|Bobby]] (who had just graduated from law school four months earlier) and his then 27-year-old sister [[Patricia Kennedy Lawford|Pat]]. Because they were several years apart in age, the brothers had previously seen little of each other. This {{convert|25000|mi|km|-3|sing=on}} trip was the first extended time they had spent together and resulted in their becoming best friends.{{sfn|Reeves|1993|p=29}}
+
+Bobby was [[campaign manager]] for Kennedy's successful 1952 Senate campaign and later, his successful 1960 presidential campaign. The two brothers worked closely together from 1957 to 1959 on the [[United States Senate Select Committee on Improper Activities in Labor and Management|Senate Select Committee on Improper Activities in the Labor and Management Field]], when Robert was its chief counsel. During Kennedy's presidency, Robert served in his [[United States Cabinet|cabinet]] as [[United States Attorney General|Attorney General]] and was his closest advisor.{{sfn|Reeves|1993|p=29}}
+
+Kennedy was a life member of the [[National Rifle Association]].<ref>{{cite book | title = From my cold, dead hands: Charlton Heston and American politics | first = Emilie | last = Raymond | publisher = University Press of Kentucky | year = 2006 | page = 246 | isbn = 978-0-8131-2408-7 }}</ref><ref>{{cite journal | title = Books for Lawyers | journal = American Bar Association Journal | year = 1975 | page = 556 }}</ref> Kennedy came in third (behind Martin Luther King, Jr. and [[Mother Teresa]]) in [[Gallup's List of Widely Admired People]] of the 20th century.<ref>{{cite book | title = The Gallup Poll 1999 | publisher = Scholarly Resources Inc. | year = 1999 | location = Wilmington, Delaware | pages = 248–249 }}</ref><ref>{{cite web | title = Greatest of the Century | date = December 20–21, 1999 | publisher = Gallup/CNN/USA Today Poll | url = http://www.pollingreport.com/20th.htm | accessdate =January 5, 2007 }}</ref>
+
+=== "Camelot Era" ===
+[[File:ARC194238-JFK-Robert-Edward.jpg|thumb|The Kennedy brothers: Attorney General [[Robert F. Kennedy]], Senator [[Ted Kennedy]], and President John F. Kennedy in 1963]]
+Kennedy and his wife were younger in comparison to the presidents and first ladies who preceded them, and both were popular in the [[media culture]] in ways more common to pop singers and movie stars than politicians, influencing fashion trends and becoming the subjects of numerous photo spreads in popular magazines. Although [[Dwight D. Eisenhower|Eisenhower]] had allowed presidential press conferences to be filmed for television, Kennedy was the first president to ask for them to be broadcast [[Live television|live]] and made good use of the medium.<ref name="american chronicle">{{cite news | url = http://www.americanchronicle.com/articles/6883 | publisher = American Chronicle | date = March 15, 2006 | title = Happy Anniversary to the first scheduled presidential press conference—93 years young! | first = Robert | last = Rouse }}</ref> In 1961 the [[Radio Television Digital News Association|Radio-Television News Directors Association]] presented Kennedy with its highest honor, the [[Paul White (journalist)|Paul White]] Award, in recognition of his open relationship with the media.<ref>{{cite web|url=http://www.rtdna.org/article/rtdna_s_kennedy_connections#.U4VGzi8-Ngc |title=RTDNA's Kennedy connections|publisher=[[Radio Television Digital News Association]], November 26, 2013  |accessdate=May 27, 2014}}</ref>
+
+Mrs. Kennedy brought new art and furniture to the White House, and directed its restoration. They invited a range of artists, writers and intellectuals to rounds of White House dinners, raising the profile of the arts in America.
+
+The president was closely tied to popular culture, emphasized by songs such as "[[Twist (dance)|Twisting]] at the White House". [[Vaughn Meader|Vaughn Meader's]] ''First Family'' comedy album — which parodied the president, the first lady, their family, and the administration — sold about four million copies. On May 19, 1962, [[Marilyn Monroe]] sang "[[Happy Birthday, Mr. President]]" at a large party in [[Madison Square Garden (1925)|Madison Square Garden]], celebrating Kennedy's upcoming forty-fifth birthday. The charisma of Kennedy and his family led to the figurative designation of "[[Camelot]]" for his administration, credited by his wife, who coined the term for the first time in print during a post-assassination interview with [[Theodore White]], to his affection for the then contemporary Broadway musical [[Camelot (musical)|of the same name]].<ref name="JFKlibrary.org White. Series 11. Camelot Documents">[https://web.archive.org/web/20060906065903/http://www.jfklibrary.org/Historical+Resources/Archives/Archives+and+Manuscripts/fa_white_theodore.htm The Personal Papers of Theodore H. White (1915–1986): Series 11. Camelot Documents], ''John F. Kennedy Presidential Library & Museum'' quotation: {{quotation|The 1963 LIFE article represented the first use of the term “Camelot” in print and is attributed with having played a major role in establishing and fixing this image of the Kennedy Administration and period in the popular mind.}}</ref><ref>[http://books.google.com/books?id=T1IEAAAAMBAJ&pg=PA158 ''An Epilogue''], in ''LIFE'', Dec 6, 1963, pp.158-9</ref>
+
+=== Health ===
+Years after Kennedy's death, it was revealed that in September 1947, while Kennedy was 30 and in his first term in Congress, he was diagnosed by Sir Daniel Davis at [[The London Clinic]] with [[Addison's disease]], a rare endocrine disorder. In 1966, his White House doctor, [[Janet Travell]], revealed that Kennedy also had [[hypothyroidism]]. The presence of two endocrine diseases raises the possibility that Kennedy had [[autoimmune polyendocrine syndrome type 2]] (APS 2).<ref name="Mandel, Lee R. 2009 350–354">{{cite journal | author = Mandel, Lee R. | title = Endocrine and Autoimmune Aspects of the Health History of John F. Kennedy | journal = Annals of Internal Medicine | year = 2009 | issue = 151(5) | pages = 350–354 | url = http://www.annals.org/content/151/5/350.full#xref-ref-9-1 | pmid = 19721023 | doi = 10.1059/0003-4819-151-5-200909010-00011 | volume = 151 }}</ref>
+
+Kennedy also suffered from chronic and severe back pain, for which he had surgery and was written up in the [[American Medical Association]]'s ''Archives of Surgery''. Kennedy's condition may have had diplomatic repercussions, as he appears to have been taking a combination of drugs to treat severe back pain during the 1961 [[Vienna Summit]] with Soviet Premier [[Nikita Khrushchev]]. The combination included hormones, animal organ cells, steroids, vitamins, enzymes, and amphetamines, and possible potential side effects included hyperactivity, [[hypertension]], impaired judgment, nervousness, and mood swings.{{sfn|Kempe|2011|p=213}} Kennedy at one time was regularly seen by no fewer than three doctors, one of whom, [[Max Jacobson]], was unknown to the other two, as his mode of treatment was controversial<ref>[http://www.nysun.com/out-and-about/dr-feelgood/20251/ New York Sun September 20, 2005: "Dr. Feelgood"] Retrieved July 11, 2011</ref> and used for the most severe bouts of back pain.{{sfn|Reeves|1993|pp=42, 158-159}}
+
+There were disagreements among his doctors, into late 1961, over the proper balance of medication and exercise, with the president preferring the former as he was short on time and desired immediate relief.{{sfn|Reeves|1993|p=243}} During that timeframe the president's physician, George Burkley, did set up some gym equipment in the White House basement where Kennedy did stretching exercises for his back three times a week.{{sfn|Reeves|1993|p=244}} Details of these and other medical problems were not publicly disclosed during Kennedy's lifetime.<ref>Online NewsHour with Senior Correspondent [[Ray Suarez]] and physician Jeffrey Kelman, [http://www.pbs.org/newshour/bb/health/july-dec02/jfk_11-18.html "Pres. Kennedy's Health Secrets"], ''[[The NewsHour with Jim Lehrer]]'' transcript, November 18, 2002</ref>
+
+=== Personal tragedies ===
+{{Main|Kennedy curse}}
+[[File:The Kennedys by Toni Frissell, 1953.jpg|thumb|right|Jack and Jackie Kennedy on their wedding day, surrounded by relatives]]
+[[File:JFK and family in Hyannis Port, 04 August 1962.jpg|thumb|right|[[John F. Kennedy, Jr.|John-John]], [[Jacqueline Kennedy Onassis|Jackie]], [[Caroline Kennedy|Caroline]], and Jack, in 1962]]
+Behind the glamour, the Kennedys experienced many personal tragedies. Jackie had a [[miscarriage]] in 1955 and a [[stillbirth]] in 1956. A son, [[Patrick Bouvier Kennedy]], died shortly after birth in August 1963. They had two children who survived infancy. One of the fundamental aspects of the Kennedy family is a tragic strain which has run through the family, due to the violent and untimely deaths of many of its members.
+
+Jack's elder brother [[Joseph P. Kennedy, Jr.|Joe Jr.]] died in World War II at the age of 29. It was Joe Jr. who was originally to carry the family's hopes for the Presidency. Then both Jack himself, and his brother Bobby died due to assassinations. Ted had brushes with death, the first in a plane crash in 1964 and the second due to a car accident in 1969 known as the [[Chappaquiddick incident]]. Ted died at age 77, on August 25, 2009, from the effects of a malignant [[brain tumor]].
+
+[[Caroline Kennedy|Caroline Bouvier Kennedy]] was born in 1957 and is the only surviving member of JFK's immediate family. [[John F. Kennedy,&nbsp;Jr.|John Fitzgerald "John-John" Kennedy, Jr.]], was born in late November 1960, 17 days after his father was elected. John-John died from a plane crash in July 1999, when the [[John F. Kennedy, Jr. plane crash|small plane he was piloting crashed]] en route to [[Martha's Vineyard]]. His wife [[Carolyn Bessette-Kennedy|Carolyn Jeanne Bessette]] and her sister Lauren were also killed.<ref>{{cite news | url = http://www.washingtonpost.com/wp-srv/national/longterm/jfkjr/stories/kennedy073199.htm | title = Kennedy Plane Found to Be Fully Functional |work=The Washington Post | date = July 31, 1999 | accessdate =January 2, 2010 }}</ref>
+
+=== Extramarital relationships ===
+[[image:JFK and Marilyn Monroe 1962.jpg|thumb|220px|Attorney General [[Robert F. Kennedy]], [[Marilyn Monroe]], President Kennedy (back to camera) in 1962.]]
+
+As a young single man in the 1940s, Kennedy had affairs with Danish journalist [[Inga Arvad]],{{sfn|Dallek|2003|pp=83-85}} and actress [[Gene Tierney]].{{sfn|Osborne|2006|p=195}} Later in life, Kennedy reportedly had affairs with a number of women, including [[Marilyn Monroe]],{{sfn|Reeves|1993|pp=315–316}} [[Gunilla von Post]],<ref>Bone, James (February 17, 2010), [http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7029661.ece "How JFK's Riviera romance led to years of longing"], ''[[The Times]]'', London. Retrieved April 2, 2010.</ref> [[Judith Exner|Judith Campbell]],{{sfn|Reeves|1993|p=289}} [[Mary Pinchot Meyer]],{{sfn|Dallek|2003|p=475}} [[Marlene Dietrich]],{{sfn|Dallek|2003|p=58}} [[Mimi Alford]],<ref name=nytimes_garrow>{{cite news|last=Garrow|first=David J.|title=Substance Over Sex In Kennedy Biography|url=http://www.nytimes.com/2003/05/28/books/books-of-the-times-substance-over-sex-in-kennedy-biography.html|accessdate=January 20, 2013|newspaper=The New York Times|date=May 28, 2003}}</ref> and Jackie's [[press secretary]] Pamela Turnure.{{sfn|Dallek|2003|pp=475, 476}}
+
+The extent of a relationship with Monroe will never be known, although it has been reported they spent a weekend together in March 1962 while Kennedy was staying at [[Bing Crosby]]'s house.{{sfn|Leaming|2006|pp=379-380}} Furthermore, the White House switchboard noted calls from her during 1962.{{sfn|Dallek|2003|p=581}} [[J. Edgar Hoover]], the FBI director, received reports as to Kennedy's indiscretions.{{sfn|Dallek|2003|p=376}}
+
+Kennedy inspired affection and loyalty from the members of his team and his supporters.{{sfn|Barnes|2007|p=116}} According to Reeves, this included "the logistics of Kennedy's liaisons.....[which] required secrecy and devotion rare in the annals of the energetic service demanded by successful politicians".{{sfn|Reeves|1993|p=291}} Kennedy believed that his friendly relationship with members of the press would help protect him from revelations about his sex life.{{sfn|Dallek|2003|p=478}}
+
+== Ancestry ==
+The [[Kennedy family|Kennedy]] family originally came from Dunganstown, [[County Wexford]], [[Ireland]].<ref>{{cite web | last = Roberts | first = Patrick | title = Kennedy Ancestral Home in Ireland to Be Landmarked | work = ABCNews.com | publisher = ABC News Internet Ventures | date = December 13, 2009 | url = http://abcnews.go.com/Politics/kennedy-ancestral-home-dunganstown-ireland-landmarked/story?id=9315950 | accessdate =September 30, 2010 }}</ref> In 1848, [[Patrick Kennedy (1823–1858)|Patrick Kennedy]] (1823–1858) left his farm and boarded a ship in [[New Ross]] bound for [[Liverpool]] on his way to [[Boston]].{{sfn|Maier2004|p=25}} Kennedy departed at the height of Ireland's [[Great Famine (Ireland)|Great Famine]]. It was in Boston he met the woman he was to marry, Bridget Murphy (c.1824–1888).{{sfn|Maier2004|p=30}}
+
+Patrick came to Boston and took a job as a migrant worker. He died several years later from [[cholera]].{{sfn|Maier2004|p=33}} They had three daughters and two sons (the elder son died young from cholera). He left behind a widow and four children to carry on, the youngest child being Joe Sr.'s father [[P. J. Kennedy|Patrick Joseph "P. J." Kennedy]].
+
+<div style="clear: both; width: 100%; padding: 0; text-align: left; border: none;" class="NavFrame">
+<div style="background:#cdc; text-align:center; border:1px solid #676;" class="NavHead">'''Ancestors of John F. Kennedy'''
+</div>
+<div class="NavContent" style="display: none;">
+{{ahnentafel-compact5
+| style = font-size: 90%; line-height: 110%; margin-left: auto; margin-right: auto;
+| border = 1
+| boxstyle = padding-top: 0; padding-bottom: 0;
+| boxstyle_1 = background-color: #fcc;
+| boxstyle_2 = background-color: #fb9;
+| boxstyle_3 = background-color: #ffc;
+| boxstyle_4 = background-color: #bfc;
+| boxstyle_5 = background-color: #9fe;
+| 1 = 1. '''John Fitzgerald Kennedy'''
+| 2 = 2. [[Joseph P. Kennedy, Sr.|Joseph Patrick Kennedy]]
+| 3 = 3. [[Rose Kennedy|Rose Elizabeth Fitzgerald]]
+| 4 = 4. [[P. J. Kennedy|Patrick Joseph Kennedy]]
+| 5 = 5. Mary Augusta Hickey
+| 6 = 6. [[John F. Fitzgerald|John Francis Fitzgerald]]
+| 7 = 7. Mary Josephine Hannon
+| 8 = 8. [[Patrick Kennedy (1823–1858)|Patrick Kennedy]]
+| 9 = 9. Bridget Murphy
+| 10 = 10. James Hickey
+| 11 = 11. Margaret Martha Field
+| 12 = 12. Thomas Fitzgerald
+| 13 = 13. Rosanna Cox
+| 14 = 14. Michael Hannon
+| 15 = 15. Mary Ann Fitzgerald
+| 16 = 16. James Kennedy
+| 17 = 17. Maria (maiden name unknown)
+| 18 = 18. Phillip Murphy
+| 19 = 19. Mary Barron
+| 20 = 20. Michael Hickey
+| 21 = 21. Catherine Hassett
+| 22 = 22. Patrick Field
+| 23 = 23. Mary Sheehy
+}}
+</div></div>
+
+== Legacy ==
+Television became the primary source by which people were kept informed of events surrounding John F. Kennedy's assassination. In fact, television started to come of age before the assassination. On September 2, 1963, Kennedy helped inaugurate network television's first half hour nightly evening newscast according to an interview with ''[[CBS Evening News]]'' anchor [[Walter Cronkite]].<ref>{{cite book|last=Cronkite|first=Walter|title=A Reporter's Life|location=New York|publisher=Alfred A. Knopf|year=1996|isbn=0-394-57879-1}}</ref>
+[[File:John F Kennedy 1967 Issue-13c.jpg|right|200px]]
+Newspapers were kept as souvenirs rather than sources of updated information. In this sense it was the first major "TV news event" of its kind, the TV coverage uniting the nation, interpreting what went on and creating memories of this space in time. All three major U.S. television networks suspended their regular schedules and switched to all-news coverage from November 22 through November 25, 1963, being on the air for 70 hours, making it the longest uninterrupted news event on American TV until 9/11.<ref>{{cite news | last = Carter | first = Bill | title = Viewers Again Return To Traditional Networks |newspaper=The New York Times | date = September 15, 2001 | page = A14 | url = http://www.nytimes.com/2001/09/15/us/after-the-attacks-television-viewers-again-return-to-traditional-networks.html?pagewanted=print }}</ref>
+
+[[State funeral of John F. Kennedy|Kennedy's state funeral procession]] and the murder of Lee Harvey Oswald were all broadcast live in America and in other places around the world. The [[state funeral]] was the first of three in a span of 12 months. The other two were for General [[Douglas MacArthur]] and President [[Herbert Hoover|Herbert Clark Hoover]]. All three have two things in common: the commanding general of the [[United States Army Military District of Washington|Military District of Washington]] during those funerals was Army Major General [[Philip C. Wehle]] and the [[riderless horse]] was [[Black Jack (horse)|Black Jack]], who also served in that role during [[Lyndon B. Johnson]]'s funeral.
+
+The assassination had an effect on many people, not only in the U.S. but around the world. Many vividly remember where they were when first learning of the news that Kennedy was assassinated, as with the Japanese [[attack on Pearl Harbor]] on December 7, 1941, before it and the September 11 attacks after it. UN Ambassador [[Adlai Stevenson II|Adlai Stevenson]] said of the assassination: "all of us..... will bear the grief of his death until the day of ours." Many people have also spoken of the shocking news, compounded by the pall of uncertainty about the identity of the assassin(s), the possible instigators and the causes of the killing as an end to innocence, and in retrospect it has been coalesced with other changes of the tumultuous decade of the 1960s, especially the [[Vietnam War]].
+
+The [[Special Forces (United States Army)|US Special Forces]] had a special bond with Kennedy. "It was President Kennedy who was responsible for the rebuilding of the Special Forces and giving us back our Green Beret," said Forrest Lindley, a writer for the US military newspaper ''[[Stars and Stripes (newspaper)|Stars and Stripes]]'' who served with Special Forces in Vietnam.{{efn|name=Green Beret|Kennedy reversed the Defense Department rulings that prohibited the Special Forces wearing of the Green Beret. {{harvnb|Reeves|1993|p=116}}.}} This bond was shown at JFK's funeral. At the commemoration of the 25th anniversary of JFK's death, [[Michael D. Healy|Gen. Michael D. Healy]], the last commander of Special Forces in Vietnam, spoke at Arlington Cemetery. Later, a wreath in the form of the Green Beret would be placed on the grave, continuing a tradition that began the day of his funeral when a sergeant in charge of a detail of Special Forces men guarding the grave placed his beret on the coffin.
+
+Kennedy was the first of six presidents to have served in the U.S. Navy,<ref>{{cite web | title = Presidents Who Served in the U.S. Navy | url = http://www.history.navy.mil/faqs/faq60-1.htm | date = January 11, 2007 | work = Frequently Asked Questions | publisher = [[Naval History & Heritage Command]] | accessdate =May 12, 2011 }}</ref> and one of the enduring legacies of his administration was the creation in 1961 of another [[special forces]] command, the [[United States Navy SEALs|Navy SEALs]],<ref>{{cite web | title = Navy SEALs Were Launched in the JFK 'Man on the Moon' Speech | url = http://www.life.com/gallery/60031/image/1597398#index/1 | work = 11 Facts About Navy SEALs | publisher = [[Time Inc.]] | accessdate =May 12, 2011 }}</ref> which Kennedy enthusiastically supported.<ref name="Salinger p97">{{cite book | title = John F. Kennedy: Commander in Chief: A Profile in Leadership | url = http://www.jfklibrary.org/Research/Ready-Reference/~/link.aspx?_id=79FD035EC0A44D0384F449BEEEA0CE5B | isbn = 978-0-670-86310-5 | first = Pierre | last = Salinger | authorlink = Pierre Salinger | year = 1997 | publisher = Penguin Studio | location = New York | page = 97 | accessdate =February 22, 2012 }}</ref>
+
+Ultimately, the death of President Kennedy and the ensuing confusion surrounding the facts of his assassination are of political and historical importance insofar as they marked a turning point and decline in the faith of the American people in the political establishment—a point made by commentators from [[Gore Vidal]] to [[Arthur M. Schlesinger, Jr.]] and implied by [[Oliver Stone]] in several of his films, such as his landmark 1991 [[JFK (film)|''JFK'']].
+
+Although President Kennedy opposed segregation and had shown support for the civil rights of African Americans, he originally believed in a more measured approach to legislation given the political realities he faced in Congress, especially with the Southern Conservatives.{{sfn|Dallek|2003|pp=643, 648-649}} However, impelled by the civil rights demonstrations of [[Martin Luther King, Jr.|Martin Luther King]], Kennedy in 1963 proposed legislative action. In a radio and TV address to the nation in June 1963—a century after President [[Abraham Lincoln]] had signed the [[Emancipation Proclamation]]—Kennedy became the first president to call on all Americans to denounce racism as morally wrong. Kennedy's civil rights proposals led to the [[Civil Rights Act of 1964]].{{sfn|Dallek|2003|pp=594-606, 644}}
+
+President [[Lyndon B. Johnson]], Kennedy's successor, took up the mantle and pushed the landmark Civil Rights Act through a bitterly divided Congress by invoking the slain president's memory.{{sfn|Dallek|2003|p=708}}<ref name="USA Today">{{cite news | url = http://usatoday30.usatoday.com/news/washington/2010-09-26-jfk-kennedy-mystique_N.htm  | title = 50 years after win, Kennedy's legacy endures | work = USA Today | date = September 26, 2010 | accessdate = April 4, 2013 }}</ref> President Johnson then signed the Act into law on July 2, 1964. This civil rights law ended what was known as the "[[Solid South]]" and certain provisions were modeled after the [[Civil Rights Act of 1875]], signed into law by President [[Ulysses S. Grant]].{{sfn|Hanes, Jr.|2000|p=205}}
+
+Kennedy's continuation of Presidents [[Harry S. Truman]] and [[Dwight D. Eisenhower]]'s policies of giving economic and military aid to [[South Vietnam]] left the door open for President Johnson's escalation of the conflict.<ref>{{cite news| url = http://www.usatoday.com/news/washington/2010-09-26-jfk-kennedy-mystique_N.htm | work=USA Today | title=50 years after win, Kennedy's legacy endures | date=October 4, 2011 | accessdate=December 25, 2011 | first1=Susan | last1=Page }}</ref> At the time of Kennedy's death, no final policy decision had been made as to Vietnam, leading historians, cabinet members and writers to continue to disagree on whether the Vietnam conflict would have escalated to the point it did had he survived.<ref name="Douthat 2011-11-26">{{cite news | url = http://www.nytimes.com/2011/11/27/opinion/sunday/Douthat-The-Enduring-Cult-of-Kennedy.html | newspaper = New York Times | title = The Enduring Cult of Kennedy | date = November 26, 2011 | accessdate =December 3, 2011 | first = Ross | last = Douthat }}</ref>{{sfn|Matthews|2011|pp=393, 394}} His agreement to the NSAM 263<ref name="NSAM 263" /> action of withdrawing 1,000 troops by the end of 1963, and his earlier 1963 speech at [[American University]],<ref name="AmUniv" /> suggested he was ready to end the [[Vietnam War]]. The [[Vietnam War]] contributed greatly to a decade of national difficulties, amid violent disappointment on the political landscape.
+
+Many of Kennedy's speeches (especially his inaugural address) are considered iconic; and despite his relatively short term in office and lack of major legislative changes coming to fruition during his term, Americans regularly vote him as one of the best presidents, in the same league as [[Abraham Lincoln]], [[George Washington]], and [[Franklin D. Roosevelt]]. Some excerpts of Kennedy's inaugural address are engraved on a plaque at his grave at Arlington.
+
+He was posthumously awarded the [[Pacem in Terris Award]]. It was named after a 1963 [[encyclical]] letter by [[Pope John XXIII]] that calls upon all people of goodwill to secure peace among all nations. [[Pacem in Terris]] is [[Latin]] for 'Peace on Earth.'
+
+President Kennedy is the only president to have predeceased both his mother and father. He is also the only president to have predeceased a grandparent. Rose's mother Mary Josephine "Josie" Hannon died in August 1964, several months after his assassination.
+
+Throughout the [[English-speaking world]], the given name ''[[Kennedy (given name)|Kennedy]]'' has sometimes been used in honor of President Kennedy, as well his brother Robert.<ref name="Hanks-157">{{cite book |last1=Hanks |first1=Patrick |last2=Hardcastle |authorlink1=Patrick Hanks |first2=Kate |last3=Hodges |first3=Flavia | title = A Dictionary of First Names |edition=2nd |series=Oxford Paperback Reference | year = 2006 | publisher = [[Oxford University Press]] | location = [[Oxford]] | isbn = 978-0-19-861060-1| page = 157 }}</ref>
+
+=== Eponyms ===
+* [[John F. Kennedy International Airport]], American facility (renamed from Idlewild in December 1963) in New York City's Queens County; nation's busiest international gateway
+
+* [[John F. Kennedy Memorial Airport]] American facility in Ashland County, Wisconsin, near city of Ashland
+
+* [[John F. Kennedy Memorial Bridge]] American seven-lane transportation hub across Ohio River; completed in late 1963, the bridge links Kentucky and Indiana
+
+* [[John F. Kennedy School of Government]], American institution (renamed from Harvard Graduate School of Public Administration in 1966)
+
+* [[John F. Kennedy Space Center]], U.S. government installation that manages and operates America's astronaut launch facilities in Titusville, near Cocoa Beach, FL
+
+* [[John F. Kennedy Special Warfare Center and School]]—trains [[United States Army]] personnel for the [[United States Army Special Operations Command]] and Army Special Operation Forces at Fort Bragg outside Fayetteville, NC
+
+* [[John F. Kennedy University]], American private educational institution founded in California in 1964; locations in Pleasant Hill, Campbell, Berkeley, and Santa Cruz
+
+* {{USS|John F. Kennedy|CV-67}}, U.S. Navy aircraft carrier ordered in April 1964, launched May 1967, decommissioned August 2007; nicknamed "Big John"
+
+* [[John F. Kennedy High School (disambiguation)|John F. Kennedy High School]] is the name of many secondary schools
+
+* {{USS|John F. Kennedy|CVN-79}}, U.S. Navy aircraft carrier that began construction in 2011, and is scheduled to be placed in commission in 2020
+
+=== Memorials ===
+{{main|Memorials to John F. Kennedy}}
+
+== Coat of arms ==
+In 1961, Kennedy was presented with a grant of [[coat of arms|arms]] for all the descendants of [[Patrick Kennedy (1823–1858)|Patrick Kennedy]] from the [[Chief Herald of Ireland]]. The design of the arms strongly alludes to symbols in the coats of arms of the [[Kennedy (Ireland)|O'Kennedys]] of Ormonde and the [[Earl of Desmond|FitzGeralds]] of Desmond, from whom the family is believed to be descended. The crest is an armored hand holding four arrows between two olive branches, elements taken from the coat of arms of the United States of America and also symbolic of Kennedy and his brothers.
+
+Kennedy received a signet ring engraved with his arms for his 44th birthday as a gift from his wife, and the arms were incorporated into the seal of the USS ''John F. Kennedy''. Following his assassination, Kennedy was honored by the Canadian government by having a mountain, [[Mount Kennedy]], named for him, which his brother, Robert Kennedy, climbed in 1965 to plant a banner of the arms at the summit.<ref>{{cite web | url = http://www.americanheraldry.org/pages/index.php?n=President.Kennedy | title = John Fitzgerald Kennedy, 35th President of the United States | publisher = American Heraldry Society | accessdate =October 27, 2009 }}</ref>
+
+== Media ==
+{{listen
+| filename = JFK ColdWarsOrigin.ogg
+| title = Kennedy comments on the possible prevention of the Cold War
+| description = President Kennedy comments on the possible prevention of the Cold War
+| format = [[Vorbis]]
+| filename2 = JFKennedy November1963.ogg
+| title2 = Kennedy's message to Turkey
+| description2 = Kennedy's message to [[Turkey|Turkish]] President [[Cemal Gursel]] and The Turkish People on the Anniversary of the Death of [[Kemal Ataturk]], November 10, 1963 ([[:File:JFKennedy on Ataturk 1963.pdf|accompanying text]])
+| format2 = [[Vorbis]]
+| filename3 = Discurso de Kennedy.ogg
+| title3 = Announcement to go to the moon
+| description3 = Announcement by John F. Kennedy to go to the moon (duration 11:00)
+| format3 = [[Vorbis]]
+}}
+[[File:Kennedy inauguration footage.ogg|thumb|center|Newsreel footage of the inauguration ceremony and speeches]]
+
+== See also ==
+{{div col|colwidth=25em}}
+* [[Assassination of Robert F. Kennedy]]
+* [[Cultural depictions of John F. Kennedy]]
+* [[Jesuit Ivy]]
+* [[Kennedy Doctrine]]
+* [[Kennedy family]]
+* [[Kennedy family#Family tree|Kennedy family tree]]
+* [[Kennedy half dollar]]
+* [[Kennedy tragedies]]
+* [[Lincoln–Kennedy coincidences urban legend]]
+* [[Operation Northwoods]]
+* [[Orville Nix]], photographer of another film of the assassination
+* "[[Senator, you're no Jack Kennedy]]" retort by Senator [[Lloyd Bentsen]], 1988 VP debate
+* [[The John F. Kennedy Memorial Park]] (in Ireland)
+* [[The Torch of Friendship]]
+* [[Abraham Zapruder]], photographer of the primary film of assassination, the [[Zapruder film]].
+
+'''General:'''
+* [[History of the United States (1945–1964)]]
+* [[List of assassinated American politicians]]
+* [[List of Presidents of the United States]]
+* [[List of Presidents of the United States who died in office]]
+* [[US Presidents on US postage stamps]]
+{{div col end}}
+{{portal bar|Biography|United States Navy}}
+
+== Notes ==
+{{notes}}
+
+== References ==
+{{reflist
+| colwidth = 20em
+| refs =
+}}
+
+== Bibliography ==
+{{refbegin|20em}}
+* {{cite book
+  | last1 = Alford
+  | first1 = Mimi
+  | author1-link = Mimi Alford
+  | last2 = Newman
+  | first2 = Judith
+  | year = 2011
+  | title = Once Upon A Secret: My Affair with President John F. Kennedy and its Aftermath
+  | publisher = Hutchinson
+  | location = London
+  | isbn = 978-0-09-193175-9
+  | ref = {{sfnRef|Alford|2011}}
+  }}
+* {{cite book
+  | last = Ballard
+  | first = Robert D.
+  | authorlink = Robert Ballard
+  | year = 2002
+  | title = Collision With History: The Search for John F. Kennedy's PT 109
+  | publisher = National Geographic
+  | location = Washington, DC
+  | isbn = 978-0-7922-6876-5
+  | ref = harv
+  }}
+* {{cite book
+  | last = Barnes
+  | first = John
+  | year = 2007
+  | title = John F. Kennedy on Leadership
+  | ref = harv
+  }}
+* {{cite book
+  | last = Bilharz
+  | first = Joy Ann
+  | year = 2002
+  | origyear = 1998
+  | title = The Allegany Senecas and Kinzua Dam: Forced Relocation Through Two Generations
+  | publisher = University of Nebraska Press
+  | location = Lincoln
+  | isbn = 978-0-8032-1282-4
+  | ref = harv
+  }}
+* {{cite book
+  | last1 = Blight
+  | first1 = James G.
+  | last2 = Lang
+  | first2 = Janet M.
+  | year = 2005
+  | title = The Fog of War: Eleven Lessons from the Life of Robert S. McNamara
+  | publisher = Rowman & Littlefield
+  | location = Lanham, Md.
+  | isbn = 978-0-7425-4221-1
+  | ref = harv
+  }}
+* {{cite journal
+  | last = Bryant
+  | first = Nick
+  |date=Autumn 2006
+  | title = Black Man Who Was Crazy Enough to Apply to Ole Miss
+  | journal = The Journal of Blacks in Higher Education
+  | issue = 53
+  | ref = harv
+  }}
+* {{cite book| last = Bugliosi| first = Vincent| authorlink = Vincent Bugliosi| title = [[Reclaiming History|Reclaiming History: The Assassination of President John F. Kennedy]]| year = 2007| publisher = Norton |location=New York | isbn = 978-0-393-04525-3| ref = harv
+  }}
+* {{cite book
+  | last = Dallek
+  | first = Robert
+  | authorlink = Robert Dallek
+  | year = 2003
+  | title = [[An Unfinished Life: John F. Kennedy, 1917–1963]]
+  | publisher = Little, Brown and Co
+  | location = Boston, MA
+  | isbn = 978-0-316-17238-7
+  | ref = harv
+  }}
+* {{cite book
+  | last = Donovan
+  | first = Robert J.
+  | authorlink = Robert J. Donovan
+  | year = 2001
+  | origyear = 1961
+  | title = PT-109: John F. Kennedy in WW II
+  | edition = 40th Anniversary
+  | publisher = McGraw Hill
+  | isbn = 978-0-07-137643-3
+  | ref = harv
+  }}
+* {{cite book
+  | last1 = Dunnigan
+  | first1 = James
+  | authorlink1 = Jim Dunnigan
+  | last2 = Nofi
+  | first2 = Albert
+  | authorlink2 = Albert Nofi
+  | year = 1999
+  | title = Dirty Little Secrets of the Vietnam War
+  | publisher = St. Martin's
+  | isbn = 978-0-312-19857-2
+  | ref = harv
+  }}
+* {{cite book
+  | last1 = Dudley
+  | first1 = Robert L.
+  | last2 = Shiraev
+  | first2 = Eric
+  | year = 2008
+  | title = Counting Every Vote: The Most Contentious Elections in American History
+  | publisher = Potomac Books
+  | location = Dulles, Virginia
+  | isbn = 978-1-59797-224-6
+  | ref = harv
+  }}
+
+* {{cite book
+  | last = Frum
+  | first = David
+  | authorlink = David Frum
+  | year = 2000
+  | title = How We Got Here: The '70s
+  | publisher = Basic Books
+  | isbn = 978-0-465-04196-1
+  | ref = harv
+  }}
+
+*Gleijeses, Piero. "Ships in the Night: The CIA, the White House and the Bay of Pigs". ''Journal of Latin American Studies'', Feb. 1995, Vol. 27, no. 1, pp.&nbsp;1–42 (via [[JSTOR]]) ISSN 0022-216X
+
+* {{cite book
+  | last = Herst
+  | first = Burton
+  | year = 2007
+  | title = Bobby and J. Edgar: The Historic Face-Off Between the Kennedys and J. Edgar Hoover That Transformed America
+  | publisher = Basic Books
+  | isbn = 978-0-7867-1982-2
+  | ref = harv
+  }}
+* {{cite book
+  | last = Jewell
+  | first = Elizabeth
+  | year = 2005
+  | title = U.S. Presidents Factbook
+  | publisher = Random House
+  | location = New York
+  | isbn = 978-0-375-72073-4
+  | ref = harv
+  }}
+* {{cite book
+  | last = Kempe
+  | first = Frederick
+  | authorlink = Frederick Kempe
+  | year = 2011
+  | title = Berlin 1961
+  | publisher = G.P. Putnam's Sons
+  | location = New York
+  | isbn = 978-0-399-15729-5
+  | ref = harv
+  }}
+* {{cite book
+  | last = Kenney
+  | first = Charles
+  | year = 2000
+  | title = John F. Kennedy: The Presidential Portfolio
+  | publisher = PublicAffairs
+  | isbn = 978-1-891620-36-2
+  | ref = harv
+  }}
+* {{cite book
+  | last = Leaming
+  | first = Barbara
+  | year = 2006
+  | title = Jack Kennedy: The Education of a Statesman
+  | publisher = W. W. Norton
+  | isbn = 978-0-393051-61-2
+  | ref = harv
+  }}
+* {{cite book
+  | last = Maier
+  | first = Thomas
+  | year = 2004
+  | title = The Kennedys: America's Emerald Kings
+  | ref = harv
+  }}
+* {{cite book
+  | last = McNamara
+  | first = Robert S.
+  | authorlink = Robert McNamara
+  | year = 2000
+  | title = Argument Without End: In Search of Answers to the Vietnam Tragedy
+  | ref = harv
+  }}
+* {{cite book
+  | last = Matthews
+  | first = Chris
+  | year = 2011
+  | title = Jack Kennedy
+  | publisher = Simon & Schuster
+  | isbn = 978-1-4516-3508-9
+  | ref = harv
+  }}
+* {{cite book
+  | last = O'Brien
+  | first = Michael
+  | year = 2005
+  | title = John F. Kennedy: A Biography
+  | publisher = Thomas Dunne
+  | isbn = 978-0-312-28129-8
+  | ref = harv
+  }}
+* {{cite book
+  | last = Osborne
+  | first = Robert
+  | year = 2006
+  | title = Leading Ladies: The 50 Most Unforgettable Actresses of the Studio Era
+  | publisher = Chronicle Books
+  | isbn = 978-0811852487
+  | ref = harv
+  }}
+
+* {{cite book
+  | last = Reeves
+  | first = Richard
+  | authorlink = Richard Reeves (American writer)
+  | year = 1993
+  | title = President Kennedy: Profile of Power
+  | publisher = Simon & Schuster
+  | location = New York
+  | isbn = 978-0-671-64879-4
+  | ref = harv
+  }}
+* {{cite book
+  | last = Salt
+  | first = Jermey
+  | year = 2008
+  | title = The Unmaking of the Middle East: A History of Western Disorder in Arab lands
+  | publisher = University of California Press
+  | location = Berkeley, CA
+  | isbn = 978-0-520-25551-7
+  | ref = harv
+  }}
+* {{cite book
+  | last = Schlesinger
+  | first = Arthur M. Jr
+  | authorlink = Arthur M. Schlesinger, Jr.
+  | title = [[A Thousand Days (book)|A Thousand Days: John F. Kennedy in the White House]]
+  | origyear = 1965
+  | year = 2002
+  | publisher = Houghton Mifflin
+  | location = Boston
+  | isbn = 978-0-618-21927-8
+  | ref = harv
+  }}
+* {{cite book
+  | last = Sorensen
+  | first = Theodore
+  | authorlink = Ted Sorensen
+  | title = Kennedy
+  | publisher = Bantam
+  | location = New York
+  | type = paperback
+  | origyear = 1965
+  | year = 1966
+  | oclc = 2746832
+  | ref = harv
+  }}
+* {{cite book
+  | last = Tucker
+  | first = Spencer
+  | title = The Encyclopedia of the Vietnam War: A Political, Social, and Military History
+  | publisher = ABC-CLIO
+  | origyear = 1998
+  | year = 2011
+  | isbn = 978-1851099603
+  | ref = harv
+  }}
+* {{cite book
+  | last1 = Walton Jr.
+  | first1 = Hanes
+  | last2 = Smith
+  | first2 = Robert C.
+  | title = American Politics and the African American Quest for Universal Freedom
+  | publisher = Addison, Wesley, Longman
+  | year = 2000
+  | isbn = 0-321-07038-0
+  | ref = harv
+  }}
+{{refend}}
+
+== Further reading ==
+* Brauer, Carl. ''John F. Kennedy and the Second Reconstruction'' (1977)
+* Burner, David. ''John F. Kennedy and a New Generation'' (1988)
+* Casey, Shaun. ''The Making of a Catholic President: Kennedy vs. Nixon 1960'' (2009)
+* Collier, Peter & Horowitz, David. ''The Kennedys'' (1984)
+* Cottrell, John. ''Assassination! The World Stood Still'' (1964)
+* {{cite book| last = Douglass| first = James W.| authorlink = James W. Douglass| title =JFK and the Unspeakable: Why He Died and Why It Matters| year = 2008|location=Maryknoll, N.Y| publisher = Orbis Books| isbn = 978-1-57075-755-6}}
+* Fay, Paul B., Jr. ''The Pleasure of His Company'' (1966)
+* Freedman, Lawrence. ''Kennedy's Wars: Berlin, Cuba, Laos and Vietnam'' (2000)
+* Fursenko, Aleksandr and Timothy Naftali. ''One Hell of a Gamble: Khrushchev, Castro and Kennedy, 1958–1964'' (1997)
+* Giglio, James. ''The Presidency of John F. Kennedy'' (1991)
+* Hamilton, Nigel. ''JFK: Reckless Youth'' (1992)
+* Harper, Paul, and Krieg, Joann P.  eds. ''John F. Kennedy: The Promise Revisited'' (1988)
+* Harris, Seymour E. ''The Economics of the Political Parties, with Special Attention to Presidents Eisenhower and Kennedy'' (1962)
+* Heath, Jim F. ''Decade of Disillusionment: The Kennedy–Johnson Years'' (1976)
+* Hersh, Seymour. ''The Dark Side of Camelot'' (1997)
+* Kunz, Diane B. ''The Diplomacy of the Crucial Decade: American Foreign Relations during the 1960s'' (1994)
+* Lynch, Grayston L. ''Decision for Disaster Betrayal at the Bay of Pigs'' (2000)
+* Manchester, William. ''Portrait of a President: John F. Kennedy in Profile'' (1967)
+* {{cite book| last = Manchester| first = William| authorlink = William Manchester| title =[[The Death of a President|The Death of a President: November 20 – 25, 1963]]| year = 1967| publisher =Harper & Row|location=New York| lccn= 67010496}}
+* [[John M. Newman|Newman, John M.]] ''JFK and Vietnam: Deception, Intrigue, and the Struggle for Power'' (1992)
+* Parmet, Herbert. ''Jack: The Struggles of John F. Kennedy'' (1980)
+* Parmet, Herbert. ''JFK: The Presidency of John F. Kennedy'' (1983)
+* Parmet, Herbert. "The Kennedy Myth". In ''Myth America: A Historical Anthology, Volume II''. Gerster, Patrick, and Cords, Nicholas. (editors.) (1997)
+* Piper, Michael Collins. ''Final Judgment'' (2004: sixth edition). American Free Press
+* Reeves, Thomas. ''A Question of Character: A Life of John F. Kennedy'' (1991); hostile biography
+* [[Larry Sabato|Sabato, Larry J.]] ''The Kennedy Half-Century: The Lasting Legacy of John F. Kennedy'' (forthcoming, 2013)
+* Schlesinger, Arthur, Jr. ''Robert Kennedy And His Times'' (2002) [1978]
+* Smith, Jean E. ''The Defense of Berlin'' (1963)
+* Smith, Jean E. ''The Wall as Watershed'' (1966)
+* Walsh, Kenneth T. ''Air Force One: A History of the Presidents and Their Planes'' (2003)
+* Wyden, Peter, ''Bay of Pigs: The Untold Story'' (1979)
+
+===Primary sources===
+* Goldzwig, Steven R. and Dionisopoulos, George N., eds. ''In a Perilous Hour: The Public Address of John F. Kennedy'' (1995)
+* [[Jacqueline Kennedy|Kennedy, Jacqueline]]. ''Jacqueline Kennedy: Historic Conversations on Life with John F. Kennedy'' (2011). [[Hyperion Books]]. ISBN 1401324258.
+
+=== Historiography ===
+* Abramson, Jill. [http://www.nytimes.com/2013/10/27/books/review/the-elusive-president.html?nl=books&emc=edit_bk_20131025&pagewanted=all "Kennedy, the Elusive President"], ''[[The New York Times Book Review]]'' October 22, 2013, notes that 40,000 books have been published about JFK
+* Hellmann, John. ''The Kennedy Obsession: The American Myth of JFK'' (1997)
+
+== External links ==
+{{sister project links}}
+* {{CongLinks
+| c-span = johnkennedy
+| rose = 
+| imdb = 448123
+| ontheissuespath = John_F__Kennedy.htm
+| nyt = 
+| wsj = 
+| guardian = 
+| findagrave =
+| retrieved =
+}}
+;Official
+* [http://www.jfklibrary.org/ John F. Kennedy Presidential Library and Museum]
+* [http://www.nps.gov/jofi/index.htm John Fitzgerald Kennedy National Historic Site]
+* [http://www.whitehouse.gov/about/presidents/johnfkennedy/ White House biography]
+
+;Media coverage
+* {{NYT topic|people/k/john_fitzgerald_kennedy}}
+* {{C-SPAN|johnkennedy}}
+** [http://www.americanpresidents.org/presidents/president.asp?PresidentNumber=34 John F. Kennedy] at [[C-SPAN]]'s ''[[American Presidents: Life Portraits]]''
+* [http://radiotapes.com/specialpostings.html#JFK  Radio coverage of the assassination of President Kennedy as broadcast on WCCO-AM Radio (Minneapolis) and CBS Radio]
+
+;Other
+* [http://www.loc.gov/rr/program/bib/presidents/kennedy/index.html John F. Kennedy: A Resource Guide] - the Library of Congress
+* [http://www.millercenter.virginia.edu/index.php/academic/americanpresident/kennedy Extensive Essays on JFK] with shorter essays on each member of his cabinet and First Lady - [[Miller Center of Public Affairs]]
+* [http://history.state.gov/historicaldocuments/kennedy Kennedy Administration] from Office of the Historian, [[United States Government Printing Office]], Washington, D.C.
+* {{discogs artist|John F. Kennedy}}
+* {{Find a Grave|574|accessdate=November 17, 2013}}
+
+{{John F. Kennedy}}
+{{Navboxes
+|title=Offices and distinctions
+|list1=
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef | before = [[James Michael Curley]] }}
+{{s-ttl | title = Member of the [[List of United States Representatives from Massachusetts|House of Representatives]] <br /> from [[Massachusetts's 11th congressional district]] | years = 1947–1953 }}
+{{s-aft | after = [[Tip O'Neill]] }}
+{{s-ppo}}
+{{s-bef | before = [[David I. Walsh]] }}
+{{s-ttl | title = [[Democratic Party (United States)|Democratic]] nominee for [[United States Senator|Senator]] from [[Massachusetts]] <br /> ([[Classes of United States Senators|Class 1]]) | years = [[United States Senate election in Massachusetts, 1952|1952]], [[United States Senate election in Massachusetts, 1958|1958]] }}
+{{s-aft | after = [[Ted Kennedy]] }}
+{{s-bef | before = [[Adlai Stevenson II]] }}
+{{s-ttl | title = [[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|presidential nominee]] | years = [[United States presidential election, 1960|1960]] }}
+{{s-aft | after = [[Lyndon B. Johnson|Lyndon Johnson]] }}
+{{s-par|us-sen}}
+{{s-bef | before = [[Henry Cabot Lodge, Jr.]] }}
+{{s-ttl | title = [[List of United States Senators from Massachusetts|United States Senator (Class 1) from Massachusetts]] | years = 1953–1960 | alongside = [[Leverett Saltonstall]] }}
+{{s-aft | after = [[Benjamin A. Smith II]] }}
+{{s-off}}
+{{s-bef | before = [[Dwight D. Eisenhower|Dwight David Eisenhower]] }}
+{{s-ttl | title = [[President of the United States]] | years = 1961–1963 }}
+{{s-aft | after = [[Lyndon B. Johnson|Lyndon Baines Johnson]] }}
+{{s-hon}}
+{{s-bef | before = [[Tomb of the Unknowns|Unknown Soldiers of World War II and the Korean War]] }}
+{{s-ttl | title = Persons who have [[lying in state|lain in state or honor]] <br /> in the [[United States Capitol rotunda]] | years = 1963 }}
+{{s-aft | after = [[Douglas MacArthur]] }}
+{{s-end}}
+}}
+{{navboxes
+| title = Articles related to John F. Kennedy
+| list1 =
+
+{{US Presidents}}
+{{USDemPresNominees}}
+{{USSenMA}}
+{{USRepMA}}
+{{Cold War}}
+{{Buddhist crisis|state=collapsed}}
+{{PT-109}}
+{{Robert F. Kennedy}}
+{{Ted Kennedy}}
+{{Kennedy family}}
+{{United States presidential election, 1956}}
+{{United States presidential election, 1960}}
+{{Kennedy cabinet}}
+{{Time Persons of the Year 1951–1975}}
+{{PulitzerPrize BiographyorAutobiographyAuthors 1951–1975}}
+{{National Football Foundation Gold Medal Winners}}
+{{Assassination of John F. Kennedy}}
+{{Pacem in Terris Award laureates |collapsed}}
+}}
+{{Authority control|LCCN=n/79/55297|VIAF=68910251|GND=118561383}}
+
+{{Persondata
+| NAME              = Kennedy, John Fitzgerald
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = 35th President of the United States
+| DATE OF BIRTH     = May 29, 1917
+| PLACE OF BIRTH    = Brookline, Massachusetts, United States
+| DATE OF DEATH     = November 22, 1963
+| PLACE OF DEATH    = Dallas, Texas, United States
+}}
+{{DEFAULTSORT:Kennedy, John F.}}
+[[Category:John F. Kennedy| ]]
+[[Category:1917 births]]
+[[Category:1963 deaths]]
+[[Category:20th-century American writers]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:American anti-communists]]
+[[Category:American military personnel of World War II]]
+[[Category:American people of Irish descent]]
+[[Category:American people of the Vietnam War]]
+[[Category:American Roman Catholics]]
+[[Category:American socialites]]
+[[Category:Articles containing video clips]]
+[[Category:Assassinated heads of state]]
+[[Category:Assassinated United States Presidents]]
+[[Category:Barnstable, Massachusetts]]
+[[Category:Bouvier family]]
+[[Category:Burials at Arlington National Cemetery]]
+[[Category:Choate Rosemary Hall alumni]]
+[[Category:Cold War leaders]]
+[[Category:Deaths by firearm in Texas]]
+[[Category:Democratic Party (United States) presidential nominees]]
+[[Category:Democratic Party Presidents of the United States]]
+[[Category:Democratic Party United States Senators]]
+[[Category:Filmed assassinations]]
+[[Category:Harvard University alumni]]
+[[Category:Irish diaspora politicians]]
+[[Category:Kennedy family]]
+[[Category:Laetare Medal recipients]]
+[[Category:Massachusetts Democrats]]
+[[Category:Members of the United States House of Representatives from Massachusetts]]
+[[Category:People associated with the Boy Scouts of America]]
+[[Category:People associated with the John F. Kennedy assassination]]
+[[Category:People from Boston, Massachusetts]]
+[[Category:People from Brookline, Massachusetts]]
+[[Category:People murdered in Texas]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Presidents of the United States]]
+[[Category:Pulitzer Prize for Biography or Autobiography winners]]
+[[Category:Recipients of the Navy and Marine Corps Medal]]
+[[Category:Recipients of the Purple Heart medal]]
+[[Category:Roman Catholic heads of government]]
+[[Category:Space advocates]]
+[[Category:United States Navy officers]]
+[[Category:United States presidential candidates, 1960]]
+[[Category:United States Senators from Massachusetts]]
+[[Category:United States vice-presidential candidates, 1956]]
+[[Category:Writers from Massachusetts]]
+[[Category:Democratic Party members of the United States House of Representatives]]

@@ -1,0 +1,709 @@
+{{Other people|Benjamin Harrison}}
+{{Use mdy dates|date=April 2011}}
+{{pp-move-indef}}
+{{Infobox officeholder
+| name = Benjamin Harrison
+| image = Pach Brothers - Benjamin Harrison.jpg
+| office = [[List of Presidents of the United States|23rd]] [[President of the United States]]
+| vicepresident = [[Levi P. Morton]]
+| term_start = March 4, 1889
+| term_end = March 4, 1893
+| predecessor = [[Grover Cleveland]]
+| successor = [[Grover Cleveland]]
+| jr/sr2 = United States Senator
+| state2 = [[Indiana]]
+| term_start2 = March 4, 1881
+| term_end2 = March 4, 1887
+| predecessor2 = [[Joseph E. McDonald|Joseph McDonald]]
+| successor2 = [[David Turpie]]
+| birth_date = {{birth date|1833|8|20}}
+| birth_place = [[North Bend, Ohio]], U.S.
+| death_date = {{death date and age|1901|3|13|1833|8|20}}
+| death_place = [[Indianapolis]], [[Indiana]], U.S.
+| restingplace = [[Crown Hill Cemetery]]<br>[[Indianapolis]], [[Indiana]]
+| party = [[Republican Party (United States)|Republican]] (1856–1901)
+| otherparty = [[Whig Party (United States)|Whig Party]] (Before 1856)
+| spouse =
+ {{plainlist |
+* [[Caroline Harrison|Caroline Scott]]<br><small> (1853–1892; her death)</small>
+* [[Mary Dimmick Harrison|Mary Scott Lord]]<br><small> (1896–1901; his death)
+ }}
+| children =
+ {{plainlist |
+* [[Russell Benjamin Harrison|Russell]]
+* [[Mary Harrison McKee|Mary]]
+* [[Elizabeth Harrison Walker|Elizabeth]]
+ }}
+| alma_mater =
+ {{plainlist |
+* [[Ohio Military Institute|Farmer's College]]
+* [[Miami University]]
+ }}
+| profession = Politician<br>[[Lawyer]]
+| religion = [[Presbyterianism]]
+| signature = Benjamin Harrison Signature-2.svg
+| signature_alt = Cursive signature in ink
+| branch = [[Union Army]]
+| rank = [[Colonel (United States)|Colonel]] and <br> [[Brevet (military)|Brevet]] [[Brigadier general (United States)|Brigadier General]]
+| serviceyears = 1862 - 1865
+| battles = [[American Civil War]]
+| commands =
+ {{plainlist |
+* [[70th Regiment Indiana Infantry]]
+* 1st Brigade of the 1st Division of the [[XX Corps (Union Army)|XX Corps]]
+ }}
+| unit = [[Army of the Cumberland]]
+}}
+'''Benjamin Harrison''' (August 20, 1833&nbsp;– March 13, 1901) was the [[List of Presidents of the United States|23rd]] [[President of the United States]] (1889–1893); he was the grandson of the ninth President, [[William Henry Harrison]]. Harrison had become a prominent local attorney, Presbyterian church leader and politician in [[Indianapolis]], [[Indiana]]. During the [[American Civil War]], he served the Union for most of the war as a [[Colonel (United States)|colonel]] and on February 14, 1865 was confirmed by the [[United States Senate|U.S. Senate]] as a [[Brevet (military)|brevet]] [[Brigadier general (United States)|brigadier general]] of volunteers to rank from January 23, 1865. Afterwards, he unsuccessfully ran for the governorship of [[Indiana]] but was later elected to the U.S. Senate by the Indiana legislature.
+
+Harrison, a [[Republican Party (United States)|Republican]], was elected to the presidency in [[United States presidential election, 1888|1888]], defeating the [[Democratic Party (United States)|Democratic]] incumbent [[Grover Cleveland]]. Hallmarks of his administration included unprecedented economic legislation, including the [[McKinley Tariff]], which imposed historic protective trade rates, and the [[Sherman Antitrust Act]]; Harrison facilitated the creation of the [[United States National Forest|National Forests]] through an amendment to the Land Revision Act of 1891. He also substantially strengthened and modernized the Navy, and conducted an active foreign policy. He proposed, in vain, federal education funding as well as voting rights enforcement for [[African Americans]] during his administration.
+
+Due in large part to surplus revenues from the tariffs, federal spending reached one billion dollars for the first time during his term. The spending issue in part led to the defeat of the Republicans in the [[United States House election, 1890|1890 mid-term elections]]. Harrison was defeated by Cleveland in his bid for re-election in 1892, due to the growing unpopularity of the high tariff and high federal spending. He then returned to private life in Indianapolis but later represented the [[Republic of Venezuela]] in an international case against the [[United Kingdom of Great Britain and Ireland|United Kingdom]]. In 1900, he traveled to Europe as part of the case and, after a brief stay, returned to Indianapolis. He died the following year of complications from [[influenza]].
+
+== Early life ==
+
+=== Family and education ===
+Harrison's paternal ancestors were the [[Harrison family of Virginia|Virginia Harrisons]]. Their immigrant ancestor was Benjamin Harrison, who arrived in [[Jamestown, Virginia]], in 1630. The future president Benjamin was born on August 20, 1833, in [[North Bend, Ohio|North Bend]], [[Ohio]], as the second of eight children to [[John Scott Harrison]] and Elizabeth Ramsey (Irwin). Benjamin was a grandson of President William Henry Harrison and the great-grandson of [[Benjamin Harrison V]], a Virginia governor and signer of the [[United States Declaration of Independence|Declaration of Independence]].{{sfnm|Calhoun||1pp=7–8|Moore & Hale||2p=15}}{{efn|name=VIII}} Harrison was seven years old when his grandfather was elected President, but he did not attend the inauguration.{{sfn|Calhoun|p=8}} Although Harrison's family was distinguished, his parents were not wealthy. John Scott Harrison spent much of his farm income on his children's education.{{sfnm|Calhoun||1p=9|Sievers||2loc=v. 1, pp. 21–23}} Despite the family's meager resources, Harrison's boyhood was enjoyable, much of it spent outdoors fishing or hunting.{{sfn|Sievers|loc=v. 1|pp=22–23}}
+
+Benjamin Harrison's early schooling took place in a one-room schoolhouse near his home, but his parents later arranged for a tutor to help him with college preparatory studies.{{sfn|Sievers|loc=v. 1|pp=24–29}} Harrison and his brother Irwin enrolled in [[Farmer's College]] near Cincinnati, Ohio in 1847.{{sfn|Sievers|loc=v. 1|pp=29–30}} He attended the college for two years {{sfn|Wallace|p=53}}{{efn|name=Farmer's College}} and while there met his future wife, [[Caroline Harrison|Caroline Lavinia Scott]], one of the daughters of the science professor, [[John Witherspoon Scott]].
+
+In 1850, Harrison transferred to [[Miami University]] in [[Oxford, Ohio]] and graduated in 1852.{{sfnm|Moore & Hale||1pp=21–23|Sievers||2loc=v. 1, p. 58}}  He joined the fraternity [[Phi Delta Theta]], which he used as a network for much of his life.  He was also a member of [[Delta Chi]], a law fraternity which permitted dual membership.<ref name="fraternities" /> Classmates included [[John Alexander Anderson]],{{sfn|Calhoun|p=23}} who became a six-term congressman, and [[Whitelaw Reid]] who ran as Harrison's vice presidential candidate in his presidential reelection campaign. At Miami, Harrison was strongly influenced by history and political economy professor [[Robert Hamilton Bishop]].{{sfnm|Calhoun||1pp=10–11|Sievers||2loc=v. 1, pp. 31–34}} Harrison joined a [[Presbyterian]] church at college and, like his mother, became a lifelong member.{{sfn|Wallace|p=58}}
+
+After completing college, Harrison took up the study of law as a legal apprentice in the Cincinnati law office of Storer & Gwynne.
+
+== Marriage, family and early career ==
+[[File:Benjamin Harrison c1850.jpg|thumb|right|Benjamin Harrison c1850]]
+Before completing his law studies, Harrison returned to Oxford to marry Caroline Scott.{{sfn|Calhoun|pp=11–12, 23}} On October 20, 1853, Caroline's father, also a Presbyterian minister, performed the ceremony.{{sfn|Calhoun|p=23}}
+
+The Harrisons had two children, [[Russell Benjamin Harrison]] (August 12, 1854&nbsp;– December 13, 1936), and [[Mary Harrison McKee|Mary "Mamie" Scott Harrison]] (April 3, 1858&nbsp;– October 28, 1930).{{sfn|Calhoun|pp=27 & 29}}
+
+Harrison returned to live on his father's farm while finishing his law studies. That same year, he inherited $800 after the death of an aunt, and used the funds to move with Caroline to Indianapolis, Indiana in 1854.{{sfn|Calhoun|p=26}} He was admitted to the bar and began practicing law in the office of John H. Ray. The same year he became a [[Town crier|crier]] for the Federal Court in Indianapolis, for which he was paid $2.50 per day.{{sfn|Calhoun|pp=27 & 29}} Harrison became a founding member and first president of both the University Club, a private [[gentlemen's club]] and the Phi Delta Theta Alumni Club.{{sfn|Calhoun|p=22}} Harrison and his wife joined and assumed leadership positions at the First Presbyterian Church.{{sfn|Socolofsky & Spetter|p=7}}
+
+Having grown up in a [[Whig party (United States)|Whig]] household, he favored that party's politics while young. He joined the [[United States Republican Party|Republican Party]] shortly after its formation in 1856, and that year campaigned on behalf of the Republican presidential candidate [[John C. Frémont]].{{sfn|Calhoun|p=18}} Harrison was elected as the Indianapolis City Attorney that year, a position that paid an annual salary of $400.{{sfn|Moore & Hale|p=29}}
+
+In 1858, Harrison entered into a law partnership with William Wallace and they opened their office called Wallace & Harrison.{{sfnm|Calhoun||1p=28|Sievers||2loc=v. 1, p. 105}} In Two years hence, Harrison successfully ran as the Republican candidate for [[Reporter of decisions|reporter]] of the [[Indiana Supreme Court]]. He was an active supporter of his party's platform, and served as Republican State Committee Secretary. His law partner Wallace was elected as county clerk in 1860; Harrison established a new firm with William Fishback, named Fishback & Harrison. They worked together until he entered the Army after the start of the [[American Civil War]].{{sfn|Sievers|loc=v. 1|p=171}}
+
+== Civil War ==
+[[File:GenBenHarrison.jpg|thumb|upright|Colonel Benjamin Harrison]]
+In 1862, [[President of the United States|President]] [[Abraham Lincoln]] issued a call for more recruits for the Union Army; Harrison wanted to enlist, but worried about how to support his young family.{{sfn|Calhoun|p=20}} While visiting Governor [[Oliver Morton]], Harrison found him distressed over the shortage of men answering the latest call. Harrison told the governor, "If I can be of any service, I will go".{{sfnm|Wallace||1p=180|Calhoun||2p=34}}
+
+Morton asked Harrison if he could help recruit a regiment, although he would not ask him to serve. Harrison recruited throughout northern Indiana to raise a regiment. Morton offered him the command, but Harrison declined, as he had no military experience. He was initially commissioned as a captain and company commander on July 22, 1862. Governor Morton commissioned Harrison as a colonel on August 7, 1862, and the newly formed [[70th Indiana Infantry Regiment|70th Indiana]] was mustered into Federal service on August 12, 1862. Once mustered, the regiment left Indiana to join the Union Army at Louisville, Kentucky.{{sfnm|Wallace||1pp=180–181|Calhoun||2pp=21–23, 41, 44}}<ref>{{cite book|last1=Terrell|first1=W.H.H.|title=Report of the Adjutant General of the State of Indiana|date=1865|publisher=W.R. Holloway|location=Indianapolis|pages=639–640|edition=Volume II}}</ref>
+ 
+For much of its first two years, the 70th Indiana performed reconnaissance duty and guarded railroads in [[Kentucky]] and [[Tennessee]]. In 1864, Harrison and his regiment joined [[William T. Sherman]]'s [[Atlanta Campaign]] and moved to the front lines. On January 2, 1864, Harrison was promoted to command the 1st Brigade of the 1st Division of the [[XX Corps (Union Army)|XX Corps]]. He commanded the [[brigade]] at the Battles of [[Battle of Resaca|Resaca]], [[Cassville, Georgia|Cassville]], [[Battle of New Hope Church|New Hope Church]], Lost Mountain, [[Battle of Kennesaw Mountain|Kennesaw Mountain]], [[Battle of Marietta|Marietta]], [[Battle of Peachtree Creek|Peachtree Creek]] and [[Battle of Atlanta|Atlanta]]. When Sherman's main force began its [[Sherman's March to the Sea|March to the Sea]], Harrison's brigade was transferred to the District of Etowah and participated in the [[Battle of Nashville]].{{sfnm|Calhoun||1pp=36–44|Wallace||2pp=209–225}} On January 23, 1865, President Lincoln nominated Harrison to the grade of [[Brevet (military)|brevet]] [[Brigadier general (United States)|brigadier general]] of volunteers, to rank from that date, and the U.S. Senate confirmed the nomination on February 14, 1865.<ref>{{citation| author = | last = Eicher | first = John H. | author2 = | last2 = Eicher | first2 = David J. | authorlink2 = David J. Eicher | publication-date= 2001 |title= Civil War High Commands | page= 747| publisher = Stanford University Press | location = Stanford, CA | ISBN = 978-0-8047-3641-1 }}</ref> He rode in the [[Grand Review of the Armies|Grand Review]] in Washington, D.C. before mustering out on June 8, 1865.{{sfnm|Calhoun||1pp=36–44|Wallace||2pp=209–225}}
+
+== Post-war career ==
+=== Indiana politics ===
+While serving in the army in October 1864, Harrison was reelected [[Law report|reporter]] of the [[Supreme Court of Indiana]] and served four more years.{{sfn|Calhoun|p=19}} Although not politically powerful, the position provided Harrison a steady income.{{sfn|Calhoun|p=19}} President [[Ulysses Simpson Grant|Grant]] appointed him to represent the federal government in a civil claim brought by [[Lambdin P. Milligan]], whose wartime conviction for [[treason]] had been reversed by the Supreme Court. Due to Harrison's advocacy, the damages awarded against the government were minimal.{{sfn|Wallace|pp=93–94, 119}}
+
+With his increasing reputation, local Republicans urged Harrison to run for Congress. He initially confined his political activities to speaking on behalf of other Republican candidates, a task for which he received high praises from his colleagues.{{sfnm|Calhoun||1pp=27–28|Socolofsky & Spetter||2p=8}}
+
+[[File:Benjamin Harrison Home.jpg|thumb|left|[[Benjamin Harrison Home]] in Indianapolis]]
+In 1872, Harrison campaigned for the Republican nomination for [[governor of Indiana]]. Former governor Oliver Morton favored his opponent, [[Thomas M. Browne]], and Harrison lost his bid for statewide office.{{sfn|Moore & Hale|p=28}} He returned to his law practice and, despite the [[Panic of 1873]], he was financially successful enough to build a grand new home in Indianapolis in 1874.{{sfn|Calhoun|p=29}} He continued to make speeches on behalf of Republican candidates and policies.{{sfn|Calhoun|p=30}}
+
+In 1876, the original Republican nominee for governor dropped out of the race and Harrison accepted the Republicans' invitation to take his place on the ticket.{{sfnm|Calhoun||1p=32|Socolofsky & Spetter||2p=8}} He centered his campaign on economic policy and favored deflating the national currency. He was ultimately defeated in a plurality by [[James D. Williams]], losing by 5,084 votes out of a total 434,457 cast.{{sfnm|Wallace||1p=266|Calhoun||2pp=32 & 58}} Following his defeat, Harrison was able to build on his new prominence in the state. When the [[Great Railroad Strike of 1877]] reached Indianapolis, he helped to mediate between the workers and management and to preserve public order.{{sfn|Calhoun|pp=33–34}}
+
+When United States Senator Morton died in 1878, the Republicans nominated Harrison to run for the seat, but the party failed to gain a majority in the state legislature, which at that time elected senators; the Democratic majority elected [[Daniel W. Voorhees]] instead.{{sfn|Calhoun|pp=35–36}}{{efn|name=Seventeenth Amendment}} In 1879 President [[Rutherford B. Hayes|Hayes]] appointed Harrison to the [[Mississippi River Commission]], which worked to develop internal improvements on the river.{{sfn|Socolofsky & Spetter|p=8}} As a delegate to the [[1880 Republican National Convention]] the following year,{{sfn|Calhoun|p=36}} he was instrumental in breaking a deadlock on candidates, and [[James A. Garfield]] won the nomination.
+
+=== United States Senator ===
+[[File:Walter Q. Gresham - Brady-Handy.jpg|thumb|upright|[[Walter Q. Gresham]], Harrison's rival within the Indiana Republican Party]]
+After Harrison led the Republican delegation at the National Convention, he was considered a presumptive Senate candidate.{{sfn|Calhoun|p=37}} He gave speeches in favor of Garfield in Indiana and New York, further raising his profile in the party. When the Republicans retook the [[Indiana General Assembly|state legislature]], Harrison's election to the Senate was threatened by his intra-party rival Judge [[Walter Q. Gresham]], but Harrison was ultimately chosen.{{sfn|Calhoun|p=37}} After Garfield's election as president in 1880, his administration offered Harrison a cabinet position which he declined in favor of continued service as senator. {{sfnm|Calhoun||1p=60|Socolofsky & Spetter||2p=8}}
+
+Harrison served in the Senate from March 4, 1881, to March 4, 1887 and chaired the [[United States Senate Committee on Transportation Routes to the Seaboard|U.S. Senate Committee on Transportation Routes to the Seaboard]] ([[Forty-seventh United States Congress|47th Congress]]) and the [[United States Senate Committee on Territories|U.S. Senate Committee on Territories]] ([[Forty-eighth United States Congress|48th]] and [[Forty-ninth United States Congress|49th Congresses]]).{{sfnm|Wallace||1pp=265–267|Calhoun||2p=59}}
+
+In 1881, the major issue confronting Senator Harrison was the budget surplus. Democrats wished to reduce the [[tariff]] and limit the amount of money the government took in; Republicans instead wished to spend the money on [[internal improvements]] and pensions for Civil War veterans. Harrison took his party's side and advocated for generous [[pension]]s for veterans and their widows.{{sfn|Calhoun|p=39}} He also supported, unsuccessfully, aid for education of Southerners, especially the children of the freedmen; he believed that education was necessary to help the black population rise to political and economic equality with whites. {{sfn|Calhoun|pp=39–40}} Harrison opposed the [[Chinese Exclusion Act (United States)|Chinese Exclusion Act of 1882]], which his party supported, as he thought it violated existing treaties with [[China]].{{sfn|Calhoun|p=40}}
+
+In 1884, Harrison and Gresham competed for influence at the [[1884 Republican National Convention]].;{{sfn|Calhoun|pp=41–42}} the delegation ended up supporting [[James G. Blaine]], the eventual nominee.{{sfn|Calhoun|pp=41–42}} In the Senate, Harrison achieved passage of his Dependent Pension Bill, only to see it vetoed by President [[Grover Cleveland]].{{sfn|Calhoun|p=42}} His efforts to further the admission of new western states were stymied by Democrats, who feared that the new states would elect Republicans to Congress.{{sfn|Calhoun|p=42}}
+
+In 1885, the Democrats [[redistricting|redistricted]] the Indiana state legislature, which resulted in an increased Democratic majority in 1886, despite an overall Republican majority statewide.{{sfn|Calhoun|pp=43–44}} Harrison was thereby defeated in his bid for reelection; this resulted after a deadlock in the [[Indiana Senate|state senate]], with the legislature eventually choosing Democrat [[David Turpie]].{{sfn|Moore & Hale|p=66}} Harrison then returned to Indianapolis and his law practice, but stayed active in state and national politics.{{sfn|Calhoun|pp=45–46}}
+
+== Election of 1888 ==
+{{main|United States presidential election, 1888}}
+[[File:Harrison-Morton 1888.jpg|thumb|Harrison–Morton campaign poster]]
+=== Nomination ===
+The initial favorite for the Republican nomination was the previous nominee, James G. Blaine of [[Maine]]. After Blaine wrote several letters denying any interest in the nomination, his supporters divided among other candidates, with [[John Sherman (politician)|John Sherman]] of [[Ohio]] as the leader among them.{{sfn|Calhoun|p=47}} Others, including [[Chauncey Depew]] of [[New York]], [[Russell Alger]] of [[Michigan]], and Harrison's old nemesis Walter Q. Gresham, now [[United States Court of Appeals for the Seventh Circuit|a federal appellate court judge in Chicago]], also sought the delegates' support at the [[1888 Republican National Convention]].{{sfn|Calhoun|p=47}} Blaine did not publicly endorse any of the candidates as a successor; however, on March 1, 1888 he privately wrote that "the one man remaining who in my judgment can make the best one is Benjamin Harrison."{{sfn|Socolofsky & Spetter|p=8}}
+
+Harrison placed fourth on the first ballot, with Sherman in the lead, and the next few ballots showed little change.{{sfn|Calhoun|p=50}} The Blaine supporters shifted their support among candidates they found acceptable, and when they shifted to Harrison, they found a candidate who could attract the votes of many other delegations.{{sfn|Calhoun|pp=51–52}} He was nominated as the party's presidential candidate on the eighth ballot, by a count of 544 to 108 votes.{{sfn|Wallace|p=271}} [[Levi P. Morton]] of New York was chosen as his running mate.{{sfn|Socolofsky & Spetter|p=9}}
+{{clear}}
+
+=== Election over Cleveland ===
+[[File:ElectoralCollege1888.svg|thumb|left|300px|Results of the 1888 election]]
+Harrison's opponent in the general election was incumbent President Grover Cleveland. He reprised a more traditional [[front porch campaign|front-porch campaign]], abandoned by his immediate predecessors; he received visiting delegations to Indianapolis and made ninety plus pronouncements from his home town.{{sfn|Socolofsky & Spetter|p=11}} The Republicans campaigned heavily in favor of [[tariff|protective tariffs]], turning out protectionist voters in the important industrial states of the North. The election focused on the swing states of New York, New Jersey, Connecticut, and Harrison's home state of Indiana.{{sfn|Socolofsky & Spetter|p=10}} Harrison and Cleveland split these four states, with Harrison winning in New York and Indiana.{{sfnm|Calhoun||1p=43|Socolofsky & Spetter||2p=13}} Voter turnout was 79.3%, reflecting  a large interest in the campaign; nearly eleven million votes were cast.{{sfn|Calhoun|p=57}} Although Harrison received 90,000 fewer popular votes than Cleveland, he carried the [[Electoral College (United States)|Electoral College]] 233 to 168.<ref name="EV 1888" /> Allegations were made against Republicans for engaging in irregular ballot practices; an example was described as [[Blocks of Five]].{{sfn|Socolofsky & Spetter|p=13}}
+
+Although he had made no political bargains, his supporters had given many pledges upon his behalf. When Boss [[Matthew Quay]] of Pennsylvania, who rebuffed for a Cabinet position for his political support during the convention, heard that Harrison ascribed his narrow victory to [[Divine Providence|Providence]], Quay exclaimed that Harrison would never know "how close a number of men were compelled to approach...the penitentiary to make him President."{{sfn|Calhoun|pp=55, 60}} Harrison was known as the Centennial President because his inauguration celebrated the [[George Washington's legacy#Centennial celebration|centenary of the first inauguration]] of [[George Washington]] in 1789.{{sfn|Calhoun|pp=47–54}} In congressional elections, the Republicans increased their membership in the House of Representatives by nineteen seats.{{sfn|Socolofsky & Spetter|p=14}}  
+{{clear}}
+
+== Presidency 1889–1893 ==
+[[File:Harrison-inauguration.jpg|thumb|right|Inauguration of Benjamin Harrison, March 4, 1889. Cleveland held Harrison's umbrella.]]
+
+=== Inauguration and cabinet===
+Harrison was sworn into office on Monday, March 4, 1889 by [[Chief Justice of the United States|Chief Justice]] [[Melville Fuller]].{{sfn|Socolofsky & Spetter|p=1–2}} At 5' 6" tall, he was only slightly taller than Madison, the shortest president, but much heavier; he was the fourth (and last) president to sport a full beard{{sfn|Socolofsky & Spetter|p=1}} Harrison's [[Inauguration]] ceremony took place during a [[rainstorm]] in Washington D.C.. Outgoing U.S. President Grover Cleveland attended the ceremony and held an umbrella over Harrison's head as he took the oath of office.
+
+His speech was brief – half as long as that of his grandfather, William Henry Harrison, who holds the record for the longest inaugural address.{{sfn|Socolofsky & Spetter|p=1–2}} In his speech Harrison credited the nation's growth to the influences of education and religion, urged the cotton states and mining territories to attain the industrial proportions of the eastern states and promised a protective tariff. Concerning commerce, he said, "If our great corporations would more scrupulously observe their legal obligations and duties, they would have less call to complain of the limitations of their rights or of interference with their operations."{{sfn|Socolofsky & Spetter|p=3}} Harrison also urged early statehood for the territories and advocated pensions for veterans, a statement that was met with enthusiastic applause. In foreign affairs, Harrison reaffirmed the [[Monroe Doctrine]] as a mainstay of foreign policy, while urging modernization of the Navy and a merchant marine force. He gave his commitment to international peace through noninterference in the affairs of foreign governments.<ref name="Benjamin Harrison Inauguration" />
+
+[[John Philip Sousa]]'s [[Marine Corps]] band played at the Inaugural Ball inside the [[National Building Museum|Pension Building]] with a large crowd attending.{{sfn|Socolofsky & Spetter|p=5–6}} After moving into the White House, Harrison noted, quite prophetically, "There is only a door – one that is never locked – between the president's office and what are not very accurately called his private apartments. There should be an executive office building, not too far away, but wholly distinct from the dwelling house. For everyone else in the public service there is an unroofed space between the bedroom and the desk."{{sfn|Socolofsky & Spetter|p=83}}
+{{CSS image crop|Image = HARRISON, Benjamin-President (BEP engraved portrait).jpg |bSize = 325|cWidth = 230|cHeight = 270|oTop = 50|oLeft = 50|Location = right|Description = [[Bureau of Engraving and Printing|BEP]] engraved portrait of Harrison as President. }}
+
+Harrison acted quite independently in selecting his cabinet, much to the dismay of the Republican bosses. He began by delaying the presumed nomination of James G. Blaine as Secretary of State so as to preclude Blaine's involvement in the formation of the administration, as had occurred in President Garfield's term.{{sfn|Socolofsky & Spetter|pp=20–22}} In fact, other than Blaine, the only Republican boss initially nominated was Redfield Proctor, as Secretary of War. Senator Shelby Cullom's comment symbolizes Harrison's steadfast aversion to use federal positions for patronage: "I suppose Harrison treated me as well as he did any other Senator; but whenever he did anything for me, it was done so ungraciously that the concession tended to anger rather than please."{{sfn|Socolofsky & Spetter|p=33}} Harrison's selections shared particular alliances – such as their service in the Civil War, Indiana citizenship and membership in the Presbyterian Church.{{sfn|Socolofsky & Spetter|p=20}} Nevertheless, Harrison with these choices had alienated pivotal Republican operatives from New York to Pennsylvania to Iowa and prematurely compromised his political power and future.{{sfn|Socolofsky & Spetter|pp=22–30}} Harrison's normal schedule provided for two full cabinet meetings per week, as well as separate weekly one-on-one meetings with each cabinet member.{{sfn|Socolofsky & Spetter|p=85}}
+
+=== Civil service reform and pensions ===
+
+[[File:Harrison Football Political Cartoon.jpg|thumb|250px|left|[[Political football]]]]
+[[Civil service]] reform was a prominent issue following Harrison's election. Harrison had campaigned as a supporter of the [[merit system]], as opposed to the [[spoils system]].{{sfn|Socolofsky & Spetter|p=32}} Although some of the civil service had been classified under the [[Pendleton Civil Service Reform Act|Pendleton Act]] by previous administrations, Harrison spent much of his first months in office deciding on political appointments.{{sfn|Socolofsky & Spetter|pp=32–36}} Congress was widely divided on the issue and Harrison was reluctant to address the issue in hope of preventing the alienation of either side. The issue became a [[political football]] of the time and was immortalized in a cartoon captioned "What can I do when both parties insist on kicking?"{{sfn|Moore & Hale|pp=83, 86}} Harrison appointed [[Theodore Roosevelt]] and [[Hugh Smith Thompson]], both reformers, to the [[United States Civil Service Commission|Civil Service Commission]], but otherwise did little to further the reform cause.{{sfn|Socolofsky & Spetter|p=39–41}}
+
+Harrison quickly saw the enactment of the [[Dependent and Disability Pension Act]] in 1890, a cause he had championed while in Congress.{{sfnm|Socolofsky & Spetter||1pp=36–37|Calhoun||2pp=72–73}} In addition to providing pensions to disabled Civil War veterans (regardless of the cause of their disability), the Act depleted some of the troublesome federal budget surplus.{{sfnm|Socolofsky & Spetter||1pp=36–37|Calhoun||2pp=72–73}} Pension expenditures reached $135&nbsp;million under Harrison, the largest expenditure of its kind to that point in American history, a problem exacerbated by [[Pension Bureau]] commissioner [[James R. Tanner]]'s expansive interpretation of the pension laws.{{sfnm|Socolofsky & Spetter||1pp=36–37|Calhoun||2pp=72–73}} Harrison, who privately believed that appointing Tanner had been a mistake, due to his apparent loose management style and tongue, asked Tanner to resign and replaced him with [[Green Berry Raum|Green B. Raum]].{{sfn|Socolofsky & Spetter|pp=34–36}} Raum was also accused of accepting loan payments in return for expediting pension cases.<ref name=Woodward-Williams_pp193-194>[[#Williams|Williams]], pp. 193–194</ref> Harrison, having accepted a dissenting Congressional Republican investigation report that exonerated Raum, kept him in office for the rest of his administration.<ref name=Woodward-Williams_pp193-194/>
+
+One of the first appointments Harrison was forced to reverse was that of James S. Clarkson as an assistant postmaster. Clarkson, who had expected a full cabinet position, began sabotaging the appointment from the outset, gaining the reputation for "decapitating a fourth class postmaster every three minutes". Clarkson himself stated, I am simply on detail from the Republican Committee...I am most anxious to get through this task and leave." He resigned in September 1890.{{sfn|Socolofsky & Spetter|pp=34–36}}
+
+=== Tariff ===
+
+[[File:Billion dollar Congress.jpg|thumb|150px|Harrison and the [[51st United States Congress|Billion-Dollar Congress]] are portrayed as wasting the surplus in this cartoon from ''[[Puck (magazine)|Puck]]''.]]
+The [[tariff]] levels had been a major political issue since before the Civil War, and they became the most dominant matter of the 1888 election.{{sfn|Socolofsky & Spetter|p=51}} The high tariff rates had created a surplus of money in the Treasury, which led many Democrats (as well as the growing Populist movement) to call for lowering them.{{sfn|Socolofsky & Spetter|p=49}} Most Republicans preferred to maintain the rates, spend the surplus on [[Public works|internal improvements]] and eliminate some internal taxes.{{sfn|Socolofsky & Spetter|p=49}}
+
+Representative [[William McKinley]] and Senator [[Nelson W. Aldrich]] framed the [[McKinley Tariff]] that would raise the tariff even higher, including making some rates intentionally prohibitive.{{sfnm|Calhoun||1pp=100–104|Socolofsky & Spetter||2pp=51–52}} At Secretary of State James Blaine's urging, Harrison attempted to make the tariff more acceptable by urging Congress to add [[Reciprocity (international relations)|reciprocity]] provisions, which would allow the President to reduce rates when other countries reduced their rates on American exports.{{sfn|Socolofsky & Spetter|p=51}} The tariff was removed from imported raw [[sugar]], and sugar growers in the United States were given a two cent per pound subsidy on their production.{{sfnm|Calhoun||1pp=100–104|Socolofsky & Spetter||2pp=51–52}} Even with the reductions and reciprocity, the McKinley Tariff enacted the highest average rate in American history, and the spending associated with it contributed to the reputation of the [[51st United States Congress|Billion-Dollar Congress]].{{sfn|Socolofsky & Spetter|p=51}}
+
+=== Antitrust laws and the currency===
+
+[[File:John-Sherman-2.jpg|thumb|left|upright|Senator [[John Sherman]] worked closely with Harrison, writing bills regulating [[Sherman Antitrust Act|monopolies]] and [[Sherman Silver Purchase Act|monetary policy]].]]
+Members of both parties were concerned with the growth of the power of [[Trust (19th century)|trusts]] and [[Monopoly|monopolies]], and one of the first acts of the [[51st United States Congress|51st Congress]] was to pass the [[Sherman Antitrust Act]], sponsored by Senator [[John Sherman]] of Ohio.{{sfn|Socolofsky & Spetter|p=53}} The Act passed by wide margins in both houses, and Harrison signed it into law.{{sfn|Socolofsky & Spetter|p=53}} The Sherman Act was the first Federal act of its kind, and marked a new use of federal government power.{{sfn|Calhoun|pp=92–93}} While Harrison approved of the law and its intent, his administration was not particularly vigorous in enforcing it.{{sfnm|Socolofsky & Spetter||1p=54|Calhoun||2p=94}} However, the government successfully concluded a case during Harrison's time in office (against a Tennessee coal company),{{efn|name=coal case}} and had initiated several other cases against trusts.{{sfnm|Socolofsky & Spetter||1p=54|Calhoun||2p=94}}
+
+One of the most volatile questions of the 1880s was whether the currency should be backed by [[Bimetallism|gold and silver]], or by [[gold standard|gold alone]].{{sfn|Calhoun|pp=94–95}} The issue cut across party lines, with western Republicans and southern Democrats joining together in the call for the free coinage of silver, and both parties' representatives in the northeast holding firm for the gold standard.{{sfnm|Calhoun||1pp=94–95|Socolofsky & Spetter||2pp=55–59}} Because silver was worth less than its legal equivalent in gold, taxpayers paid their government bills in silver, while international creditors demanded payment in gold, resulting in a depletion of the nation's gold supply.{{sfnm|Calhoun||1pp=94–95|Socolofsky & Spetter||2pp=55–59}} Owing to worldwide [[deflation]] in the late 19th century, however, a strict gold standard had resulted in reduction of incomes without the equivalent reduction in debts, pushing debtors and the poor to call for silver coinage as an inflationary measure.{{sfnm|Calhoun||1pp=94–95|Socolofsky & Spetter||2pp=55–59}}
+
+The silver coinage issue had not been much discussed in the 1888 campaign and Harrison is said to have favored a bimetallist position.{{sfn|Socolofsky & Spetter|p=53}} However, his appointment of a silverite Treasury Secretary, [[William Windom]], encouraged the free silver supporters.{{sfn|Socolofsky & Spetter|pp=56–57}} Harrison attempted to steer a middle course between the two positions, advocating a free coinage of silver, but at its own value, not at a fixed ratio to gold.{{sfnm|Socolofsky & Spetter||1p=58|Calhoun||2p=96}} This failed to facilitate a compromise between the factions. In July 1890, Senator Sherman achieved passage of a bill, the [[Sherman Silver Purchase Act]], in both houses.{{sfnm|Socolofsky & Spetter||1p=58|Calhoun||2p=96}} Harrison thought that the bill would end the controversy, and he signed it into law.{{sfn|Socolofsky & Spetter|p=59}} The effect of the bill, however, was the increased depletion of the nation's gold supply, a problem that would persist until the second Cleveland administration [[Grover Cleveland#Economic panic and the silver issue|resolved it]].{{sfn|Socolofsky & Spetter|p=60}}
+{{clear}}
+
+=== Civil rights ===
+
+[[File:President Benjamin Harrison on ship.jpg|thumb|Harrison with Secretary Blaine and Representative [[Henry Cabot Lodge]] off the coast of [[Maine]], 1889]]
+After regaining the majority in both Houses of Congress, some Republicans, led by Harrison, attempted to pass legislation to protect black Americans' civil rights.{{sfn|Calhoun|pp=89–90}} Harrison's Attorney General, [[William H. H. Miller]], through the Justice Department, ordered the prosecutions for violation of voting rights in the South; however, white juries often failed to convict or indict violators.{{sfn|Calhoun|pp=89–90}} This prompted Harrison to urge Congress to pass legislation that would "secure all our people a free exercise of the right of suffrage and every other civil right under the Constitution and laws."{{sfn|Calhoun|pp=89–90}}
+Harrison endorsed the proposed [[Lodge Bill|Federal Elections Bill]] written by Representative [[Henry Cabot Lodge]] and Senator [[George Frisbie Hoar]] in 1890, but the bill was defeated in the Senate.{{sfn|Wilson|pp=32–33}} Following the failure to pass the bill, Harrison continued to speak in favor of [[African American]] civil rights in addresses to Congress. Most notably, on December 3, 1889, Harrison had gone before Congress and spoken, <blockquote>"The colored people did not intrude themselves upon us; they were brought here in chains and held in communities where they are now chiefly bound by a cruel slave code...when and under what conditions is the black man to have a free ballot? When is he in fact to have those full civil rights which have so long been his in law? When is that quality of influence which our form of government was intended to secure to the electors to be restored?"{{sfn|Socolofsky & Spetter|p=62}}</blockquote> He severely questioned the states' civil rights records, arguing that if states have the authority over civil rights, then "we have a right to ask whether they are at work upon it."{{sfn|Wilson|pp=32–33}} Harrison also supported a bill proposed by Senator [[Henry W. Blair]], which would have granted federal funding to schools regardless of the students' races.{{sfn|Socolofsky & Spetter|p=65–67}} He also endorsed a proposed constitutional amendment to overturn the 1883 Supreme Court rulings that declared much of the Reconstruction-era Civil Rights Acts unconstitutional.{{sfnm|Calhoun||1pp=89–90|Smith||2p=170}} None of these measures gained congressional approval.{{sfnm|Calhoun||1pp=89–90|Smith||2p=170}}
+
+===National forests===
+In March 1891 Congress enacted and Harrison signed the Land Revision Act of 1891. This legislation resulted from a bipartisan desire to initiate reclamation of surplus lands theretofore granted from the public domain for potential settlement or use by railroad syndicates. As the law's drafting was finalized, Section 24 was added at the behest of Harrison by his Secretary of the Interior John Noble, which read as follows: <blockquote>"That the President of the United States may, from time to time, set apart and reserve, in any State or Territory having public land bearing forests, in any part of the public lands wholly or in part covered with timber or undergrowth, whether of commercial value or not, as public reservations, and the President shall, by public proclamation, declare the establishment of such reservations and the limits thereof."{{sfn|Socolofsky & Spetter|p=71}}</blockquote>
+
+Within a month of the enactment of this law Harrison authorized the first forest reserve, to be located on public domain adjacent to Yellowstone Park, in Wyoming. Other areas were so designated by Harrison, bringing the first forest reservations total to 22 million acres in his term.{{sfn|Socolofsky & Spetter|p=72}}
+
+=== Native American policy===
+During Harrison's administration, the [[Lakota Sioux]], previously confined to reservations in South Dakota, grew restive under the influence of [[Wovoka]], a medicine man, who encouraged them to participate in a spiritual movement called the [[Ghost Dance]].{{sfn|Socolofsky & Spetter|p=106}} Many in Washington did not understand the predominantly religious nature of the Ghost Dance, and thought it was a militant movement being used to rally Native Americans against the government. On December 29, 1890, troops from the [[7th Cavalry Regiment (United States)|Seventh Cavalry]] clashed with the Sioux at the [[Wounded Knee Massacre|Battle of Wounded Knee]]. The result was a massacre of at least 146 Sioux, including many women and children;{{sfnm|Moore & Hale||1pp=121–122|Socolofsky & Spetter||2pp=106–107}} the dead Sioux were buried in a mass grave.{{sfn|Moore & Hale|p=121}} In reaction Harrison directed Major General [[Nelson A. Miles]] to investigate and ordered 3500 federal troops to South Dakota; the uprising was brought to an end.{{sfn|Socolofsky & Spetter|p=106}} Wounded Knee is considered the last major American Indian battle in the 19th century.{{sfn|Moore & Hale|pp=121–122}} Harrison's general policy on American Indians was to encourage assimilation into white society and, despite the massacre, he believed the policy to have been generally successful.{{sfn|Socolofsky & Spetter|p=92}} This policy, known as the [[Allotment Era|allotment system]] and embodied in the [[Dawes Severalty Act|Dawes Act]], was favored by liberal reformers at the time, but eventually proved detrimental to American Indians as they sold most of their land at low prices to white speculators.{{sfnm|Calhoun||1pp=112–114|Stuart||2pp=452–454}}
+
+=== Technology and naval modernization===
+[[File:USS Texas2.jpg|thumb|250px|The {{USS|Texas|1892|6}}, America's first battleship, built in 1892]]
+In Harrison's time in office, the United States was continuing to experience advances in science and technology. Harrison was the earliest President whose voice is known to be preserved. That {{Audio|Benjamin Harrison speech.ogg| thirty-six-second recording}} was originally made on a wax [[phonograph cylinder]] in 1889 by [[Gianni Bettini]].<ref name="Vincent Voice Library" /> Harrison also had electricity installed in the White House for the first time by [[General Electric|Edison General Electric Company]], but he and his wife would not touch the light switches for fear of electrocution and would often go to sleep with the lights on.{{sfn|Moore & Hale|p=96}}
+
+Over the course of his administration Harrison marshaled the country's technology to clothe the nation with a credible naval power. When he took office there were only two commissioned warships in the Navy. In his inaugural address he said, "construction of a sufficient number of warships and their necessary armaments should progress as rapidly as is consistent with care and perfection."{{sfn|Socolofsky & Spetter|p=97}} Harrison's Secretary of the Navy Benjamin F. Tracy spearheaded the rapid construction of vessels, and within a year congressional approval was obtained for building of the warships {{USS|Indiana|BB-1|2}}, {{USS|Texas|1892|2}}, {{USS|Oregon|BB-3|2}} and {{USS|Columbia|C-12|2}}. By 1898, with the help of the Carnegie Corporation, no less than ten modern warships, including steel hulls and greater displacements and armaments, had transformed the United States into a legitimate naval power. Seven of these had begun during the Harrison term.{{sfn|Socolofsky & Spetter|p=102}}
+
+=== Foreign policy ===
+
+====Latin America and Samoa====
+Harrison and [[United States Secretary of State|Secretary of State]] [[James G. Blaine|Blaine]] were often not the most cordial of friends, but harmonized in an aggressive foreign policy and commercial reciprocity with other nations.{{sfn|Calhoun|pp=74–76}} Blaine's persistent medical problems warranted more of a hands-on effort by Harrison in the conduct of foreign policy. In [[San Francisco]], while on tour of the United States in 1891, Harrison proclaimed that the United States was in a "new epoch" of trade and that the expanding navy would protect oceanic shipping and increase American influence and prestige abroad.{{sfn|Calhoun|pp=119–121}} The [[First International Conference of American States]] met in [[Washington, D.C.|Washington]] in 1889; Harrison set an aggressive agenda including customs and currency integration and  named a bipartisan delegation to the conference, lead by [[John B. Henderson]] and [[Andrew Carnegie]]. The conference failed to achieve any diplomatic breakthrough, due in large part to an atmosphere of suspicion fostered by the Argentinian delegation. It did succeed in establishing an information center that became the [[Organization of American States|Pan American Union]].{{sfn|Moore & Hale|p=108}} In response to the diplomatic bust, Harrison and Blaine pivoted diplomatically  and initiated a crusade for tariff reciprocity with Latin American nations; the Harrison administration concluded eight reciprocity treaties among these countries.{{sfn|Socolofsky & Spetter|pp=117–120}} On another front, Harrison sent [[Frederick Douglass]] as ambassador to [[Haiti]], but failed in his attempts to establish a naval base there.{{sfn|Socolofsky & Spetter|pp=126–128}}
+
+In 1889, the United States, the United Kingdom and Germany were locked in a dispute over control of the Samoan Islands. Historian George H. Ryden's research indicates Harrison played a key role in determining the status of this Pacific outpost by taking a firm stand on every aspect of Samoa conference negotiations; this included selection of the local ruler, refusal to allow an indemnity for Germany, as well as the establishment of a three power protectorate, a first for the U.S.. These arrangements facilitated the future dominant power of the U.S. in the Pacific; Secretary of State Blaine was absent due to complication of lumbago.{{sfn|Socolofsky & Spetter|pp=115–116}}
+
+====European embargo of U.S. pork====
+Throughout the 1880s various European countries had imposed a ban on importation of United States pork out of an unconfirmed concern of [[trichinosis]]; at issue was over one billion pounds of pork products with a value of $80 million (annually). Harrison engaged Whitelaw Reid, minister to France, and [[William Walter Phelps]], minister to Germany, to restore these exports for the country without delay. Harrison also successfully asked the congress to enact the Meat Inspection Act to eliminate the accusations of product compromise. The president also partnered with Agriculture Secretary Rusk to threaten Germany with retaliation – by initiating an embargo in the U.S. against Germany's highly demanded beet sugar. By September 1891 Germany relented, and was soon followed by Denmark, France and Austria-Hungary.{{sfn|Socolofsky & Spetter|pp=131–136}}
+
+====Crises in Aleutian Islands and Chile====
+The first international crisis Harrison faced arose from disputed fishing rights on the [[Alaska]]n coast. [[Canada]] claimed fishing and [[Seal hunting|sealing]] rights around many of the [[Aleutian Islands]], in violation of U.S. law.{{sfn|Socolofsky & Spetter|pp=137–138}} As a result, the [[United States Navy]] seized several Canadian ships.{{sfn|Socolofsky & Spetter|pp=137–138}} In 1891, the administration began negotiations with the British that would eventually lead to a compromise over fishing rights after international arbitration, with the British government paying compensation in 1898{{sfnm|Moore & Hale||1pp=135–136|Socolofsky & Spetter||2pp=139–143}}
+
+In 1891, a diplomatic crisis emerged in [[Chile]], otherwise known as the [[Baltimore Crisis|''Baltimore'' Crisis]]. The American minister to Chile, [[Patrick Egan (land reformer and diplomat)|Patrick Egan]], granted asylum to Chileans who were seeking refuge during the [[1891 Chilean Civil War]]. Egan, previously a militant Irish immigrant to the U.S., was motivated by a personal desire to thwart Great Britain's influence in Chile;{{sfn|Socolofsky & Spetter|p=146}} his action increased tensions between Chile and the United States, which began in the early 1880s when Secretary Blaine had alienated the Chileans in the [[War of the Pacific]]. 
+[[File:Uss baltimore c-3.jpg|thumb|300px|Attack on sailors from the [[USS Baltimore (C-3)|USS ''Baltimore'']] spawned the 1891 Chilean crisis.]]
+The crisis began in earnest when sailors from the {{USS|Baltimore|C-3|6}} took [[shore leave]] in [[Valparaiso]] and a fight ensued, resulting in the deaths of two American sailors and the arrest of three dozen others.{{sfn|Calhoun|p=127}} The ''Baltimore's'' captain, Winfield Schley, based on the nature of the sailors' wounds, insisted the sailors had been bayonet-attacked by Chilean police without provocation. With Blaine incapacitated, Harrison drafted a demand for reparations.{{sfnm|Calhoun||1pp=128–129|Socolofsky & Spetter||2pp=147–149}} The Chilean Minister of Foreign Affairs Manuel Matta replied that Harrison's message was "erroneous or deliberately incorrect," and said that the Chilean government was treating the affair the same as any other criminal matter.{{sfnm|Calhoun||1pp=128–129|Socolofsky & Spetter||2pp=147–149}}
+
+Tensions increased to the brink of war – Harrison threatened to break off diplomatic relations unless the United States received a suitable apology, and said the situation required, "grave and patriotic consideration". The president also remarked, "If the dignity as well as the prestige and influence of the United States are not to be wholly sacrificed, we must protect those who in foreign ports display the flag or wear the colors."{{sfn|Socolofsky & Spetter|p=151}} The Navy was also placed on a high level of preparedness. {{sfnm|Calhoun||1pp=128–129|Socolofsky & Spetter||2pp=147–149}} A recuperated Blaine made brief conciliatory overtures to the Chilean government which had no support in the administration; he then reversed course, joined the chorus for unconditional concessions and apology by the Chileans, who ultimately obliged, and war was averted. Theodore Roosevelt later applauded Harrison for his use of the "big stick" in the matter.{{sfn|Moore & Hale|p=134}}{{sfn|Socolofsky & Spetter|pp=150–151}}
+
+====Annexation of Hawaii====
+In the last days of his administration, Harrison dealt with the issue of [[Hawaii]]an annexation. Following [[Overthrow of the Kingdom of Hawaii|a coup d'état]] against Queen [[Liliuokalani]], the new government of Hawaii led by [[Sanford B. Dole|Sanford Dole]] petitioned for annexation by the United States.{{sfn|Socolofsky & Spetter|pp=204–205}} Harrison was interested in expanding American influence in Hawaii and in establishing a naval base at [[Pearl Harbor]] but had not previously expressed an opinion on annexing the islands.{{sfn|Calhoun|pp=125–126}} The United States [[Consul (representative)|consul]] in Hawaii [[John L. Stevens]] recognized the new government on February 1, 1893 and forwarded their proposals to Washington. With just one month left before leaving office, the administration signed a treaty on February 14 and submitted it to the Senate the next day with Harrison's recommendation.{{sfn|Socolofsky & Spetter|pp=204–205}} The Senate failed to act, and President Cleveland withdrew the treaty shortly after taking office.{{sfnm|Calhoun||1p=132|Moore & Hale||2p=147}}
+
+=== Cabinet ===
+[[File:BHarrison cabinet.jpg|thumb|350px|Harrison's cabinet in 1889 <br /> Front row, left to right: '''Harrison''', [[William Windom]], [[John Wanamaker]], [[Redfield Proctor]], [[James G. Blaine]] <br /> Back row, left to right: [[William H. H. Miller]], [[John W. Noble]], [[Jeremiah M. Rusk]], [[Benjamin F. Tracy]]
+]]
+{{Infobox U.S. Cabinet
+| align = none
+| Name = Harrison
+| President = '''Benjamin Harrison'''
+| President start = 1889
+| President end = 1893
+| Vice President = [[Levi P. Morton]]
+| Vice President start = 1889
+| Vice President end = 1893
+| State = [[James G. Blaine]]
+| State start = 1889
+| State end = 1892
+| State 2 = [[John W. Foster]]
+| State start 2 = 1892
+| State end 2 = 1893
+| Treasury = [[William Windom]]
+| Treasury start = 1889
+| Treasury end = 1891
+| Treasury 2 = [[Charles W. Foster]]
+| Treasury start 2 = 1891
+| Treasury end 2 = 1893
+| War = [[Redfield Proctor]]
+| War start = 1889
+| War end = 1891
+| War 2 = [[Stephen B. Elkins]]
+| War start 2 = 1891
+| War end 2 = 1893
+| Justice = [[William H. H. Miller]]
+| Justice start = 1889
+| Justice end = 1893
+| Post = [[John Wanamaker]]
+| Post start = 1889
+| Post end = 1893
+| Navy = [[Benjamin F. Tracy]]
+| Navy start = 1889
+| Navy end = 1893
+| Interior = [[John W. Noble]]
+| Interior start = 1889
+| Interior end = 1893
+| Agriculture = [[Jeremiah M. Rusk]]
+| Agriculture start = 1889
+| Agriculture end = 1893
+}}
+
+=== Judicial appointments ===
+{{main|Benjamin Harrison judicial appointments}}
+
+==== Supreme Court ====
+[[File:DavidBrewer.jpg|thumb|left|upright|Harrison appointed four Supreme Court justices, including [[David Josiah Brewer]].]]
+Harrison appointed four justices to the [[Supreme Court of the United States]]. The first was [[David Josiah Brewer]], a judge on the [[United States Court of Appeals for the Eighth Circuit|Court of Appeals for the Eighth Circuit]]. Brewer, the nephew of Justice [[Stephen Johnson Field|Field]], had previously been considered for a cabinet position.{{sfn|Socolofsky & Spetter|pp=188–190}} Shortly after Brewer's nomination, Justice [[Stanley Matthews (lawyer)|Matthews]] died, creating another vacancy. Harrison had considered [[Henry Billings Brown]], a [[Michigan]] judge and [[admiralty law]] expert, for the first vacancy and now nominated him for the second.{{sfn|Socolofsky & Spetter|pp=188–190}} For the third vacancy, which arose in 1892, Harrison nominated [[George Shiras, Jr.|George Shiras]]. Shiras's appointment was somewhat controversial because his age—sixty—was older than usual for a newly appointed Justice.{{sfn|Socolofsky & Spetter|pp=188–190}} Shiras also drew the opposition of Senator [[Matthew Quay]] of Pennsylvania because they were in different factions of the Pennsylvania Republican party, but his nomination was nonetheless approved.{{sfn|Socolofsky & Spetter|pp=188–190}} Finally, at the end of his term, Harrison nominated [[Howell Edmunds Jackson]] to replace Justice [[Lucius Quintus Cincinnatus Lamar (II)|Lamar]], who died in January 1893. Harrison knew the incoming Senate would be controlled by Democrats, so he selected Jackson, a respected Tennessee Democrat with whom he was friendly to ensure his nominee would not be rejected.{{sfn|Socolofsky & Spetter|pp=188–190}} Jackson's nomination was indeed successful, but he died after only two years on the Court.{{sfn|Socolofsky & Spetter|pp=188–190}}
+{{clear}}
+
+==== Other courts ====
+In addition to his Supreme Court appointments, Harrison appointed ten judges to the [[United States court of appeals|courts of appeals]], two judges to the [[United States circuit court|circuit courts]], and 26 judges to the [[United States district court|district courts]]. Because Harrison was in office when Congress eliminated the circuit courts in favor of the courts of appeals, he and Grover Cleveland were the only two Presidents to have appointed judges to both bodies.
+
+=== States admitted to the Union ===
+When Harrison took office, no new states had been admitted in more than a decade, owing to Congressional Democrats' reluctance to admit states that they believed would send Republican members. Early in Harrison's term, however, the [[Lame duck (politics)|lame duck]] Congress passed bills that admitted four states to the union: [[North Dakota]] and [[South Dakota]] on November 2, 1889, [[Montana]] on November 8, and [[Washington (state)|Washington]] on November 11.{{sfn|Socolofsky & Spetter|pp=44–45}} The following year two more states held constitutional conventions and were admitted – [[Idaho]] on July 3 and [[Wyoming]] on July 10, 1890.{{sfn|Socolofsky & Spetter|pp=44–45}} The initial Congressional delegations from all six states were solidly Republican.{{sfn|Socolofsky & Spetter|pp=44–45}} More states were admitted under Harrison's presidency than any other since [[George Washington]]'s.
+
+===Vacations and travel===
+Harrison attended the three-day grand Centennial Celebration of the country in New York City on April 30, 1889. He made the following remarks "We have come into the serious but always inspiring presence of Washington. He was the incarnation of duty and he teaches us today this great lesson: that those who would associate their names with events that shall outlive a century can only do so by high consecration to duty. Self-seeking has no public observance or anniversary."{{sfn|Socolofsky & Spetter|p=160}}
+
+The Harrisons made many trips out of the capital, which included speeches at most stops – including Philadelphia, New England, Indianapolis and Chicago. The President typically made his best impression speaking before large audiences, as opposed to more intimate settings.{{sfn|Socolofsky & Spetter|p=157}} The most notable of his presidential trips, theretofore unequaled, was a five week tour of the west in the spring of 1891, aboard a lavishly outfitted train.{{sfn|Socolofsky & Spetter|p=171}} Harrison quite enjoyed a number of short trips out of the capital, usually for hunting – to nearby Virginia or Maryland. On one such trip the game of choice was coon – for which Harrison was not well experienced – he shot and killed one Gilbert Wooten's hog, having mistaken it for a coon; while Mr. Wooten was thereby made happily famous, the president was not.{{sfn|Socolofsky & Spetter|p=166}}
+
+During the dreadfully hot summers of Washington, favorite locations to which the Harrisons made refuge were [[Deer Park, Maryland]] and [[Cape May Point]] in New Jersey. In 1890 John Wanamaker joined with other Philadelphia devotees of the Harrisons and made an entirely unsolicited gift to them of a summer cottage at Cape May. Harrison, though appreciative, was most uncomfortable with the ethical appearance; a month later he wrote Wanamaker a $10,000 personal check for reimbursement to the various donors of the gift. Nevertheless, Harrison's opponents made the gift the subject of national ridicule, in which Mrs. Harrison and the president were both vigorously criticized.{{sfn|Socolofsky & Spetter|pp=168}}
+
+=== Reelection campaign in 1892 ===
+{{main|United States presidential election, 1892}}
+[[File:Eastman Johnson - Benjamin Harrison - Google Art Project.jpg|thumb|upright|Official [[White House]] portrait of Benjamin Harrison, painted by [[Eastman Johnson]]]]
+The treasury surplus had evaporated and the nation's economic health was worsening – precursors to the eventual [[Panic of 1893]].{{sfn|Calhoun|pp=107, 126–127}} Congressional elections in 1890 had gone against the Republicans; and although Harrison had cooperated with Congressional Republicans on legislation, several party leaders withdrew their support for him because of his adamant refusal to give party members the nod in the course of his executive appointments. Specifically, Thomas C. Platt, Mathew S. Quay, Thomas B. Reed and James Clarkson quietly organized the Grievance Committee, the ambition of which was to initiate a dump-Harrison offensive. They solicited the support of Blaine, without effect however, and Harrison in reaction resolved to run for re-election – seemingly forced choose one of two options – "become a candidate or forever wear the name of a political coward".{{sfn|Socolofsky & Spetter|p=81}}
+
+It was clear that Harrison would not be re-nominated unanimously.{{sfn|Calhoun|pp=134–137}} Many of Harrison's detractors persisted in pushing for an incapacitated Blaine, though he announced that he was not a candidate in February 1892.{{sfn|Calhoun|pp=134–137}} Some party leaders still hoped to draft Blaine into running, and speculation increased when he resigned at the 11th hour as Secretary of State in June.{{sfn|Calhoun|pp=138–139}} At the [[1892 Republican National Convention|convention]] in [[Minneapolis]], Harrison prevailed on the first ballot, but encountered significant opposition.{{sfn|Calhoun|pp=140–141}}
+
+The Democrats renominated former President Cleveland, making the 1892 election a rematch of the one four years earlier. The tariff revisions of the past four years had made imported goods so expensive that now many voters shifted to the reform position.{{sfn|Calhoun|pp=147–150}} Many westerners, traditionally Republican voters, defected to the new [[People's Party (United States)|Populist Party]] candidate, [[James B. Weaver|James Weaver]], who promised free silver, generous veterans' pensions, and an [[Eight-hour day|eight-hour work day]].{{sfn|Calhoun|pp=145–147}} The effects of the suppression of the [[Homestead Strike]] rebounded against the Republicans as well, although the federal government did not take action.{{sfn|Calhoun|pp=145–147}}
+
+Harrison's wife Caroline began a critical struggle with [[tuberculosis]] earlier in 1892 and two weeks before the election, on October 25, it took her life.{{sfn|Calhoun|p=149}} Their daughter [[Mary Harrison McKee]]  assumed the role of [[First Lady of the United States|First Lady]] after her mother's death.{{sfnm|Calhoun||1p=156|Moore & Hale||2pp=143–145}} Mrs. Harrison's terminal illness and the fact that both candidates had served in the White House called for a low key campaign, and resulted in neither of the candidates actively campaigning personally.{{sfn|Socolofsky & Spetter|pp=198–199}}
+
+Cleveland ultimately won the election by 277 electoral votes to Harrison's 145, and also won the popular vote by 5,556,918 to 5,176,108; this was the most decisive presidential election in 20 years.<ref name="EV 1892" />{{sfn|Socolofsky & Spetter|p=199}}
+
+== Post-presidency and death ==
+[[File:Grave of President Benjamin Harrison and his two wives in Indianapolis, Indiana.jpg|thumb|Grave of President Harrison and his two wives in Indianapolis, Indiana]]
+After he left office, Harrison visited the [[World's Columbian Exposition]] in Chicago in June 1893,{{sfn|Moore & Hale|p=150}} where the nation's first [[Commemorative stamp|commemorative postage]] was introduced, an initiative of his Postmaster General, John Wanamaker. After the Expo, Harrison returned to his home in Indianapolis.  Harrison had been elected a companion of the [[Military Order of the Loyal Legion of the United States]] in 1882, and was elected as commander (president) of the Ohio Commandery on May 3, 1893.
+
+For a few months in 1894, Harrison lived in San Francisco, California, where he gave law lectures at [[Stanford University]].{{sfn|Calhoun|p=158}} In 1896 some of Harrison's friends in the Republican party tried to convince him to seek the presidency again, but he declined. He traveled around the nation making appearances and speeches in support of William McKinley's candidacy for president.{{sfn|Calhoun|pp=160–161}} 
+
+From July 1895 to March 1901 Harrison served on the Board of Trustees of [[Purdue University]], where Harrison Hall, a dormitory, was named in his honor.{{sfn|Moore & Hale|p=150}}  He wrote a series of articles about the Federal government and the presidency which were republished in 1897 as a book titled ''This Country of Ours''.<ref name="Harrison 1897" /> In 1899 Harrison attended the [[Hague Convention of 1899|First Peace Conference]] at [[The Hague]].
+
+In 1896, Harrison at age 62 remarried, to [[Mary Dimmick Harrison|Mary Scott Lord Dimmick]], the widowed 37-year- old niece and former secretary of his deceased wife. Harrison's two adult children, Russell, 41 years old at the time, and Mary (Mamie) McKee, 38, disapproved of the marriage and did not attend the wedding. Benjamin and Mary had one child together, [[Elizabeth Harrison Walker|Elizabeth]] (February 21, 1897&nbsp;– December 26, 1955).{{sfn|Moore & Hale|p=153}}
+
+In 1900, Harrison served as an attorney for the Republic of Venezuela in their [[Schomburgk Line|British Guiana boundary dispute]] with the United Kingdom.{{sfn|Moore & Hale|p=155}} An international trial was agreed upon; he filed an 800-page brief and traveled to [[Paris]] where he spent more than 25 hours in court on their behalf. Although he lost the case, his legal arguments won him international renown.{{sfn|Calhoun|pp=160–163}}
+
+Harrison developed what was thought to be [[influenza]] or grippe in February 1901. He was treated with steam vapor inhalation and oxygen, but his condition worsened. He died from [[pneumonia]] at [[Benjamin Harrison Home|his home]] on Wednesday, March 13, 1901, at the age of 67.<ref>{{cite journal | title = Survey of the World | journal = The Independent | date = 21 March 1901 | volume = LIII | issue = 2729| id = | url = http://books.google.com/books?id=0zMxAQAAMAAJ | accessdate = 2012-06-21}}</ref> Harrison is interred in Indianapolis's [[Crown Hill Cemetery]], next to Caroline. After her death, Mary Dimmick Harrison was buried next to him.{{sfn|Moore & Hale|p=156}}
+
+== Historical reputation and memorials ==
+[[image:Benjamin Harrison Memorial Statue.jpg|thumb |220px |right |'''[[Benjamin Harrison (Niehaus)|Benjamin Harrison Memorial Statue]]'''<br>[[Indianapolis, Indiana|Indianapolis]], [[Indiana]]<br>Charles Niehaus & Henry Bacon, ''1908'']]
+Following the [[Panic of 1893]], Harrison became more popular in retirement.{{sfn|Calhoun|p=6}} His legacy among historians is scant, and "general accounts of his period inaccurately treat Harrison as a cipher".{{sfn|Socolofsky & Spetter|p=x}} More recently, <blockquote>"historians have recognized the importance of the Harrison administration—and Harrison himself—in the new foreign policy of the late nineteenth century. The administration faced challenges throughout the hemisphere, in the Pacific, and in relations with the European powers, involvements that would be taken for granted in the twentieth century."{{sfn|Socolofsky & Spetter|p=x}}</blockquote> Harrison's presidency belongs properly to the 19th century, but he "clearly pointed the way" to the modern presidency that would emerge under [[William McKinley]].{{sfn|Calhoun|p=166}} Harrison's reputation for integrity was largely intact after leaving office in 1893.<ref name=Woodward-Williams_p191>[[#Williams|Williams]], p. 191</ref> The bi-partisan [[Sherman Anti-Trust Act]] signed into law by Harrison remains in effect over 120 years later and was the most important legislation passed by the Fifty-first Congress.<ref name=Batten_2010_p209>[[#Batten|Batten]], p. 209</ref> Harrison's support for [[African American]] voting rights and education would be the last significant attempts to protect [[civil rights]] until the 1930s.<ref name=Batten_2010_p209/> Harrison's tenacity at foreign policy was emulated by politicians such as [[Theodore Roosevelt]].<ref name=Batten_2010_p209/>
+
+Harrison was memorialized on several postage stamps. The first was a 13-cent stamp issued on November 18, 1902.<ref name="arago" /> The engraved likeness of Harrison was modeled after a photo provided by Harrison's widow.<ref name="arago" /> In all Harrison has been honored on [[US Presidents on US postage stamps#Benjamin Harrison|six U.S. Postage stamps]], more than most other U.S. Presidents. Harrison also was featured on the five-dollar [[National Bank Notes]] from the third charter period, beginning in 1902.<ref name="Hudgeons Hudgeons 2000" />  He is to date the only U.S. president from Indiana and the only one to be the grandson of another president.<ref>''Secret Lives of the U.S. Presidents'' by Cormac O'Brien. Quirk Books: 2009. ISBN 1594743444 pg 137</ref>
+
+In 1908, the people of [[Indianapolis, Indiana|Indianapolis]] erected the [[Benjamin Harrison (Niehaus)|Benjamin Harrison memorial statue]], created by Charles Niehaus and Henry Bacon, in honor of Harrison's lifetime achievements as military leader, U.S. Senator, and President of the United States.<ref name=INgov>[http://www.in.gov/iwm/2354.htm INgov], Accessdate 09-18-2012</ref>  The statue occupies a site in [[Indiana World War Memorial Plaza#University Park|University Park]] overlooking the [[Birch Bayh Federal Building and United States Courthouse]] across New York Avenue.
+
+In 1942, a [[Liberty Ship]], the ''[[SS Benjamin Harrison]]'', was named in his honor. In 1951, [[Benjamin Harrison Home|Harrison's home]] was opened to the public as a library and museum. It had been used as a dormitory for a music school from 1937 to 1950.<ref name="NPS Benjamin Harrison Home" /> The house was designated as a [[National Historic Landmark]] in 1964.<ref name="Benjamin Harrison Presidential Site" /> In 2012, a dollar coin with his image, part of the [[Presidential $1 Coin Program]], was issued.<ref name="US Mint dollar coin schedule" />
+
+[[Fort Benjamin Harrison]], located in [[Lawrence, Indiana]], a northeastern suburb of Indianapolis, was constructed in 1903 to 1908 and named in his honor. The base was closed in 1991 and the site has been redeveloped to include residential neighborhoods, a golf course, and [[Fort Harrison State Park]].
+
+== Notes ==
+
+{{notes
+| colwidth = 30em
+| notes =
+
+{{efn
+| name = VIII
+| Although he was the eighth Benjamin Harrison in his family, Harrison is known simply as Benjamin Harrison, rather than Benjamin Harrison VIII.
+}}
+
+{{efn
+| name = Farmer's College
+| The school was later known as Belmont College. After Belmont closed, the campus was transferred to the [[Ohio Military Institute]], which closed in 1958.
+}}
+
+{{efn
+| name = Seventeenth Amendment
+| Before the passage of the [[Seventeenth Amendment to the United States Constitution]], Senators were elected by state legislatures.
+}}
+
+{{efn
+| name = coal case
+| The case was ''United States v. Jellico Mountain Coal'', 46 Fed. 432. June 4, 1891
+}}
+
+}}
+
+== References ==
+
+{{reflist
+| colwidth = 24em
+| refs =
+
+<ref name="fraternities">
+a. [http://www.umass.edu/rso/umassdx/dxabout.html Delta Chi Fraternity]
+b. [http://www.ccudeltachi.com/page.php?pageid=2 The Delta Chi Fraternity at Coastal Carolina University ]
+</ref>
+
+<ref name="EV 1888">
+{{National Archives EV source
+| year = 1888
+| as of = November 5, 2008
+}}
+</ref>
+
+<ref name="Benjamin Harrison Inauguration">
+{{cite web
+| title = Benjamin Harrison&nbsp;– Inauguration
+| publisher = Advameg, Inc., Profiles of U.S. Presidents
+| url = http://www.presidentprofiles.com/Grant-Eisenhower/Benjamin-Harrison-Inauguration.html
+| accessdate = February 25, 2011
+}}
+</ref>
+
+<ref name="Vincent Voice Library">
+{{cite web
+| title = President Benjamin Harrison
+| publisher = Vincent Voice Library
+| url = http://www.lib.msu.edu/vincent/presidents/harrison.htm
+| accessdate = July 24, 2008
+| archiveurl = https://web.archive.org/web/20071015050857/http://www.lib.msu.edu/vincent/presidents/harrison.htm
+| archivedate = October 15, 2007
+}}
+</ref>
+
+<ref name="EV 1892">
+{{National Archives EV source
+| year = 1892
+| as of = February 22, 2008
+}}
+</ref>
+
+<ref name="Harrison 1897">
+{{cite book
+| last = Harrison
+| first = Benjamin
+| year = 1897
+| title = This Country of Ours
+| publisher = Charles Scribner's Sons
+| url = http://books.google.com/?id=Nan3P6LASnAC&printsec=titlepage
+}}
+</ref>
+
+<ref name="arago">
+{{cite web
+| last = Brody
+| first = Roger S.
+| date = May 16, 2006
+| title = 13-cent Harrison
+| publisher = [[National Postal Museum]]
+| url = http://arago.si.edu/index.asp?con=1&cmd=1&tid=2029913
+| accessdate = January 7, 2011
+}}
+</ref>
+
+<ref name="Hudgeons Hudgeons 2000">
+{{cite book
+| last1 = Hudgeons
+| first1 = Marc
+| last2 = Hudgeons
+| first2 = Tom
+| year = 2000
+| title = 2000 Blackbook Price Guide to United States Paper Money
+| edition = 32nd
+| publisher = Ballantine Publishing Group
+| location = New York
+| isbn = 978-0-676-60072-8
+| pages = 116–117
+}}
+</ref>
+
+<ref name="US Mint dollar coin schedule">
+{{cite web
+| title = Presidential Dollar Coin Release Schedule
+| publisher = [[United States Mint]]
+| url = http://www.usmint.gov/mint_programs/$1coin/?action=schedule
+| accessdate = January 7, 2011
+}}
+</ref>
+
+<ref name="NPS Benjamin Harrison Home">
+{{cite web
+| title = Benjamin Harrison Home
+| publisher = [[National Park Service]]
+| url = http://www.nps.gov/history/nr/travel/presidents/benjamin_harrison_home.html
+| accessdate = January 7, 2011
+}}
+</ref>
+
+<ref name="Benjamin Harrison Presidential Site">
+{{cite web
+| title = Benjamin Harrison Presidential Site
+| publisher = President Benjamin Harrison Foundation
+| url = http://www.presidentbenjaminharrison.org/museum/default.php
+| accessdate = January 7, 2011
+}}
+</ref>
+
+}}
+
+== Sources ==
+
+{{refbegin}}
+
+'''Books'''
+
+* {{cite book
+ | last = Calhoun
+ | first = Charles William
+ | year = 2005
+ | title = Benjamin Harrison
+ | publisher = Macmillan
+ | isbn = 978-0-8050-6952-5
+ | url = http://books.google.com/?id=5mLuIx6z1qcC&
+ | ref = {{sfnRef|Calhoun}}
+ }}
+*{{cite book| author = 
+ | last = Eicher 
+ | first = John H. 
+ | author2 = 
+ | last2 = Eicher 
+ | first2 = David J. 
+ | authorlink2 = David J. Eicher 
+ | publication-date= 2001 
+ |title= Civil War High Commands  
+ | publisher = Stanford University Press 
+ | location = Stanford, CA 
+ | ISBN = 978-0-8047-3641-1 }}
+* {{cite book
+ | last = Harrison
+ | first = Benjamin
+ | year = 1897
+ | title = This Country of Ours
+ | publisher = Charles Scribner's Sons
+ | url = http://books.google.com/?id=Nan3P6LASnAC&
+ | ref = harrison
+ }}
+* {{cite book
+ | last1 = Moore
+ | first1 = Chieko
+ | last2 = Hale
+ | first2 = Hester Anne
+ | year = 2006
+ | title = Benjamin Harrison: Centennial President
+ | publisher = Nova Publishers
+ | isbn = 978-1-60021-066-2
+ | url = http://books.google.com/?id=HKBFgjrulnUC
+ | ref = {{sfnRef|Moore & Hale}}
+ }}
+* {{cite book
+ | last = Schneider
+ | first = Mark
+ | year = 1997
+ | title = Boston confronts Jim Crow, 1890–1920
+ | publisher = Northeastern
+ | isbn = 978-1-55553-296-3
+ | ref = {{sfnRef|Schneider}}
+ }}
+* {{cite book
+ | last = Sievers
+ | first = Harry J.
+ | year = 1968
+ | title = Benjamin Harrison: v1 Hoosier Warrior, 1833–1865; v2: Hoosier Statesman From The Civil War To The White House 1865–1888; v3: Benjamin Harrison. Hoosier President. The White House and After
+ | publisher = University Publishers Inc
+ | ref = {{sfnRef|Sievers}}
+ }}
+* {{cite book
+ | editor-last = Smith
+ | editor-first = Robert C.
+ | year = 2003
+ | title = Encyclopedia of African-American politics
+ | publisher = Infobase Publishing
+ | isbn = 978-0-8160-4475-7
+ | url = http://books.google.com/books?id=Kb0sFxQ6yHoC
+ | ref = {{sfnRef|Smith}}
+ }}
+* {{cite book
+ | last1 = Socolofsky
+ | first1 = Homer E.
+ | last2 = Spetter
+ | first2 = Allan B.
+ | year = 1987
+ | title = The Presidency of Benjamin Harrison
+ | publisher = University Press of Kansas
+ | isbn = 978-0-7006-0320-6
+ | ref = {{sfnRef|Socolofsky & Spetter}}
+ }}
+* {{cite book
+ | last = Wallace
+ | first = Lew
+ | year = 1888
+ | title = Life and Public Services of Benjamin Harrison
+ | publisher = Edgewood Publishing Co
+ | ref = {{sfnRef|Wallace}}
+ }}
+* {{cite book
+ | last = Williams
+ | first = R. Hal
+ | year = 1974
+ | editor-last = Woodward
+ | editor-first = C. Vann
+ | title = Responses of the Presidents to the Charges of Misconduct
+ | chapter = Benjamin Harrison 1889–1893
+ | pages = 191–195
+ | publisher = Dell Publishing Co., Inc
+ | isbn = 0-440-05923-2
+ | ref = Williams
+ }}
+* {{cite book
+ | last = Wilson
+ | first = Kirt H.
+ | year = 2005
+ | editor1-last = Rigsby
+ | editor1-first = Enrique D.
+ | editor2-last = Aune
+ | editor2-first = James Arnt
+ | title = Civil Rights Rhetoric and the American Presidency
+ | chapter = The Politics of Place and Presidential Rhetoric in the United States, 1875–1901
+ | pages = 16–40
+ | publisher = TAMU Press
+ | isbn = 978-1-58544-440-3
+ | ref = {{sfnRef|Wilson}}
+ }}
+
+'''Articles'''
+*{{cite journal
+ | editor-last = Batten
+ | editor-first = Donna
+ | ref = Batten
+ | title = Gale Encyclopedia of American Law
+ | year = 2010
+ | volume = 5
+ | edition = 3
+ | location = [[Detroit, Michigan|Detroit]]
+ | pages = 208–209
+ }}
+
+* {{cite journal
+ | last = Stuart
+ | first = Paul
+ |date=September 1977
+ | title = United States Indian Policy: From the Dawes Act to the American Indian Policy Review Commission
+ | journal=Social Service Review
+ | volume = 51
+ | issue = 3
+ | pages = 451–463
+ | jstor = 30015511
+ | doi = 10.1086/643524
+ | ref = {{sfnRef|Stuart}}
+ }}
+
+{{refend}}
+
+== Further reading ==
+
+{{refbegin}}
+
+* {{cite book | title = Benjamin Harrison|author=Adleson, Bruce|year=2006 | url = http://books.google.com/?id=HAqjnTTjGb0C | isbn = 978-0-8225-1497-8 |publisher=Twenty-First Century Books}}
+* Dewey, Davis R. [http://www.questia.com/PM.qst?a=o&d=9950113 ''National Problems: 1880–1897''] (1907)
+* Harrison, Benjamin. ''[http://books.google.com/books?vid=OCLC02863703&id=TCRrVz3JKF4C&printsec=titlepage Speeches of Benjamin Harrison, Twenty-third President of the United States]'' (1892), compiled by Charles Hedges.
+* Morgan, H. Wayne, ''From Hayes to McKinley: National Party Politics, 1877–1896'' (1969)
+* Volwiler, Albert T., ed. [http://www.questia.com/PM.qst?ao&d=99596344 ''The Correspondence between Benjamin Harrison and James G. Blaine, 1882–1893''] (1940)
+
+{{refend}}
+
+== External links ==
+{{sister project links |wikt=no|commons=Category:Benjamin Harrison|b=US History/Presidents |n= no |q= Benjamin Harrison|s= Author:Benjamin Harrison|v=The US Presidents/Benjamin Harrison}}
+* [http://www.lib.msu.edu/services/dmc/vincent//presidents/harrison.htm Recording of an 1889 Harrison speech] (Vincent Voice Library, [[Michigan State University]])
+* {{CongBio|H000263}} Retrieved on 2008-08-15
+* [http://www.loc.gov/rr/program/bib/presidents/bharrison/index.html Benjamin Harrison: Resource Guide, from the Library of Congress]
+* {{gutenberg author|id=Benjamin+Harrison | name=Benjamin Harrison}}
+* [https://archive.org/details/viewsofanexpresi00harrrich ''Views of an ex-president '' by Benjamin Harrison at archive.org]
+* [http://americanpresidents.org/presidents/president.asp?PresidentNumber=23 Benjamin Harrison] at [[C-SPAN]]'s ''[[American Presidents: Life Portraits]]''
+
+{{Navboxes
+|title=Offices and distinctions
+|list1=
+{{s-start}}
+{{s-par|us-sen}}
+{{s-bef | before = [[Joseph E. McDonald|Joseph McDonald]] }}
+{{s-ttl | title = [[List of United States Senators from Indiana|United States Senator (Class 1) from Indiana]] | years = 1881–1887 | alongside = [[Daniel W. Voorhees|Daniel Voorhees]] }}
+{{s-aft | after = [[David Turpie]] }}
+{{s-ppo}}
+{{s-bef | before = [[James G. Blaine|James Blaine]] }}
+{{s-ttl | title = [[Republican Party (United States)|Republican]] [[List of United States Republican Party presidential tickets|presidential nominee]] | years = [[United States presidential election, 1888|1888]], [[United States presidential election, 1892|1892]] }}
+{{s-aft | after = [[William McKinley]] }}
+{{s-off}}
+{{s-bef | before = [[Grover Cleveland]] }}
+{{s-ttl | title = [[President of the United States]] | years = 1889–1893 }}
+{{s-aft | after = [[Grover Cleveland]] }}
+{{s-hon}}
+{{s-bef | before = [[Rutherford B. Hayes|Rutherford Hayes]] }}
+{{s-ttl | title = [[Oldest living United States president|Oldest living President of the United States]] | years = 1893–1901 }}
+{{s-aft | after = [[Grover Cleveland]] }}
+{{s-end}}
+}}
+{{navboxes
+| title = Articles related to Benjamin Harrison
+| list1 =
+{{US Presidents}}
+{{USRepPresNominees}}
+{{USSenIN}}
+{{Benjamin Harrison cabinet}}
+}}
+{{Authority control|LCCN=n/50/26594|VIAF=102441725|GND=11872049X}}
+{{Portal bar|Biography|United States Army|American Civil War|Indiana|Government of the United States|Politics}}
+{{Featured article}}
+
+{{Persondata
+| NAME = Harrison, Benjamin
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = [[Union (American Civil War)|Union]] [[Union Army|Army]] [[General officer|General]]23rd [[President of the United States]]
+| DATE OF BIRTH = August 20, 1833
+| PLACE OF BIRTH = [[North Bend, Ohio|North Bend]], [[Ohio]]
+| DATE OF DEATH = March 13, 1901
+| PLACE OF DEATH = [[Indianapolis, Indiana|Indianapolis]], [[Indiana]]
+}}
+{{DEFAULTSORT:Harrison, Benjamin}}
+[[Category:Benjamin Harrison| ]]
+[[Category:1833 births]]
+[[Category:1901 deaths]]
+[[Category:American people of English descent]]
+[[Category:American people of Scotch-Irish descent]]
+[[Category:American Presbyterians]]
+[[Category:Burials at Crown Hill Cemetery]]
+[[Category:Deaths from influenza]]
+[[Category:Deaths from pneumonia]]
+[[Category:Harrison family of Virginia|Benjamin]]
+[[Category:History of the United States (1865–1918)]]
+[[Category:Indiana Republicans]]
+[[Category:Infectious disease deaths in Indiana]]
+[[Category:Miami University alumni]]
+[[Category:People from Hamilton County, Ohio]]
+[[Category:People from Indianapolis, Indiana]]
+[[Category:People of Indiana in the American Civil War]]
+[[Category:People of Ohio in the American Civil War]]
+[[Category:Presidents of the United States]]
+[[Category:Republican Party Presidents of the United States]]
+[[Category:Republican Party (United States) presidential nominees]]
+[[Category:Republican Party United States Senators]]
+[[Category:Sons of the American Revolution]]
+[[Category:Stanford Law School faculty]]
+[[Category:Union Army generals]]
+[[Category:United States presidential candidates, 1888]]
+[[Category:United States presidential candidates, 1892]]
+[[Category:United States Senators from Indiana]]

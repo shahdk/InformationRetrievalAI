@@ -1,0 +1,477 @@
+{{other people}}
+{{Use American English|date=February 2014}}
+{{Use mdy dates|date=April 2012}}
+{{pp-move-vandalism|small=yes}}
+{{Infobox officeholder
+| name                = James Buchanan
+| image               = James Buchanan.jpg{{!}}border
+| image_size          =
+| office              = [[List of Presidents of the United States|15th]] [[President of the United States]]
+| vicepresident       = [[John C. Breckinridge|John Breckinridge]]
+| term_start          = March 4, 1857
+| term_end            = March 4, 1861
+| predecessor         = [[Franklin Pierce]]
+| successor           = [[Abraham Lincoln]]
+| minister_from2      = United States
+| country2            = the United Kingdom
+| president2          = [[Franklin Pierce]]
+| term_start2         = August 23, 1853
+| term_end2           = March 15, 1856
+| predecessor2        = [[Joseph Reed Ingersoll|Joseph Ingersoll]]
+| successor2          = [[George M. Dallas|George Dallas]]
+| office3             = 17th [[United States Secretary of State]]
+| term_start3         = March 10, 1845
+| term_end3           = March 7, 1849
+| president3          = [[James K. Polk]]
+| predecessor3        = [[John C. Calhoun|John Calhoun]]
+| successor3          = [[John M. Clayton|John Clayton]]
+| jr/sr4              = United States Senator
+| state4              = [[Pennsylvania]]
+| term_start4         = December 6, 1834
+| term_end4           = March 5, 1845
+| predecessor4        = [[William Wilkins (U.S. politician)|William Wilkins]]
+| successor4          = [[Simon Cameron]]
+| minister_from5      = United States
+| country5            = Russia
+| president5          = [[Andrew Jackson]]
+| term_start5         = January 4, 1832
+| term_end5           = August 5, 1833
+| predecessor5        = [[John Randolph of Roanoke|John Randolph]]
+| successor5          = [[Mahlon Dickerson]]
+| order6              = Chairman of the [[United States House Committee on the Judiciary|House Committee on the Judiciary]]
+| term_start6         = March 5, 1829
+| term_end6           = March 4, 1831
+| preceded6           = [[Philip Pendleton Barbour]]
+| succeeded6          = [[Warren R. Davis]]
+| state7              = [[Pennsylvania]]
+| district7           = [[Pennsylvania's 4th congressional district|4th]]
+| term_start7         = March 4, 1823 
+| term_end7           = March 4, 1831
+| predecessor7        = [[James S. Mitchell|James Mitchell]]
+| successor7          = [[William Hiester (Pennsylvania)|William Hiester]]
+| state8              = [[Pennsylvania]]
+| district8           = [[Pennsylvania's 3rd congressional district|3rd]]
+| term_start8         = March 4, 1821
+| term_end8           = March 4, 1823
+| predecessor8        = [[Jacob Hibshman]]
+| successor8          = [[Daniel H. Miller|Daniel Miller]]
+| birth_date          = {{birth date|1791|4|23}}
+| birth_place         = [[Cove Gap, Pennsylvania|Cove Gap]], [[Pennsylvania]], U.S.
+| death_date          = {{death date and age|1868|6|1|1791|4|23}}
+| death_place         = [[Lancaster, Pennsylvania|Lancaster]], [[Pennsylvania]], U.S.
+| restingplace        = [[Woodward Hill Cemetery]]<br>[[Lancaster, Pennsylvania]]
+| party               = [[Democratic Party (United States)|Democratic]]
+| alma_mater          = [[Dickinson College]]
+| profession          = [[Lawyer]]<br />[[Diplomat]]
+| religion            = [[Presbyterianism]]
+| signature           = James Buchanan Signature2.svg
+| signature_alt       = Cursive signature in ink
+| branch              = Volunteer
+| battles             = [[War of 1812]]
+}}
+
+[[File:James Buchanan sculpture at National Portrait Gallery IMG 4538.JPG|right|thumb|Buchanan statue in National Portrait Gallery]]
+
+'''James Buchanan, Jr.''' ({{IPAc-en|b|ju?|'|k|æ|n|?n}}; April 23, 1791{{spaced ndash}}June 1, 1868) was the [[List of Presidents of the United States|15th]] [[President of the United States]] (1857–1861), serving immediately prior to the [[American Civil War]]. He is, to date, the only president from [[Pennsylvania]] and the only president to remain a lifelong [[bachelor]].
+
+He represented Pennsylvania in the [[United States House of Representatives]] and later the [[United States Senate|Senate]] and served as [[United States Ambassador to Russia|Minister to Russia]] under President [[Andrew Jackson]]. He was also [[United States Secretary of State|Secretary of State]] under President [[James K. Polk]]. After he turned down an offer for an appointment to the [[Supreme Court of the United States|Supreme Court]], President [[Franklin Pierce]] appointed him [[United States Ambassador to the United Kingdom|minister to the Court of St. James's]], in which capacity he helped draft the [[Ostend Manifesto]].
+
+Buchanan was nominated by the [[Democratic Party (United States)|Democratic Party]] in the [[United States presidential election, 1856|1856 Presidential election]]. Throughout most of Pierce's term, he was stationed in London as a minister to the Court of St. James's and therefore was not caught up in the crossfire of sectional politics that dominated the country. His subsequent election victory took place in a three-man race with [[John C. Frémont]] and [[Millard Fillmore]]. As President, he was often called a "[[doughface]]", a Northerner with Southern sympathies, who battled with [[Stephen A. Douglas]] for the control of the [[History of the United States Democratic Party|Democratic Party]]. Buchanan's efforts to [[Origins of the American Civil War|maintain peace]] between the North and the South alienated both sides, and the Southern states declared their [[Secession in the United States|secession]] in the prologue to the [[American Civil War]]. Buchanan's view of record was that secession was illegal, but that going to war to stop it was also illegal. Buchanan, an attorney, was noted for his mantra, "I acknowledge no master but the law."<ref>[[#Klein|Klein 1962]], p. 305.</ref>
+
+By the time he left office, popular opinion was against him, and the Democratic Party had split. Buchanan had once aspired to a presidency that would rank in history with that of [[George Washington]].<ref>[[#Klein|Klein 1962]], p. xviii.</ref> However, his inability to identify a ground for peace or address the sharply divided pro-slavery and anti-slavery partisans with a unifying principle on the brink of the Civil War has led to his consistent ranking by historians as one of the [[Historical rankings of United States Presidents|worst presidents]] in American history. Historians in both 2006 and 2009 voted his failure to deal with secession the worst presidential mistake ever made.<ref>{{Wayback|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060218/presidential_errors_060218/20060218?hub=World|title=U.S. historians pick top 10 presidential errors|date=20060624100534 }}</ref>
+
+==Early life==
+Buchanan was born in a [[log cabin]] in [[Cove Gap, Pennsylvania]] (now [[Buchanan's Birthplace State Park]]), in [[Franklin County, Pennsylvania|Franklin County]], on April 23, 1791, to James Buchanan, Sr. (1761–1821), a businessman, merchant, and farmer, and Elizabeth Speer, an educated woman (1767–1833).<ref name=ancestry>{{cite web|url=http://freepages.genealogy.rootsweb.ancestry.com/~dav4is/ODTs/BUCHANAN.shtml|title=Buchanan Family 1430&nbsp;– 1903|publisher=ancestry.com|accessdate=2012-04-28}}</ref> His parents were both of [[Ulster Scots people|Ulster Scots]] descent, the father having emigrated from [[Donegal]], Ireland in 1783. Buchanan had six sisters and four brothers.<ref name=ancestry/>
+
+In 1797, the family moved to nearby [[Mercersburg, Pennsylvania]]. The home in Mercersburg was later turned into the [[James Buchanan Hotel]].<ref>{{cite web|url=http://www.jamesbuchananhotel.com/history.php|title=The James Buchanan Hotel, Pub & Restaurant – A Brief History|accessdate=2012-04-28}}</ref>
+
+Buchanan attended the village academy (Old Stone Academy) and later [[Dickinson College]] in [[Carlisle, Pennsylvania]]. Though he was nearly expelled at one point for poor behavior, he pleaded for a second chance and subsequently graduated with honors on September 19, 1809.<ref>[[#Klein|Klein 1962]], pp. 9–12.</ref> Later that year, he moved to [[Lancaster, Pennsylvania|Lancaster]], where he studied law and was admitted to the bar in 1812.
+
+A dedicated [[Federalist Party|Federalist]], he initially opposed the [[War of 1812]] because he believed it was an unnecessary conflict. When the British invaded neighboring [[Maryland]], he joined a volunteer light [[Dragoon#United States|dragoon unit]] as a [[Private (rank)|private]] and served in the defense of [[Battle of Baltimore|Baltimore]].<ref>[[#Baker|Baker 2004]], p. 18.</ref>  Buchanan is the only president with military experience who did not, at some point, serve as an officer.<ref>Marco O'Brien, Military.com, [http://www.military.com/join-armed-forces/military-trivia-facts.html Military trivia facts], retrieved February 9, 2014</ref>
+
+An active [[Freemason]], he was the Master of [[Masonic Lodge]] No. 43 in Lancaster, Pennsylvania, and a District Deputy [[Master Mason|Grand Master]] of the [[Grand Lodge of Pennsylvania]].<ref>[[#Klein|Klein 1962]], p. 27.</ref>
+
+==Political career==
+Buchanan began his political career in the [[Pennsylvania House of Representatives]] from 1814 to 1816 as a member of the [[Federalist Party (United States)|Federalist Party]].<ref>[[#Curtis|Curtis 1883]], p. 22.</ref> He was elected to the [[17th United States Congress]] and to the four succeeding Congresses (March 4, 1821&nbsp;– March 4, 1831), serving as chairman of the [[U.S. House Committee on the Judiciary]] in the [[21st United States Congress]]. In 1830, he was among the members appointed by the House to conduct [[impeachment]] proceedings against [[James H. Peck]], judge of the [[United States District Court for the District of Missouri]]. Peck was charged with abuse of the contempt power, but was ultimately acquitted.<ref>[[#Curtis|Curtis 1883]], pp. 107–109.</ref> Buchanan did not seek reelection and from 1832 to 1833 he served as [[United States Ambassador to Russia|Minister to Russia]], appointed by [[Andrew Jackson]].
+
+With the Federalist Party long defunct, Buchanan was elected as a [[History of the United States Democratic Party|Democrat]] to the [[United States Senate]] to fill a vacancy and served from December 1834; he was reelected in 1837 and 1843, and resigned in 1845 to accept nomination of him as Secretary of State by President [[James K. Polk]]. He was chairman of the [[United States Senate Committee on Foreign Relations|Committee on Foreign Relations]] from 1836 to 1841.<ref>{{cite web|title=US Senate Committee on Foreign Relations: About the Committee - History|url=http://www.foreign.senate.gov/about/history/|work=United States Senate Committee on Foreign Relations|publisher=U.S. Senate Committee on Foreign Relations|accessdate=2013-05-11}}</ref>
+
+[[File:President James Buchanan (NARA 528318) colorized.jpg|thumb|left|Hon. James Buchanan by [[Mathew Brady]] (colorized)]]
+After the death of Supreme Court Justice [[Henry Baldwin (judge)|Henry Baldwin]] in 1844, Polk nominated Buchanan to fill the vacancy in March 1845, but he declined that nomination because he felt compelled to complete his collaboration on the Oregon Treaty negotiations. The seat was eventually filled by [[Robert Cooper Grier]].<ref>[[#Klein|Klein 1962]], p. 170.</ref>
+
+Buchanan served as [[United States Secretary of State|Secretary of State]] under Polk from 1845 to 1849, despite objections from Buchanan's rival, Vice President [[George M. Dallas|George Dallas]].<ref>[[#Seigenthaler|Seigenthaler 2004]], pp. 107–108.</ref> In this capacity, he helped negotiate the 1846 [[Oregon Treaty]] establishing the [[49th parallel north|49th parallel]] as the northern boundary of the western United States.<ref>[[#Klein|Klein 1962]], pp. 181–183.</ref> No Secretary of State has become President since Buchanan, although [[William Howard Taft]], the 27th President of the United States, often served as Acting Secretary of State during the [[Theodore Roosevelt]] administration.
+
+In 1852, Buchanan was named president of the Board of Trustees of [[Franklin and Marshall College]] in his hometown of Lancaster, Pennsylvania, and he served in this capacity until 1866,<ref>[[#Klein|Klein 1962]], p. 210.</ref> despite a false report that he was fired.<ref>[[#Klein|Klein 1962]], p. 415.</ref>
+
+He served as [[United States Ambassador to the United Kingdom|minister to the Court of St. James's]] (Britain) from 1853 to 1856, during which time he helped to draft a memorandum that became known as the [[Ostend Manifesto]]. He signed the memorandum along with [[Pierre Soulé]] and [[John Y. Mason|John Mason]]. This document proposed the purchase from Spain of [[Cuba]], then in the midst of revolution and near bankruptcy, declaring the island "as necessary to the North American republic as any of its present ... family of states." Against Buchanan's recommendation, the final draft of the Manifesto suggested that "wresting it from Spain" if Spain refused to sell would be justified "by every law, human and Divine".<ref name="battle cry of freedom">{{cite book|last=McPherson|first=James M.|title=Battle Cry of Freedom: The Civil War Era|year=1988|publisher=Oxford University Press|location=Oxford|isbn=9780199743902|page=110|url=http://books.google.com/books?id=GXfGuNAvm7AC&pg=PA110&lpg=PA110&dq}}</ref> The Manifesto, generally considered a blunder overall, was never acted upon but weakened the Pierce administration and support for [[Manifest Destiny]].<ref name="battle cry of freedom"/><ref>{{cite book|title=The Encyclopedia of the Spanish-American and Philippine-American Wars: A Political, Social, and Military History: A Political, Social, and Military History|year=2009|publisher=ABC-CLIO|location=Santa Barbara, California|isbn=9781851099528|pages=456–57|url=http://books.google.com/books?id=yYfSbFGFWlUC&pg=PA456&lpg=PA456&dq#v=onepage&q&f=false|editor=Tucker, Spencer C.}}</ref>
+
+==Presidential election of 1856==
+[[File:DemocraticPresidentialCounty1856.gif|right|thumb|250px|Results by county explicitly indicating the percentage for Buchanan in each county.]]
+{{Main|United States presidential election, 1856}}
+Democrats nominated Buchanan in 1856 as their nominee for President of the United States. He had been in England during the [[Kansas-Nebraska Act|Kansas-Nebraska]] debate and thus remained untainted by either side.<ref>{{cite book | last1 = Burrs | first1 = Charles Thomas | title = James Buchanan's Diplomatic Mission to England, 1853–1856 | publisher = University of Delaware | year = 1967 | accessdate = 2012-06-04}}</ref> Pennsylvania, which had three times failed Buchanan, now gave him full support in its state convention. Though he never declared his candidacy, it is apparent from all his correspondence that he was aware of the distinct possibility of his nomination by the Democratic convention in Cincinnati, even before heading home at the finish of his work as Minister to the [[Court of St. James]] in the [[United Kingdom]]. Writer [[Nathaniel Hawthorne]], then serving as American [[Consul]] in Liverpool, recorded in his diary that Buchanan visited him in January 1855:
+<blockquote>He returns to America, he says, next October, and then retires forever from public life... as regards his prospects for the Presidency, [h]e said that his mind was fully made up, and that he would never be a candidate, and that he had expressed this decision to his friends in such a way as to put it out of his own power to change it... that it was now too late, and that he was too old... although, really, he is the only Democrat, at this moment, whom it would not be absurd to talk of for the office.... I wonder whether he can have had any object in saying all this to me. He might see that it would be perfectly natural for me to tell it to General Pierce.<ref>''Passages From the English Note-Books of Nathaniel Hawthorne'', edited by Sophia Hawthorne; Houghton Mifflin, Boston, 1870; entry for January 6, 1855.</ref></blockquote>
+[[Jonathan M. Foltz|Jonathan Foltz]] told Buchanan in November 1855, "The people have taken the next presidency out of the hands of the politicians...the people and not your political friends will place you there." While Buchanan did not overtly seek the office, he most deliberately chose not to discourage the movement on his behalf, something that was well within his power on many occasions.<ref>[[#Klein|Klein 1962]], pp. 248–252.</ref>
+
+[[File:DemocraticPlatform1856Cartoon.jpg|thumb|left|175px|An anti-Buchanan political cartoon from the 1856 election]]
+Former president [[Millard Fillmore]]'s "[[Know-Nothing]]" candidacy helped Buchanan defeat [[John C. Frémont]], the first [[U.S. Republican Party|Republican]] candidate for president in 1856. He served as president from March 4, 1857, to March 4, 1861. Buchanan remains the most recent of the two Democrats (the other being [[Martin Van Buren]]) to succeed a fellow Democrat to the Presidency by election in his own right. [[President-elect of the United States|President-elect]] Buchanan stated about the growing schism in the country: "The object of my administration will be to destroy sectional party, North or South, and to restore harmony to the Union under a national and conservative government."<ref>[[#Klein|Klein 1962]], pp. 261–262.</ref> He set about this initially by maintaining a sectional balance in his appointments and persuading the people to accept constitutional law as the [[Supreme Court of the United States|Supreme Court]] interpreted it. The court was considering the legality of restricting slavery in the territories and two justices had hinted to Buchanan their findings.<ref>{{cite book|last=Chadwick|first=Bruce|title=1858: Abraham Lincoln, Jefferson Davis, Robert E. Lee, Ulysses S. Grant and the War They Failed to See|date=April 1, 2008|publisher=Sourcebooks, Inc.|isbn=140220941X|page=48}}</ref>
+
+Buchanan was the last president born in the 18th century and, at age 65, was the second-oldest man to be elected President at the time.
+
+==Presidency 1857–1861==
+[[File:James Buchanan inauguration 1857.jpg|thumb|right|Inauguration of James Buchanan, March 4, 1857, from a photograph by [[John Wood (photographer)|John Wood]]. Buchanan's [[United States presidential inauguration|Inauguration]] was the first one to be recorded in photographs.]]
+
+===Dred Scott case===
+In his inaugural address, besides promising not to run again, Buchanan referred to the territorial question as "happily, a matter of but little practical importance" since the Supreme Court was about to settle it "speedily and finally", and proclaimed that when the decision came he would "cheerfully submit, whatever this may be". Two days later, [[Chief Justice of the United States|Chief Justice]] [[Roger B. Taney]] delivered the [[Dred Scott v. Sandford|Dred Scott Decision]], asserting that Congress had no [[U.S. Constitution|constitutional]] power to exclude slavery in the territories. Such comments delighted Southerners and incited anger in the North.<ref name="Klein p 316" />
+
+Buchanan preferred to see the territorial question resolved by the Supreme Court. He wrote to Justice [[John Catron]] in January 1857, inquiring about the outcome of the case and suggesting that a broader decision would be more prudent.<ref>[[#Klein|Klein 1962]], pp. 271–272.</ref> Catron, who was from [[Tennessee]], replied on February 10 that the Supreme Court's southern majority would decide against Scott, but would likely have to publish the decision on narrow grounds if there was no support from the Court's northern justices—unless Buchanan could convince his fellow Pennsylvanian, Justice [[Robert Cooper Grier]], to join the majority.<ref>{{cite book |author=Hall, Timothy L. |title=Supreme Court justices: a biographical dictionary |publisher=Infobase Publishing |location=New York, NY |year=2001 |page=566 |isbn=978-0-8153-1176-8}}</ref><ref>[[#Baker|Baker 2004]], pp. 83–84.</ref> Buchanan then wrote to Grier and successfully prevailed upon him, allowing the majority leverage to issue a broad-ranging decision that transcended the specific circumstances of Scott's case to declare the [[Missouri Compromise of 1820]] unconstitutional.<ref name="isbn0-13-195130-0">{{Cite book |author=Armitage, Susan H.; Faragher, John Mack; [[Mari Jo Buhle|Buhle, Mari Jo]]; Czitrom, Daniel J. |title=Out of Many, TLC Combined, Revised Printing (4th Edition) |publisher=Prentice Hall |location=Englewood Cliffs, N.J |year=2005 |page=388 |isbn=0-13-195130-0}}</ref><ref name="Baker 2004, p. 85">[[#Baker|Baker 2004]], p. 85.</ref> The correspondence was not public at the time; however, at his inauguration, Buchanan was seen in whispered conversation with Chief Justice Roger B. Taney. When the decision was issued two days later, Republicans began spreading word that Taney had revealed to Buchanan the forthcoming result.<ref name="Baker 2004, p. 85"/> [[Abraham Lincoln]], in his 1858 [[Lincoln's House Divided Speech|House Divided Speech]], denounced Buchanan, Taney, Stephen A. Douglas and Franklin Pierce as accomplices of the [[Slave Power]], a supposed [[Conspiracy (political)|conspiracy]] to eliminate legal barriers to slavery.<ref>{{cite web|title=A House Divided (final paragraph)|url=http://usinfo.org/enus/government/overview/22.html|publisher=Bureau of International Information Programs (IIP), U.S. Department of State|accessdate=2013-12-22}}</ref>
+
+===Chaos in Kansas; Buchanan breaks with Stephen Douglas===
+{{BLP sources section|date=May 2013}}
+The [[Kansas-Nebraska Act]] of 1854 created [[Kansas Territory]], and allowed the settlers there to choose whether to allow slavery. This resulted in violence between "[[Free-Soil]]" (anti-slavery) and pro-slavery settlers (see "[[Bleeding Kansas]]").
+
+The anti-slavery settlers organized a government in [[Topeka]], while pro-slavery settlers established a seat of government in [[Lecompton, Kansas]]. For Kansas to be admitted to statehood, a state constitution had to be submitted to Congress with the approval of a majority of residents.
+
+Toward this end, Buchanan appointed [[Robert J. Walker]] as territorial Governor, with the mission of reconciling the settler factions and approving a constitution. Walker, who was from [[Mississippi]], was expected to assist the pro-slavery faction in gaining approval of their [[Lecompton Constitution]]. However, most Kansas settlers were Free-Soilers. The Lecomptonites held a referendum, which Free-Soilers boycotted, with trick terms and claimed their constitution was adopted. Walker resigned in disgust.<ref name="ReferenceC">[[#Potter|Potter 1976]], pp. 297–327.</ref>
+
+Nevertheless, Buchanan now pushed for Congressional approval of Kansas statehood under the Lecompton Constitution. Buchanan made every effort to secure Congressional approval, offering favors, patronage appointments and even cash for votes. The Lecompton bill passed through the House of Representatives, but failed in the Senate, where it was opposed by Senator [[Stephen A. Douglas]] of [[Illinois]], leader of the northern Democrats. Douglas advocated "popular sovereignty" (letting settlers decide on slavery—nicknamed "[[Popular sovereignty in the United States|squatter sovereignty]]" by Douglas' opponents); he rejected the fraudulent way the Lecompton Constitution was supposedly adopted.<ref>{{cite book|last=Chadwick|first=Bruce|title=1858: Abraham Lincoln, Jefferson Davis, Robert E. Lee, Ulysses S. Grant and the War They Failed to See|date=April 1, 2008|publisher=Sourcebooks, Inc.|isbn=140220941X|page=17}}</ref>
+
+The battle over Kansas escalated into a battle for control of the Democratic Party. On one side were Buchanan, most Southern Democrats, and northern Democrats allied to the Southerners ("Doughfaces"); on the other side, Douglas and most northern Democrats plus a few Southerners. The struggle lasted from 1857 to 1860. Buchanan used his patronage powers to remove Douglas' sympathizers in Illinois and Washington, DC and installed pro-administration Democrats, including postmasters.<ref name=Buchanan>{{cite book|last=Chadwick|first=Bruce|title=1858: Abraham Lincoln, Jefferson Davis, Robert E. Lee, Ulysses S. Grant and the War They Failed to See|date=April 1, 2008|publisher=Sourcebooks, Inc.|isbn=140220941X|page=91}}</ref>
+
+Douglas's Senate term ended in 1859; so the Illinois legislature elected in 1858 had to choose whether or not to re-elect him. The Senate choice was the primary issue of the legislative election, marked by the famous [[Lincoln-Douglas Debates]]. Buchanan, working through Federal patronage appointees in Illinois, ran candidates for the legislature in competition with both the Republicans and the Douglas Democrats. (They were known as "[[Tribe of Dan|Danites]]".) This could easily have thrown the election to the Republicans—which showed the depth of Buchanan's animosity toward Douglas.<ref name=Chadwick>{{cite book|last=Chadwick|first=Bruce|title=1858: Abraham Lincoln, Jefferson Davis, Robert E. Lee, Ulysses S. Grant and the War They Failed to See|date=April 1, 2008|publisher=Sourcebooks, Inc.|isbn=140220941X|page=117}}</ref>
+
+In the end, however, the Danite vote was insignificant. Douglas Democrats won the legislative election and Douglas was re-elected to the Senate. Douglas forces took control throughout the North, except in Buchanan's home state of Pennsylvania. Buchanan was reduced to a narrow base of southern supporters.<ref name="ReferenceC"/><ref>[[#Klein|Klein 1962]], pp. 286–299.</ref>
+
+===Buchanan's political views===
+[[File:George Peter Alexander Healy - James Buchanan - Google Art Project.jpg|image size=275px|thumb|right|James Buchanan (1859) by [[George Healy]] as seen in the [[National Portrait Gallery (United States)|National Portrait Gallery]] in [[Washington, D.C.]]]]
+Buchanan considered the essence of good self-government to be founded on restraint. The constitution he considered to be "...restraints, imposed not by arbitrary authority, but by the people upon themselves and their representatives.... In an enlarged view, the people's interests may seem identical, but "to the eye of local and sectional prejudice, they always appear to be conflicting ... and the jealousies that will perpetually arise can be repressed only by the mutual forbearance which pervades the constitution."<ref>[[#Klein|Klein 1962]], p 143.</ref>
+
+One of the greatest issues of the day was tariffs. Buchanan condemned both free trade and prohibitive tariffs, since either would benefit one section of the country to the detriment of the other. As the Senator from Pennsylvania, he thought: "I am viewed as the strongest advocate of protection in other states, whilst I am denounced as its enemy in Pennsylvania."<ref>[[#Klein|Klein 1962]], p. 144.</ref>
+
+Buchanan, like many of his time, was torn between his desire to expand the country for the benefit of all and his insistence on guaranteeing to the people settling the expanded areas their rights, including slavery. On territorial expansion, he said, "What, sir? Prevent the people from crossing the Rocky Mountains? You might just as well command the Niagara not to flow. We must fulfill our destiny."<ref name="klein147">[[#Klein|Klein 1962]], p. 147.</ref> On the resulting spread of slavery, through unconditional expansion, he stated: "I feel a strong repugnance by any act of mine to extend the present limits of the Union over a new slave-holding territory." For instance, he hoped the acquisition of Texas would "be the means of limiting, not enlarging, the dominion of slavery".<ref name="klein147"/>
+
+Nevertheless, in deference to the intentions of the typical slaveholder, he was quick to provide the benefit of much doubt. In his third annual message Buchanan claimed that the slaves were "treated with kindness and humanity.... Both the philanthropy and the self-interest of the master have combined to produce this humane result."<ref>{{cite web|url=http://millercenter.org/scripps/archive/speeches/detail/3734|title=Third Annual Message (December 19, 1859)|publisher=The Miller Center at the University of Virginia|accessdate=2012-04-28}}</ref>
+
+Historian Kenneth Stampp wrote: "Shortly after his election, he assured a southern Senator that the "great object" of his administration would be "to arrest, if possible, the agitation of the Slavery question in the North and to destroy sectional parties. Should a kind [[Divine Providence|Providence]] enable me to succeed in my efforts to restore harmony to the Union, I shall feel that I have not lived in vain." In the northern anti-slavery idiom of his day, Buchanan was often considered a "[[doughface]]", a northern man with southern principles.<ref>Stampp 1990, p. 48.</ref>
+
+The President, however, also felt that "this question of domestic slavery is the weak point in our institutions, touch this question seriously ... and the Union is from that moment dissolved. Although in Pennsylvania we are all opposed to slavery in the abstract, we can never violate the constitutional compact we have with our sister states. Their rights will be held sacred by us. Under the constitution it is their own question; and there let it remain."<ref name="Klein150">[[#Klein|Klein 1962]], p. 150.</ref>
+
+Buchanan was irked that the abolitionists, in his view, were preventing the solution to the slavery problem. He stated, "Before [the abolitionists] commenced this agitation, a very large and growing party existed in several of the slave states in favor of the gradual abolition of slavery; and now not a voice is heard there in support of such a measure. The abolitionists have postponed the emancipation of the slaves in three or four states for at least half a century."<ref name="Klein150" />
+
+Buchanan greatly valued education but believed that colleges were the duty of state governments rather than the central government, as expressed in his veto of a bill to grant land for colleges.
+
+"It is extremely doubtful, to say the least, whether this bill would contribute to the advancement of agriculture and the mechanic arts--objects the dignity and value of which can not be too highly appreciated."
+
+"The Federal Government, which makes the donation, has confessedly no constitutional power to follow it into the States and enforce the application of the fund to the intended objects. As donors we shall possess no control over our own gift after it shall have passed from our hands. It is true that the State legislatures are required to stipulate that they will faithfully execute the trust in the manner prescribed by the bill. But should they fail to do this, what would be the consequence? The Federal Government has no power, and ought to have no power, to compel the execution of the trust."
+
+Near the end of his administration he had a serious exchange with the Rev. William Paxton. After what Paxton described as quite a probative discussion, Buchanan said, " Well, sir ... I hope I am a Christian. I have much of the experience you have described, and as soon as I retire, I will unite with the Presbyterian Church." Paxton asked why he delayed, to which he replied, "I must delay for the honor of religion. If I were to unite with the church now, they would say 'hypocrite' from Maine to Georgia."<ref>[[#Klein|Klein 1962]], pp. 349–350.</ref>
+
+===Panic of 1857===
+The [[Panic of 1857]] began in summer of that year, brought on mostly by the people's over-consumption of goods from Europe to such an extent that the Union's [[Coin|specie]] was drained off, overbuilding by competing railroads, and rampant land speculation in the west. Most of the state banks had overextended credit, to more than $7.00 for each dollar of gold or silver. The Republicans considered the Congress to be the culprit for having recently reduced tariffs.
+
+Buchanan's response, outlined in his first Annual Message to Congress, was "reform not relief". While the government was "without the power to extend relief",<ref name="Baker, p. 90">Baker 2004, p. 90.</ref> it would continue to pay its debts in specie, and while it would not curtail public works, none would be added. He urged the states to restrict the banks to a credit level of $3 to $1 of specie, and discouraged the use of federal or state bonds as security for bank note issues. The economy did eventually recover, though many Americans suffered as a result of the panic.<ref>[[#Klein|Klein 1962]], pp. 314–315.</ref> The South, due to an agriculture-based economy, was considered to have been less severely affected than the North, where manufacturers were hardest hit. Buchanan, by the time he left office in 1861, had accumulated a federal deficit of $17&nbsp;million.<ref name="Baker, p. 90"/>
+
+===Utah War===
+{{Main|Utah War|Runaway Officials of 1851}}
+In March 1857, Buchanan received conflicting reports from federal judges in the [[Utah Territory]] that their offices had been disrupted and they had been driven from their posts by the [[Mormons]]. He knew that the Pierce administration had refused to facilitate Utah being granted statehood and the Mormons feared the loss of their property rights. Accepting the wildest rumors and believing the Mormons to be in open rebellion against the United States, Buchanan sent the Army in November of that year to replace [[Brigham Young]] as Governor with the non-Mormon [[Alfred Cumming (governor)|Alfred Cumming]]. While the Mormons' defiance of federal authority in the past had become traditional, some question whether Buchanan's action was a justifiable or prudent response to uncorroborated reports.<ref name="Klein p 316">[[#Klein|Klein 1962]], p. 316.</ref> Complicating matters, Young's notice of his replacement was not delivered because the Pierce administration had annulled the Utah mail contract.<ref name="Klein p 316"/> After Young reacted to the military action by mustering a two-week expedition destroying wagon trains, oxen and other Army property, Buchanan dispatched [[Thomas L. Kane]] as a private agent to negotiate peace. The mission succeeded, the new governor was shortly placed in office, and the [[Utah War]] ended. The President granted amnesty to all inhabitants who would respect the authority of the government, and moved the federal troops to a non-threatening distance for the balance of his administration.<ref>[[#Klein|Klein 1962]], p. 317.</ref>
+
+===Partisan deadlock===
+The division between northern and southern Democrats allowed the Republicans to win a [[Plurality (voting)|plurality]] in the House in the [[United States House election, 1858|election of 1858]]. Their control of the chamber allowed the Republicans to block most of Buchanan's agenda (including his proposals for expansion of influence in Central America, and for the purchase of [[Cuba]]). Buchanan thought the ideologies of the United States would bring peace and prosperity to these neighboring lands as they had in the Northwest and that without U.S. influence, the major European powers would intervene. The imperative of safe and speedy travel from east to west was of strategic importance to the country. These goals would not be reached. Buchanan, in turn, vetoed six substantial pieces of Republican legislation, causing further hostility between Congress and the White House.<ref>[[#Klein|Klein 1962]], p. 312.</ref>
+
+====Covode Committee====
+In March 1860, the House created the [[United States House Select Committee to Investigate Alleged Corruptions in Government|Covode Committee]] to investigate the administration for evidence of offenses, some impeachable, such as bribery and extortion of Representatives in exchange for their votes. The Committee, with three Republicans and two Democrats, was accused by Buchanan's supporters of being nakedly partisan; they also charged its chairman, Republican Rep. [[John Covode]], with acting on a personal grudge (since the president had vetoed a bill that was fashioned as a land grant for new agricultural colleges, but was designed to benefit Covode's railroad company<ref>[[#Klein|Klein 1962]], p. 338.</ref>). However, the Democratic committee members, as well as Democratic witnesses, were equally enthusiastic in their pursuit of Buchanan, and as pointed in their condemnations, as the Republicans.<ref>[[#Klein|Klein 1962]], pp. 338–9.</ref><ref name="Grossman 2003 78">{{cite book |last=Grossman |first=Mark |title=Political Corruption in America: An Encyclopedia of Scandals, Power, and Greed |year=2003 |publisher=ABC-CLIO |location=Santa Barbara, CA |isbn=1-57607-060-3 |page=78}}</ref>
+
+The committee was unable to establish grounds for impeaching Buchanan; however, the majority report issued on June 17 exposed corruption and abuse of power among members of his Cabinet as well as allegations (if not impeachable evidence) from the Republican members of the Committee, that Buchanan had attempted to bribe members of Congress in connection with the Lecompton constitution. (The Democratic report, issued separately the same day, pointed out that evidence was scarce but did not refute the allegations; one of the Democratic members, Rep. [[James Carroll Robinson|James Robinson]], stated publicly that he agreed with the Republican report even though he did not sign it.<ref name="Grossman 2003 78"/>)
+
+Buchanan claimed to have "passed triumphantly through this ordeal" with complete vindication. Nonetheless, Republican operatives distributed thousands of copies of the Covode Committee report throughout the nation as campaign material in that year's presidential election.<ref>[[#Baker|Baker 2004]], pp. 114–118.</ref><ref>[[#Klein|Klein 1962]], p. 339.</ref>
+
+===Disintegration: Election of 1860===
+[[File:John C Breckinridge-04775-restored.jpg|thumb|200px|left|[[John C. Breckinridge]], [[Vice President of the United States]] under Buchanan]]
+Sectional strife rose to such a pitch that the Democratic Party's national convention in 1860 led directly to a schism in the Party. Buchanan played little part at the national convention, meeting in [[Charleston, South Carolina]]. The southern wing walked out of the convention and nominated its own candidate for the presidency, incumbent Vice President [[John C. Breckinridge]]. Another faction nominated former Speaker of the House [[John Bell (Tennessee politician)|John Bell]], who took no position on slavery; his only focus was on saving the Union. The remainder of the party finally nominated Buchanan's archenemy, [[Stephen Douglas]]. For his part, President Buchanan supported Breckinridge's candidacy. When the Republicans nominated Abraham Lincoln, it was a near certainty that he would be elected.
+
+As early as October, the army's [[Commanding General of the United States Army|Commanding General]], [[Winfield Scott]], warned Buchanan that Lincoln's election would likely cause at least seven states to secede. He also recommended to Buchanan that massive amounts of federal troops and artillery be deployed to those states to protect federal property, although he also warned that few reinforcements were available (Congress had since 1857 failed to heed both men's calls for a stronger militia and had allowed the Army to fall into deplorable condition.<ref name="Klein 1962 pp. 356">[[#Klein|Klein 1962]], pp. 356–358.</ref>) Buchanan, however, distrusted Scott (the two had long been political adversaries) and ignored his recommendations.<ref>Baker, pp. 76, 133.</ref> After Lincoln's election, Buchanan directed War Secretary Floyd to reinforce southern forts with such provisions, arms and men as were available; however, Floyd convinced him to revoke the order.<ref name="Klein 1962 pp. 356"/>
+
+With Lincoln's victory, talk of secession and disunion reached a boiling point. Buchanan was forced to address it in his final message to Congress. Both factions awaited news of how Buchanan would deal with the question. In his message,<ref>{{cite web|url=http://www.presidency.ucsb.edu/ws/index.php?pid=29501|title=James Buchanan, Fourth Annual Message to Congress on the State of the Union, December 3, 1860|publisher=The American Presidency Project|accessdate=2012-04-28}}</ref> Buchanan denied the legal right of states to secede but held that the federal government legally could not prevent them. He placed the blame for the crisis solely on "intemperate interference of the Northern people with the question of slavery in the Southern States", and suggested that if they did not "repeal their unconstitutional and obnoxious enactments ... the injured States, after having first used all peaceful and constitutional means to obtain redress, would be justified in revolutionary resistance to the Government of the Union."<ref name=1860message>[[#Buchanan1860|Buchanan (1860)]]</ref> Buchanan's only suggestion to solve the crisis was "an explanatory amendment" reaffirming the constitutionality of slavery in the states, the fugitive slave laws, and [[popular sovereignty]] in the territories.<ref name=1860message /> His address was sharply criticized both by the north, for its refusal to stop secession, and the south, for denying its right to secede.<ref>[[#Klein|Klein 1962]], p. 363.</ref> Five days after the address was delivered, Treasury Secretary [[Howell Cobb]] resigned, feeling that his views and the President's had become irreconcilable.<ref>{{cite news |title=The Resignation of Secretary Cobb. The Correspondence. |date=December 14, 1860 |work=The New York Times |url=http://www.nytimes.com/1860/12/14/news/the-resignation-of-secretary-cobb-the-correspondence.html}}</ref> [[File:Buchanan as Dog Buck 1861.tif|thumb|300px|right|[[Columbia (name)|Columbia]] as [[Little Bo Peep]]; her lost sheep are the Southern states. Buchanan as "dog buck" tries in vain to herd states back into the Union.]]
+
+Efforts were made by statesmen such as Sen. [[John J. Crittenden]], Rep. [[Thomas Corwin]], and former president [[John Tyler]] to negotiate a compromise to stop secession, with Buchanan's support; all failed. Failed efforts to compromise were also made by a group of governors meeting in New York. Buchanan employed a last-minute tactic, in secret, to bring a solution. He attempted in vain to procure President-elect Lincoln's call for a constitutional convention or national referendum to resolve the issue of slavery. Lincoln declined.<ref>[[#Klein|Klein 1962]], pp. 381–387.</ref>
+
+South Carolina declared its secession on December 20, 1860, followed by six other [[Southern United States|slave states]], and, by February 1861, they had formed the [[Confederate States of America]]. As Scott had surmised, the secessionist governments declared eminent domain over federal property within their states; Buchanan and his administration took no action to stop the confiscation of government property.
+
+Beginning in late December, Buchanan reorganized his cabinet, ousting Confederate sympathizers and replacing them with hard-line [[nationalism|nationalists]] [[Jeremiah S. Black]], [[Edwin M. Stanton]], [[Joseph Holt]] and [[John Adams Dix|John A. Dix]]. These conservative Democrats strongly believed in American nationalism and refused to countenance secession. At one point, Treasury Secretary Dix ordered Treasury agents in New Orleans, "If any man pulls down the [[American flag]], shoot him on the spot." The new cabinet advised Buchanan to request from Congress the authority to call up militias and give himself emergency military powers, and this he did, on January 8, 1861. Nevertheless, by that time Buchanan's relations with Congress were so strained that his requests were rejected out of hand.  Many consider him as the worst President in history for his failure to prevent the American Civil War.<ref>{{cite news|last=Silver|first=Nate|title=Contemplating Obama’s Place in History, Statistically|url=http://fivethirtyeight.blogs.nytimes.com/2013/01/23/contemplating-obamas-place-in-history-statistically/|accessdate=18 April 2014|newspaper=The New York Times|date=23 January 2013}}</ref><ref>{{cite news|last=Lind|first=Michael|title=He's Only Fifth Worst|url=http://www.washingtonpost.com/wp-dyn/content/article/2006/12/01/AR2006120101475.html|accessdate=18 April 2014|newspaper=The Washington Post|date=3 December 2006}}</ref><ref>{{cite news|last=Geoghegan|first=Tom|title=James Buchanan: Worst US president?|url=http://www.bbc.com/news/magazine-22946672|accessdate=18 April 2014|newspaper=BBC News, Washington|date=1 July 2013}}</ref><ref>{{cite news|last=Dunbar|first=Elizabeth|title=James Buchanan worst president, scholars say|url=http://www.poconorecord.com/apps/pbcs.dll/article?AID=/20060219/NEWS/602190356/-1/NEWS01|accessdate=18 April 2014|newspaper=Pocono News|date=19 February 2006}}</ref>
+
+===Fort Sumter===
+Before Buchanan left office, all arsenals and forts in the seceding states were lost (except [[Fort Sumter]], off the coast of [[Charleston, South Carolina]], and three island outposts in Florida), and a fourth of all federal soldiers surrendered to the Texas militia. Knowing that secessionist fervor was strongest in [[South Carolina]], Buchanan made a quiet pact with South Carolina's legislators that he would not reinforce the Charleston garrison in exchange for no interference from the state.<ref name=NYT>{{cite news |title=James Buchanan's Activist Blunder |date=January 5, 2011 |work=The New York Times |url=http://opinionator.blogs.nytimes.com/2011/01/05/james-buchanans-activist-blunder/ }}</ref> However, Buchanan did not inform the Charleston commander, [[Major Robert Anderson]], of the agreement, and on December 26 Anderson violated it by moving his command to Fort Sumter. Southerners responded with a demand that Buchanan remove Anderson, while northerners demanded support for the commander. On December 31, in an apparent panic and without consulting Anderson, Buchanan ordered reinforcements.<ref name=NYT />
+
+On January 5, Buchanan sent civilian steamer ''[[Star of the West]]'' to carry reinforcements and supplies to Fort Sumter, which, located in Charleston harbor, was a conspicuously visible spot in the Confederacy. On January 9, 1861, South Carolina state batteries opened fire on the ship, causing it to withdraw and return to New York. Buchanan was again criticized by both north (for lack of retaliation against the hostile South Carolina batteries) and south (for attempting to reinforce Fort Sumter), further alienating both factions.<ref name=NYT /><ref name=presidentprofiles>{{cite web|url=http://www.presidentprofiles.com/Washington-Johnson/James-Buchanan-Fort-sumter.html|title=James Buchanan - Fort sumter|publisher=Profiles of U. S. Presidents|accessdate=2012-04-28}}</ref> Paralyzed, Buchanan made no further moves either to prepare for war or to avert it.
+
+On Buchanan's final day as president, March 4, 1861, he remarked to the incoming Lincoln, "If you are as happy in entering the White House as I shall feel on returning to [[Wheatland (Lancaster)|Wheatland]], you are a happy man."<ref name="Baker 140">[[#Baker|Baker 2004]], p. 140.</ref>
+
+===Presidential cabinet===
+{{Infobox U.S. Cabinet
+|align=left
+|clear=yes
+|Name=Buchanan
+|President=James Buchanan
+|President start=1857
+|President end=1861
+|Vice President=[[John C. Breckinridge]]
+|Vice President start=1857
+|Vice President end=1861
+|State=[[Lewis Cass]]
+|State start=1857
+|State end=1860
+|State 2=[[Jeremiah S. Black]]
+|State start 2=1860
+|State end 2=1861
+|War=[[John B. Floyd]]
+|War start=1857
+|War end=1860
+|War 2=[[Joseph Holt]]
+|War start 2=1860
+|War end 2=1861
+|Treasury=[[Howell Cobb]]
+|Treasury start=1857
+|Treasury end=1860
+|Treasury 2=[[Philip Francis Thomas]]
+|Treasury start 2=1860
+|Treasury end 2=1861
+|Treasury 3=[[John Adams Dix]]
+|Treasury date 3=1861
+|Justice=[[Jeremiah S. Black]]
+|Justice start=1857
+|Justice end=1860
+|Justice 2=[[Edwin M. Stanton]]
+|Justice start 2=1860
+|Justice end 2=1861
+|Post=[[Aaron V. Brown]]
+|Post start=1857
+|Post end=1859
+|Post 2=[[Joseph Holt]]
+|Post start 2=1859
+|Post end 2=1860
+|Post 3=[[Horatio King]]
+|Post date 3=1861
+|Navy=[[Isaac Toucey]]
+|Navy start=1857
+|Navy end=1861
+|Interior=[[Jacob Thompson]]
+|Interior start=1857
+|Interior end=1861
+}}
+[[File:Buchanan Cabinet.jpg||375px|thumb|right|''President Buchanan and his Cabinet''<br />From left to right: [[Jacob Thompson]], [[Lewis Cass]], [[John B. Floyd]], James Buchanan, [[Howell Cobb]], [[Isaac Toucey]], [[Joseph Holt]] and [[Jeremiah S. Black]], (c. 1859)]]
+{{Clear}}
+
+===Judicial appointments===
+{{Main|List of federal judges appointed by James Buchanan}}
+Buchanan appointed one Justice to the [[Supreme Court of the United States]], [[Nathan Clifford]]. Buchanan appointed only seven other Article III federal judges, all to [[United States district court]]s. He also appointed two Article I judges to the [[United States Court of Claims]].
+
+===States admitted to the Union===
+* [[Minnesota]]&nbsp;– May 11, 1858
+* [[Oregon]]&nbsp;– February 14, 1859
+* [[Kansas]]&nbsp;– January 29, 1861
+
+==Final years==
+[[File:James Buchanan - post presidency.jpg|thumb|200px|right|Buchanan in his later years]]
+The Civil War erupted within two months of Buchanan's retirement. He supported it, writing to former colleagues that "the assault upon Sumter was the commencement of war by the Confederate states, and no alternative was left but to prosecute it with vigor on our part".<ref name=Birkner>{{cite web|last=Birkner|first=Michael|url=http://webcache.googleusercontent.com/search?q=cache:KXPIepj3U_4J:www.lancasterhistory.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1239%26Itemid%3D280+&cd=10&hl=en&ct=clnk&gl=us|title=Buchanan's Civil War|date=September 20, 2005|accessdate=2013-12-22}}</ref> He also wrote a letter to his fellow Pennsylvania Democrats, urging them to "join the many thousands of brave & patriotic volunteers who are already in the field".<ref name=Birkner />
+
+However, Buchanan spent most of his remaining years defending himself from public blame for the Civil War, which was even referred to by some as "Buchanan's War".<ref name=Birkner /> He began receiving angry and threatening letters daily, and stores displayed Buchanan's likeness with the eyes inked red, a noose drawn around his neck and the word "TRAITOR" written across his forehead. The Senate proposed a resolution of condemnation (it failed), and newspapers accused him of colluding with the Confederacy. His former cabinet members, five of whom had been given jobs in the Lincoln administration, refused to defend Buchanan publicly.<ref>[[#Klein|Klein 1962]], pp. 408–413.</ref>
+
+Initially so disturbed by the attacks that he fell ill and depressed, Buchanan finally began defending himself in October 1862, in an exchange of letters between himself and [[Winfield Scott]] that was published in the ''[[National Intelligencer]]'' newspaper.<ref>[[#Klein|Klein 1962]], pp. 417–418.</ref> He soon began writing his fullest public defense, in the form of his memoir ''Mr. Buchanan's Administration on the Eve of Rebellion'', which was published in 1866.
+
+Buchanan caught a cold in May 1868, which quickly worsened due to his advanced age. He died on June 1, 1868, from [[respiratory failure]] at the age of 77 at his home at [[Wheatland (Lancaster)|Wheatland]] and was interred in [[Woodward Hill Cemetery]] in Lancaster.
+
+==Personal life==
+[[File:William Rufus King..jpg|thumb|[[William R. King|William Rufus DeVane King]], 13th [[Vice President of the United States]], a friend of James Buchanan, with whom he shared a Washington boardinghouse.]]
+In 1818, Buchanan met Anne Caroline Coleman at a grand ball at Lancaster's White Swan Inn, and the two began courting. Anne was the daughter of the wealthy iron manufacturing businessman (and protective father) Robert Coleman and sister-in-law of Philadelphia judge [[Joseph Hemphill]], one of Buchanan's colleagues from the House of Representatives. By 1819, the two were engaged, but could spend little time together; Buchanan was extremely busy with his law firm and political projects during the [[Panic of 1819]], which took him away from Coleman for weeks at a time. Conflicting rumors abounded, suggesting that he was marrying her for her money, because his own family was less affluent, or that he was involved with other women. Buchanan never publicly spoke of his motives or feelings, but letters from Anne revealed she was paying heed to the rumors.
+
+After Buchanan visited a friend's wife, Coleman broke off the engagement. She died suddenly soon afterward, on December 9, 1819. The records of a Dr. Chapman, who looked after her in her final hours, and who commented just after her death that it was "the first instance he ever knew of [[Female hysteria|hysteria]] producing death", reveal that he theorized, despite the absence of any valid evidence, that she had overdosed on [[laudanum]], a concentrated tincture of opium.<ref name="AH">{{cite journal |author=Klein, Philip Shriver |journal=American Heritage Magazine |title=The Lost Love of a Bachelor President |date = December 1955|volume=7 |issue=1 |url=http://www.americanheritage.com/content/lost-love-bachelor-president |accessdate=2012-11-29 }}</ref> Buchanan was prevented from attending the funeral service. In a letter to her father he wrote, however, that "I feel happiness has fled from me forever."<ref name="ReferenceA">Charles Dunn, ''The scarlet thread of scandal: Morality and the American presidency'', Maryland, 2001</ref>
+
+After Coleman's death, Buchanan never courted another woman or seemed to show any emotional or physical interest; a rumor circulated of an affair with President [[James K. Polk]]'s widow, [[Sarah Childress Polk]] but it had no basis.<ref name="ReferenceB">Robert Watson, ''Affairs of State: The untold story of presidential love sex and scandal, 1789-1900'', Plymouth, 2012</ref> It has been suggested that Anne's death in fact served to deflect awkward questions about his sexuality and bachelorhood.<ref name="ReferenceA"/> While Buchanan may have been [[asexuality|asexual]] or [[celibate]], there are many indicators that suggest he was [[homosexual]]. The argument has been put forward by Shelley Ross, biographer Jean Baker, sociologist [[James W. Loewen]], Robert P. Watson, and historian John Howard.<ref>{{cite web|url=http://www.salon.com/2012/05/14/our_real_first_gay_president/|title=Our real first gay president|last=Loewen|first=Jim|work=Salon|publisher=Salon Media Group, Inc.|date=May 14, 2012|accessdate=February 19, 2014}}</ref>
+
+A source of this interest has been Buchanan's close and intimate relationship with [[William R. King|William Rufus King]] (who became Vice President under [[Franklin Pierce]]). The two men lived together in a Washington boardinghouse for 10 years from 1834 until King's departure for France in 1844, after which point they never again shared a residence. King referred to the relationship as a "communion",<ref name="ReferenceB"/> and the two attended social functions together. Contemporaries also noted the closeness. [[Andrew Jackson]] called them "Miss Nancy" and "Aunt Fancy" (the former being a 19th-century euphemism for an effeminate man<ref>''The Wordsworth Book of Euphemisms'' by Judith S. Neaman and Carole G. Silver (Wordsworth Editions Ltd., Hertfordshire)</ref>), while [[Aaron V. Brown]] referred to King as Buchanan's "better half".<ref name="Baker 75">[[#Baker|Baker 2004]], p. 75.</ref> James W. Loewen described Buchanan and King as "siamese twins." In later years Kat Thompson, the wife of a cabinet member, expressed her anxiety that "there was something unhealthy in the president's attitude".<ref name="ReferenceB"/>
+
+Buchanan adopted King's mannerisms and romanticised view of southern culture. Both had strong political ambitions and in 1844 they planned to run as president and vice president. One historian has found them both to be soft, effeminate, and eccentric.<ref name="ReferenceB"/> In May 1844, Buchanan wrote to Cornelia Roosevelt, "I am now 'solitary and alone,' having no companion in the house with me. I have gone a wooing to several gentlemen, but have not succeeded with any one of them. I feel that it is not good for man to be alone, and [I] should not be astonished to find myself married to some old maid who can nurse me when I am sick, provide good dinners for me when I am well, and not expect from me any very ardent or romantic affection."<ref name="ReferenceB"/>
+
+King became ill in 1853 and died of tuberculosis shortly after Pierce's inauguration, four years before Buchanan became President. Buchanan described him as "among the best, the purest and most consistent public men I have known."<ref name="ReferenceB"/> The length and intimacy of their surviving letters illustrate "the affection of a special friendship."
+
+Buchanan remained a [[bachelor]]; during his presidency his orphaned niece, [[Harriet Lane]], whom he had adopted, served as official White House hostess.<ref>{{cite web|title=Harriet Lane|url=http://www.whitehouse.gov/about/first-ladies/harrietlane|work=The White House - Our First Ladies|publisher=The White House|accessdate=11 May 2013}}</ref>
+
+==Legacy==
+{{CSS image crop|Image = BUCHANAN, James-President (BEP engraved portrait).jpg |bSize = 325|cWidth = 230|cHeight = 270|oTop = 45|oLeft = 50|Location = right|Description = [[Bureau of Engraving and Printing|BEP]] engraved portrait of Buchanan as President. }}
+
+The day before his own death, Buchanan predicted that "history will vindicate my memory".<ref name="state park">{{cite web|url=http://www.dcnr.state.pa.us/stateParks/parks/buchanansbirthplace.aspx|title=Buchanan's Birthplace State Park|work=Pennsylvania State Parks|publisher=Pennsylvania Department of Conservation and Natural Resources|accessdate=2009-03-28}}</ref> Nevertheless, historians criticize Buchanan for his unwillingness or inability to act in the face of secession. [[Historical rankings of United States Presidents]], considering presidential achievements, leadership qualities, failures and faults, consistently place Buchanan among the least successful presidents.<ref name="us news poll">{{cite web |url=http://www.usnews.com/usnews/news/worstpresidents/|title=The 10 Worst Presidents|last=Tolson|first=Jay|date=February 16, 2007|publisher=[[U.S. News & World Report]]|accessdate=2009-03-26}}</ref><ref name="times poll">{{cite news|url=http://www.timesonline.co.uk/tol/news/world/us_and_americas/us_elections/article5029204.ece|title=The 10 worst presidents to have held office|last=Hines|first=Nico|date=October 28, 2008|work=The Times |accessdate=2009-03-26 | location=London}}</ref> In an academic poll of 47 British academics specializing in American history and politics in 2011, it was reported that he came last (40th). They were asked to evaluate the performance of every president from 1789 to 2009 (excluding [[William Henry Harrison]] and [[James Garfield]], both of whom died shortly after taking office) in five categories: vision/agenda-setting, domestic leadership, foreign policy leadership, moral authority and positive historical significance of their legacy.<ref>{{cite news| url=http://www.bbc.co.uk/news/world-us-canada-12195111 |work=BBC News | title=The top US presidents: First poll of UK experts | date=January 17, 2011}}</ref>
+
+Buchanan biographer Philip Klein put these rankings into context commenting, "Buchanan assumed leadership ... when an unprecedented wave of angry passion was sweeping over the nation. That he held the hostile sections in check during these revolutionary times was in itself a remarkable achievement. His weaknesses in the stormy years of his presidency were magnified by enraged partisans of the North and South. His many talents, which in a quieter era might have gained for him a place among the great presidents, were quickly overshadowed by the cataclysmic events of civil war and by the towering [[Abraham Lincoln]]."<ref>[[#Klein|Klein 1962]], p. 429.</ref>
+
+Others criticized Buchanan as well. Years before Buchanan won the White House, President [[James K. Polk]] confided to his diary: "Mr. Buchanan is an able man, but is in small matter without judgment and sometimes acts like an old maid."<ref>[[James K. Polk]], ''Polk: The Diary of a President 1845–1849'', ed. Allan Nevins (London: Longmans, Green, 1929, p. 355 (February 27, 1849), quoted in Walter R. Borneman, ''Polk: The Man Who Transformed the Presidency and America''. New York: Random House, 2008 ISBN 978-1-4000-6560-8, p. 335.</ref> The ''National Intelligencer,'' the leading Whig newspaper of the day, ridiculed Buchanan on January 24, 1859, for his follies as president, citing a series of his "magnificent" proposals that all failed:
+:We must retrench the extravagant list of magnificent schemes which received the sanction of the Executive ... the great Napoleon himself, with all the resources of an empire at his sole command, never ventured the simultaneous accomplishments of so many daring projects. The acquisition of Cuba ...&nbsp;; the construction of a Pacific Railroad ...&nbsp;; a Mexican protectorate, the international preponderance in Central America, in spite of all the powers of Europe; the submission of distant South American states; ... the enlargement of the Navy; a largely increased standing Army ... what government on earth could possibly meet all the exigencies of such a flood of innovations?<ref>{{cite book|author=Bruce Chadwick|title=1858: Abraham Lincoln, Jefferson Davis, Robert E. Lee, Ulysses S. Grant and the War They Failed to See|url=http://books.google.com/books?id=uMMyGtjNOXMC&pg=PA251|year=2011|publisher=Sourcebooks|pages=251–52}}</ref>
+
+Buchanan is remembered today for other missed opportunities rather than any significant accomplishments.  He vetoed the [[Morrill Act]] and the [[Homestead Act]], both of which Lincoln signed into law only a few years later, and which would prove to be two of the most influential pieces of legislation passed in the United States in the nineteenth century.{{citation needed|date=May 2013}} The Homestead Act accelerated westward expansion, while the Morrill Act accelerated agricultural and engineering research and education to develop the young nation.
+
+A bronze and granite memorial residing near the southeast corner of Washington, D.C.'s [[Meridian Hill Park]] was designed by architect William Gorden Beecher and sculpted by Maryland artist [[Hans Schuler]]. Commissioned in 1916 but not approved by the [[U.S. Congress]] until 1918, and not completed and unveiled until June 26, 1930, the memorial features a statue of Buchanan bookended by male and female classical figures representing law and diplomacy, with the engraved text reading: "The incorruptible statesman whose walk was upon the mountain ranges of the law", a quote from a member of Buchanan's cabinet, [[Jeremiah S. Black]].[[File:BuchananmonmtDC.JPG|thumb|250px|Buchanan memorial, Washington, D.C.]] The memorial in the nation's capital complemented an earlier monument, constructed in 1907–08 and dedicated in 1911, on the site of Buchanan's birthplace in [[Buchanan's Birthplace State Park|Stony Batter, Pennsylvania]].<ref>{{cite web |url=http://www.dcnr.state.pa.us/stateparks/findapark/buchanansbirthplace/index.htm |title=Buchanan's Birthplace State Park |accessdate=2012-06-04}}</ref> Part of the original {{convert|18.5|acre|m2|sing=on}} memorial site, is a 250-ton pyramid structure which stands on the site of the original cabin where Buchanan was born. The monument was designed to show the original weathered surface of the native rubble and mortar.
+
+Three counties are named in his honor: [[Buchanan County, Iowa]], [[Buchanan County, Missouri]], and [[Buchanan County, Virginia]]. Another in Texas was christened in 1858 but renamed [[Stephens County, Texas|Stephens County]], after the newly elected Vice President of the Confederate States of America, [[Alexander Stephens]], in 1861.<ref name="texas county">{{cite book |last=Beatty |first=Michael A. |title=County Name Origins of the United States |publisher=McFarland |location=Jefferson, N.C. |year=2001 |page=310 |isbn=0-7864-1025-6}}</ref>
+
+==See also==
+* [[Historical rankings of United States Presidents]]
+* [[List of Presidents of the United States]]
+* [[Presidential Dollar]]
+* [[U.S. Presidents on U.S. postage stamps]]
+{{Portal bar|American Civil War|Biography|Government of the United States|Latter-day Saints|Lancaster, Pennsylvania|Pennsylvania}}
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+* {{Cite book|last=Baker|first=Jean H.|title=James Buchanan|publisher=Times Books|location=New York|year=2004|isbn=0-8050-6946-1|ref=Baker}} [http://www.amazon.com/dp/0805069461 excerpt and text search]
+* {{Cite book|last=Curtis|first=George Ticknor|title=Life of James Buchanan|url=http://books.google.com/?id=32wFAAAAQAAJ|accessdate=2009-04-15|ref=Curtis|year=1883|publisher=Harper & Brothers}}
+* {{Cite book|last=Klein|first=Philip S.|title=President James Buchanan: A Biography|publisher=American Political Biography Press|location=Newtown, Connecticut|ref=Klein|year=1962|edition=1995|isbn=0-945707-11-8}}
+* {{cite book|last=Nevins|first=Allan|title=The Emergence of Lincoln: Douglas, Buchanan, and Party Chaos, 1857–1859|year=1950|publisher=Scribner|location=New York|isbn=9780684104157}}
+* {{cite book|last=Potter|first=David M.|title=The Impending Crisis, 1848–1861|year=1976|publisher=Harper & Row|location=New York|isbn=9780060905248|ref=Potter}}
+* {{cite book|last=Rhodes|first=James Ford|title=History of the United States from the Compromise of 1850 to the End of the Roosevelt Administration|volume=2|year=1906|publisher=Macmillan|url=http://books.google.com/books?id=5G9KAAAAYAAJ}}
+* {{cite book|last=Stampp|first=Kenneth M.|title=America in 1857: A Nation on the Brink|year=1990|publisher=Oxford University Press|location=New York|isbn=9780195074819|url=http://www.questia.com/PM.qst?a=o&d=24268497}}
+
+;Primary sources
+* Buchanan, James. ''[http://www.presidency.ucsb.edu/ws/?pid=29501 Fourth Annual Message to Congress.]'' (1860, December 3).
+* Buchanan, James. '' [http://deila.dickinson.edu/theirownwords/title/0010.htm Mr Buchanan's Administration on the Eve of the Rebellion]'' (1866)
+* ''National Intelligencer'' (1859)
+
+==Further reading==
+* Binder, Frederick Moore. "James Buchanan: Jacksonian Expansionist" ''Historian'' 1992 55(1): 69–84. ISSN 0018-2370 Full text: in Ebsco
+* Binder, Frederick Moore. ''James Buchanan and the American Empire.'' Susquehanna U. Press, 1994.
+* Birkner, Michael J., ed. ''James Buchanan and the Political Crisis of the 1850s.'' Susquehanna U. Press, 1996.
+* {{cite book|author=George Ticknor Curtis|title=Life of James Buchanan: Fifteenth President of the United States|url=http://books.google.com/books?id=Mn8SAAAAYAAJ|year=1883|publisher=Harper & Brothers}} vol 2 online
+* Meerse, David. "Buchanan, the Patronage, and the Lecompton Constitution: a Case Study" ''Civil War History'' 1995 41(4): 291–312. ISSN 0009-8078
+* [[Allan Nevins|Nevins, Allan]]. ''The Emergence of Lincoln'' 2 vols. (1960) highly detailed narrative of his presidency
+* Nichols, Roy Franklin; ''The Democratic Machine, 1850–1854'' (1923), [http://www.questia.com/PM.qst?a=o&d=1112776 detailed narrative; online]
+* Potter, David Morris. ''The Impending Crisis, 1848–1861'' (1976). ISBN 0-06-013403-8 Pulitzer prize.
+* Quist, John W. and Birkner, Michael J. (eds.), ''james Buchanan and the Coming of the Civil War.'' Gainesville, FL: University Press of Florida, 2013.
+* Rhodes, James Ford ''History of the United States from the Compromise of 1850 to the McKinley-Bryan Campaign of 1896'' vol 2. (1892)
+* Smith, Elbert B. ''The Presidency of James Buchanan'' (1975). ISBN 0-7006-0132-5, standard history of his administration
+* [[John Updike|Updike, John]] ''Buchanan Dying: A Play'' (1974). ISBN 0-394-49042-8, ISBN 0-8117-0238-3, containing an 80-page historical "Afterword" that discusses sources, etc.
+
+==External links==
+{{Wikisource author}}
+{{Wikiquote}}
+{{Commons}}
+{{CongBio|B001005}}
+* [http://www.loc.gov/rr/program/bib/presidents/buchanan/index.html James Buchanan: A Resource Guide] from the Library of Congress
+* [http://www.whitehouse.gov/history/presidents/jb15.html Biography of James Buchanan] (Official [[White House]] site)
+* The [http://www2.hsp.org/collections/manuscripts/b/Buchanan0091.html James Buchanan papers], spanning the entirety of his legal, political and diplomatic career, are available for research use at the [[Historical Society of Pennsylvania]].
+* [http://www.americanpresident.org/history/jamesbuchanan University of Virginia article: Buchanan biography]
+* [http://www.wheatland.org/ Wheatland]
+* [http://www.tulane.edu/~sumter/Buchanan.html James Buchanan] at [[Tulane University]]
+* [http://www.millercenter.virginia.edu/index.php/academic/americanpresident/buchanan Essay on James Buchanan and shorter essays on each member of his cabinet and First Lady] from the [[Miller Center of Public Affairs]]
+* [http://www.dcnr.state.pa.us/stateparks/parks/buchanansbirthplace.aspx Buchanan's Birthplace State Park, Franklin County, Pennsylvania]
+* [http://americanpresidents.org/presidents/president.asp?PresidentNumber=15 James Buchanan] at [[C-SPAN]]'s ''[[American Presidents: Life Portraits]]''
+
+;Primary sources
+* {{gutenberg author |id=James_Buchanan | name=James Buchanan}}
+*[http://www.shapell.org/manuscript.aspx?james-buchanan-ill-before-inauguration-declines-jefferson-davis-invite James Buchanan Ill with Dysentery Before Inauguration: Original Letters] Shapell Manuscript Foundation
+* [http://kdl.kyvl.org/cgi/t/text/text-idx?c=kyetexts;cc=kyetexts;xc=1&idno=B96-16-36620125&view=toc ''Mr. Buchanans Administration on the Eve of the Rebellion''. President Buchanans memoirs.]
+* [http://www.usa-presidents.info/inaugural/buchanan.html Inaugural Address]
+* [http://www.presidency.ucsb.edu/ws/index.php?pid=29501 Fourth Annual Message to Congress, December 3, 1860]
+
+{{Navboxes
+|title=Offices and distinctions
+|list1=
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Jacob Hibshman]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Pennsylvania|House of Representatives]]<br>from [[Pennsylvania's 3rd congressional district|Pennsylvania's 3rd (Seat 1) congressional district]]|years=1821–1823}}
+{{s-aft|after=[[Daniel H. Miller|Daniel Miller]]}}
+{{s-bef|before=[[James S. Mitchell|James Mitchell]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Pennsylvania|House of Representatives]]<br>from [[Pennsylvania's 4th congressional district|Pennsylvania's 4th (Seat 1) congressional district]]|years=1823–1831}}
+{{s-aft|after=[[William Muhlenberg Hiester|William Hiester]]}}
+{{s-bef|before=[[Philip Pendleton Barbour|Philip Barbour]]}}
+{{s-ttl|title=Chairperson of the [[United States House Committee on the Judiciary|House Judiciary Committee]]|years=1829–1831}}
+{{s-aft|after=[[Warren R. Davis|Warren Davis]]}}
+{{s-dip}}
+{{s-bef|before=[[John Randolph of Roanoke|John Randolph]]}}
+{{s-ttl|title=[[United States Ambassador to Russia|United States Minister to Russia]]|years=1832–1833}}
+{{s-aft|after=[[Mahlon Dickerson]]}}
+{{s-bef|before=[[Joseph Reed Ingersoll|Joseph Ingersoll]]}}
+{{s-ttl|title=[[United States Ambassador to the United Kingdom|United States Minister to the Court of St. Jame's]]|years=1853–1856}}
+{{s-aft|after=[[George M. Dallas|George Dallas]]}}
+{{s-par|us-sen}}
+{{s-bef|before=[[William Wilkins (U.S. politician)|William Wilkins]]}}
+{{s-ttl|title=[[List of United States Senators from Pennsylvania|United States Senator (Class 3) from Pennsylvania]]|years=1834–1845|alongside=[[Samuel McKean]], [[Daniel Sturgeon]]}}
+{{s-aft|after=[[Simon Cameron]]}}
+{{s-off}}
+{{s-bef|before=[[John C. Calhoun|John Calhoun]]}}
+{{s-ttl|title=[[United States Secretary of State]]|years=1845–1849}}
+{{s-aft|after=[[John M. Clayton|John Clayton]]}}
+{{s-bef|before=[[Franklin Pierce]]}}
+{{s-ttl|title=[[President of the United States]]|years=1857–1861}}
+{{s-aft|after=[[Abraham Lincoln]]}}
+{{s-ppo}}
+{{s-bef|before=[[Franklin Pierce]]}}
+{{s-ttl|title=[[Democratic Party (United States)|Democratic]] [[List of United States Democratic Party presidential tickets|presidential nominee]]|years=[[United States presidential election, 1856|1856]]}}
+{{s-aft|after=[[Stephen A. Douglas|Stephen Douglas]]<br>[[John C. Breckinridge|John Breckinridge]]¹}}
+{{s-hon}}
+{{s-bef|before=[[Martin Van Buren]]}}
+{{s-ttl|title=[[Oldest living United States president|Oldest living President of the United States]]|years=1862–1868}}
+{{s-aft|after=[[Millard Fillmore]]}}
+{{s-ref|The Democratic Party split in [[United States presidential election, 1860|1860]], producing two presidential candidates. Douglas was nominated by Northern Democrats; Breckinridge was nominated by Southern Democrats.}}
+}}
+{{Navboxes
+|title=Articles related to James Buchanan
+|list1=
+{{US Presidents}}
+{{USDemPresNominees}}
+{{USSecState}}
+{{USSenPA}}
+{{Polk cabinet}}
+{{Buchanan cabinet}}
+{{US Ambassadors to the UK}}
+{{US House Judiciary chairs}}
+}}
+{{Authority control|LCCN=n/78/95586|VIAF=59878120|GND=11866784X}}
+
+{{Persondata
+|NAME= Buchanan, James
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= fifteenth [[President of the United States]], [[Lawyer]], [[Diplomat]]
+|DATE OF BIRTH= April 23, 1791
+|PLACE OF BIRTH= [[Mercersburg]], [[Pennsylvania]], [[United States|U.S.]]
+|DATE OF DEATH= June 1, 1868
+|PLACE OF DEATH= [[Lancaster, Pennsylvania]], [[United States|U.S.]]
+}}
+{{DEFAULTSORT:Buchanan, James}}
+[[Category:James Buchanan| ]]
+[[Category:1791 births]]
+[[Category:1868 deaths]]
+[[Category:Ambassadors of the United States to Russia]]
+[[Category:Ambassadors of the United States to the United Kingdom]]
+[[Category:American military personnel of the War of 1812]]
+[[Category:American people of Scotch-Irish descent]]
+[[Category:American Presbyterians]]
+[[Category:Deaths from respiratory failure]]
+[[Category:Democratic Party Presidents of the United States]]
+[[Category:Democratic Party (United States) presidential nominees]]
+[[Category:Democratic-Republican Party United States Senators]]
+[[Category:Dickinson College alumni]]
+[[Category:History of the United States (1849–65)]]
+[[Category:Members of the Pennsylvania House of Representatives]]
+[[Category:Members of the United States House of Representatives from Pennsylvania]]
+[[Category:People from Mercersburg, Pennsylvania]]
+[[Category:Pennsylvania Democrats]]
+[[Category:Pennsylvania Federalists]]
+[[Category:Pennsylvania Jacksonians]]
+[[Category:People from Lancaster, Pennsylvania]]
+[[Category:Polk administration cabinet members]]
+[[Category:Presidents of the United States]]
+[[Category:Union political leaders]]
+[[Category:United States presidential candidates, 1852]]
+[[Category:United States presidential candidates, 1856]]
+[[Category:United States Secretaries of State]]
+[[Category:United States Senators from Pennsylvania]]
+[[Category:People of the Utah War]]
+[[Category:Writers from Pennsylvania]]
+[[Category:19th-century American diplomats]]
+[[Category:Presidents of the United States who were Freemasons]]
+[[Category:Federalist Party members of the United States House of Representatives]]
+[[Category:Jacksonian members of the United States House of Representatives]]
+[[Category:Buchanan County, Iowa]]
+[[Category:Buchanan County, Missouri]]
+[[Category:Buchanan County, Virginia]]
+[[Category:Democratic Party members of the United States House of Representatives]]
