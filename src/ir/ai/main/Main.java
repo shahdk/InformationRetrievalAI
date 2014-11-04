@@ -23,7 +23,7 @@ public class Main {
 			"assassinated president", "great president", "first president",
 			"civil war president", "youngest president", "watergate scandal",
 			"first african american president", "cuban missile crisis", "terrorist attack", "founding father",
-			"death by pneumonia", "budget surplus", "no child left behind", "bush tax cuts", "poliomyelitis" };
+			"death by pneumonia", "budget surplus", "no child left behind", "governor", "poliomyelitis" };
 
 	private void printResult(Map<String, ArrayList<DocObject>> result,
 			String algorithm) {
@@ -38,7 +38,7 @@ public class Main {
 				tableValues[i][j] = document.getName();
 				scores[i][j] = String.valueOf(document.getScore());
 				i++;
-				tableValues[i][j] = "";
+				tableValues[i][j] = String.format("%.3f", document.getScore());
 				scores[i][j] = "";
 				i++;
 			}
